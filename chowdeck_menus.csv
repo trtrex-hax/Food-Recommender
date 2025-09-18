@@ -1,0 +1,2027 @@
+restaurant,food,price,taste,location,portion_size,dish_category
+KFC,Streetwise 5 - Large Chips (30%OFF),150.0,7,Accra,N/A,Chowdeck Deals 
+KFC,Streetwise 2 Rice,75.0,7,Accra,N/A,Streetwise Meals
+KFC,Streetwise 2 - Chips,68.0,6.5,Accra,N/A,Streetwise Meals
+KFC,Streetwise 3 - Rice,92.0,7,Accra,N/A,Streetwise Meals
+KFC,Streetwise 3 - Chips,88.0,6.5,Accra,N/A,Streetwise Meals
+KFC,Streetwise 4,126.0,7,Accra,N/A,Streetwise Meals
+KFC,Honey KFC Dunked Wings,87.0,7.8,Accra,N/A,Value Meals
+KFC,Streetwise Wings Meal,47.0,7.5,Accra,N/A,Value Meals
+KFC,Honey Dunked Twister Meal,102.0,7.2,Accra,N/A,Value Meals
+KFC,Honey Dunked Twister,61.0,7.2,Accra,N/A,Value Meals
+KFC,Streetwise Wings Meal Chips,47.0,7.5,Accra,N/A,Value Meals
+KFC,9 Pieces Chicken,251.0,7.2,Accra,N/A,Chicken Pieces and Chicken Buckets
+KFC,12 Pieces Chicken,330.0,7.2,Accra,N/A,Chicken Pieces and Chicken Buckets
+KFC,1 Piece Chicken,30.0,6.8,Accra,N/A,Chicken Pieces and Chicken Buckets
+KFC,15 Pieces Chicken,407.0,7.3,Accra,N/A,Chicken Pieces and Chicken Buckets
+KFC,2 Pieces Chicken,57.0,7,Accra,N/A,Chicken Pieces and Chicken Buckets
+KFC,3 pieces of Full Hot Wings,87.0,7.6,Accra,N/A,Wings/Pops/Nuggets
+KFC,Chicken Bites - Regular,60.0,7,Accra,N/A,Wings/Pops/Nuggets
+KFC,Chicken Bites - Large,70.0,7.2,Accra,N/A,Wings/Pops/Nuggets
+KFC,6 pieces of Full Hot Wings,170.0,7.7,Accra,N/A,Wings/Pops/Nuggets
+KFC,Chicken Bites Bucket,119.0,7.3,Accra,N/A,Wings/Pops/Nuggets
+KFC,BoxMaster Meal,119.0,7.2,Accra,N/A,Twisters
+KFC,Twister Meal,78.0,7.2,Accra,N/A,Twisters
+KFC,Boxmaster,90.0,7.1,Accra,N/A,Twisters
+KFC,Twister,60.0,7.1,Accra,N/A,Twisters
+KFC,Zinger Burger,71.0,7.9,Accra,N/A,Burger and Burger Meals
+KFC,Veg Burger,55.0,6.8,Accra,N/A,Burger and Burger Meals
+KFC,Zinger Burger Meal,95.0,7.8,Accra,N/A,Burger and Burger Meals
+KFC,Tower Burger,90.0,7.6,Accra,N/A,Burger and Burger Meals
+KFC,KFC Loaded Fries,78.0,6.8,Accra,N/A,New
+KFC,Mash and Gravy,25.0,6.5,Accra,N/A,New
+KFC,Extra Tomato Ketchup,6.0,6,Accra,N/A,Sides
+KFC,Extra Zinger Dip,10.0,6.5,Accra,N/A,Sides
+KFC,Large Chips,42.0,6.8,Accra,N/A,Sides
+KFC,Extra Cheese,14.0,6.8,Accra,N/A,Sides
+KFC,Regular Chips,36.0,6.5,Accra,N/A,Sides
+KFC,Extra Hash Brown,14.0,6.6,Accra,N/A,Sides
+KFC,Chips Bucket,66.0,7,Accra,N/A,Sides
+KFC,Extra Colonel Dip,10.0,6.5,Accra,N/A,Sides
+KFC,Coleslaw,12.0,7,Accra,N/A,Sides
+KFC,KFC Spicy Rice,35.0,7.2,Accra,N/A,Sides
+KFC,Extra Veg Shito,6.0,7.2,Accra,N/A,Sides
+KFC,Sprite 300ML,14.0,N/A,Accra,N/A,Cold Drinks and Water
+KFC,Mineral Water 500ML,7.0,N/A,Accra,N/A,Cold Drinks and Water
+KFC,Coke 300ML,14.0,N/A,Accra,N/A,Cold Drinks and Water
+KFC,Fanta 300ML,14.0,N/A,Accra,N/A,Cold Drinks and Water
+Just Taste,Assorted Fried Rice medium pack,45.0,8.2,Accra,N/A,Fried Rice Dishes
+Just Taste,Fried Rice with Fried Chicken medium pack,47.0,8.5,Accra,N/A,Fried Rice Dishes
+Just Taste,Assorted Rice Heavy Loaded,55.0,8.7,Accra,N/A,Fried Rice Dishes
+Just Taste,Special Fried Rice,65.0,8.9,Accra,N/A,Fried Rice Dishes
+Just Taste,Fried Rice with Fried Chicken Heavy Loaded,55.0,8.6,Accra,N/A,Fried Rice Dishes
+Just Taste,Assorted Rice with Chicken Thigh,55.0,8.3,Accra,N/A,Fried Rice Dishes
+Just Taste,Egg and Tuna Salad,40.0,7.2,Accra,N/A,Salads
+Just Taste,Vegetable Salad,25.0,6.8,Accra,N/A,Salads
+Just Taste,Assorted Jollof Heavy Loaded,60.0,8.8,Accra,N/A,Jollof Dishes
+Just Taste,Assorted Jollof medium pack,47.0,8.4,Accra,N/A,Jollof Dishes
+Just Taste,Egg indomie,35.0,7.1,Accra,N/A,Noodles
+Just Taste,Chicken indomie,45.0,7.4,Accra,N/A,Noodles
+Just Taste,Assorted noodles heavy loaded,50.0,7.6,Accra,N/A,Noodles
+Just Taste,Jollof Rice Heavy Loaded,50.0,8.7,Accra,N/A,Jollof Dishes
+Just Taste,Beef indomie,45.0,7.2,Accra,N/A,Noodles
+Just Taste,Potatoes with Fried Chicken,65.0,7.9,Accra,N/A,Yam & Potato Dishes
+Just Taste,Yam Chips with Fried Chicken,45.0,7.6,Accra,N/A,Yam & Potato Dishes
+Just Taste,Assorted indomie,50.0,7.5,Accra,N/A,Noodles
+Bliss on Plate,Jollof Rice with Chicken,57.5,7.8,Accra,N/A,Rice Meal
+Bliss on Plate,Chicken Fried Rice Special,46.0,7.6,Accra,N/A,Rice Meal
+Bliss on Plate,Fried Rice With Chicken,57.5,7.4,Accra,N/A,Rice Meal
+Bliss on Plate,Assorted Fried Rice,69.0,7.3,Accra,N/A,Assorted Meal
+Bliss on Plate,Assorted Jollof Rice,69.0,7.5,Accra,N/A,Assorted Meal
+Bliss on Plate,Chicken Jollof Rice Special,46.0,7.6,Accra,N/A,Rice Meal
+Bliss on Plate,FriedRice Only,23.0,6.8,Accra,N/A,Rice Meal
+Bliss on Plate,Jollof Rice Only,23.0,7.0,Accra,N/A,Rice Meal
+Bliss on Plate,Fried Chicken,23.0,7.2,Accra,N/A,Protein 
+Bliss on Plate,Spring Rolls 3pcs,23.0,6.9,Accra,N/A,Appetiser 
+Bliss on Plate,Black Pepper Sauce,17.25,6.8,Accra,N/A,Others
+Bliss on Plate,Potato Chips With Fried Chicken,57.5,7.1,Accra,N/A,Fries Meal
+Bliss on Plate,Potato Chips Loaded,130.0,7.3,Accra,N/A,Fries Meal
+Bliss on Plate,Loaded Fries Mini,90.0,7.2,Accra,N/A,Fries Meal
+Pizzaman Chickenman,Spicy Wings 24Pcs,264.0,7.9,Accra,N/A,Wings
+Pizzaman Chickenman,Spicy Wings 10pcs,121.0,7.7,Accra,N/A,Wings
+Pizzaman Chickenman,Noodles Mini,132.0,7.0,Accra,N/A,Noodles
+Pizzaman Chickenman,Noodles Maxi,170.5,7.2,Accra,N/A,Noodles
+Pizzaman Chickenman,Jollof KƐ KƆKƆƆ(REGULAR),115.5,8.1,Accra,N/A,Jollof Rice
+Pizzaman Chickenman,Guyman Jollof (Beef),53.9,7.9,Accra,N/A,Guyman
+Pizzaman Chickenman,Guyman Fried Rice (Beef),53.9,7.6,Accra,N/A,Guyman
+Pizzaman Chickenman,Classic Wings 24Pcs,264.0,7.8,Accra,N/A,Wings
+Pizzaman Chickenman,Classic Wings 10pcs,121.0,7.6,Accra,N/A,Wings
+Pizzaman Chickenman,Chibella Medium,159.5,7.3,Accra,N/A,Medium
+Pizzaman Chickenman,Triple B Medium,159.5,7.2,Accra,N/A,Medium
+Pizzaman Chickenman,Obiridan Medium,159.5,7.1,Accra,N/A,Medium
+Pizzaman Chickenman,Dukeman Medium,181.5,7.3,Accra,N/A,Medium
+Pizzaman Chickenman,Breezy Medium,170.5,7.4,Accra,N/A,Medium
+Pizzaman Chickenman,Gretaben Medium,159.5,7.0,Accra,N/A,Medium
+Pizzaman Chickenman,Kersame Medium,148.5,6.9,Accra,N/A,Medium
+Pizzaman Chickenman,Triple B Large,209.0,7.5,Accra,N/A,Large
+Pizzaman Chickenman,Obiridan Large,209.0,7.2,Accra,N/A,Large
+Pizzaman Chickenman,Breezy Large,225.5,7.5,Accra,N/A,Large
+Pizzaman Chickenman,Kersame Large,187.0,7.0,Accra
+Pizzaman Chickenman,Gretaben LARGE,209.0,7,Accra,Large,Large
+Pizzaman Chickenman,Dukeman LARGE,242.0,9,Accra,Large,Large
+Pizzaman Chickenman,CHIBELLA LARGE,209.0,6,Accra,Large,Large
+Pizzaman Chickenman,Kersame DOUBLE,272.8,8,Accra,Double,Double
+Pizzaman Chickenman,Breezy DOUBLE,314.6,5,Accra,Double,Double
+Pizzaman Chickenman,CHIBELLA DOUBLE,293.7,7,Accra,Double,Double
+Pizzaman Chickenman,Triple B Double,293.7,10,Accra,Double,Double
+Pizzaman Chickenman,Dukeman DOUBLE,335.5,6,Accra,Double,Double
+Pizzaman Chickenman,Gretaben DOUBLE,293.7,7,Accra,Double,Double
+Pizzaman Chickenman,Obiridan DOUBLE,293.7,8,Accra,Double,Double
+Pizzaman Chickenman,Tampico (0.5L),11.0,5,Accra,Drinks,Drinks
+Pizzaman Chickenman,Malt,20.0,9,Accra,Drinks,Drinks
+Pizzaman Chickenman,Don Simon,55.0,8,Accra,Drinks,Drinks
+Pizzaman Chickenman,Coke (1.5L),38.5,7,Accra,Drinks,Drinks
+Pizzaman Chickenman,Coke (0.5L),16.5,6,Accra,Drinks,Drinks
+Pizzaman Chickenman,Ceres,66.0,9,Accra,Drinks,Drinks
+Pizzaman Chickenman,Bottle Water,5.5,10,Accra,Drinks,Drinks
+Pious Fast Food,Chicken noodles,52.0,5.3,Accra,N/A,Noodles Meals
+Pious Fast Food,Beef indomie,52.0,4.7,Accra,N/A,Noodles Meals
+Pious Fast Food,Chicken indomie,52.0,6.8,Accra,N/A,Noodles Meals
+Pious Fast Food,Sausage Indomie,50.0,3.9,Accra,N/A,Noodles Meals
+Pious Fast Food,Assorted noodles,50.0,7.2,Accra,N/A,Noodles Meals
+Pious Fast Food,Fried Rice with Fried Chicken,60.0,8.1,Accra,N/A,Main Dishes
+Pious Fast Food,Chicken Fried Rice,70.0,6.4,Accra,N/A,Main Dishes
+Pious Fast Food,Egg rice with Chicken,75.0,7.5,Accra,N/A,Main Dishes
+Pious Fast Food,Beef fried rice,70.0,5.6,Accra,N/A,Main Dishes
+Pious Fast Food,Egg rice only,65.0,4.8,Accra,N/A,Main Dishes
+Pious Fast Food,Sausage fried rice with fried chicken,65.0,6.9,Accra,N/A,Main Dishes
+Pious Fast Food,Egg rice with Chicken,75.0,7.8,Accra,N/A,Main Dishes
+Pious Fast Food,Beef fried rice,70.0,6.0,Accra,N/A,Main Dishes
+Papaye,Broasted Chicken Rice without Coleslaw,77.0,6.2,Accra,N/A,Chicken
+Papaye,Grilled Chicken Chips without Coleslaw,85.0,7.9,Accra,N/A,Chicken
+Papaye,Broasted Chicken Chips without Coleslaw,77.0,4.5,Accra,N/A,Chicken
+Papaye,Grilled Chicken Rice without Coleslaw,77.0,5.2,Accra,N/A,Chicken
+Papaye,Mini Chips with Coleslaw,40.0,3.7,Accra,N/A,Chicken
+Papaye,Mini Rice with Coleslaw,40.0,4.9,Accra,N/A,Chicken
+Papaye,Grilled Chicken Chips with Coleslaw,90.0,8.8,Accra,N/A,Chicken
+Papaye,Grilled Chicken Rice with Coleslaw,90.0,9.2,Accra,N/A,Chicken
+Papaye,Broasted Chicken Chips with Coleslaw,80.0,6.1,Accra,N/A,Chicken
+Papaye,Broasted Chicken Rice with Coleslaw,80.0,6.6,Accra,N/A,Chicken
+Papaye,Full Chicken,135.0,8.5,Accra,N/A,Chicken
+Papaye,Fried Fish Rice with Coleslaw,88.0,7.0,Accra,N/A,Fish
+Papaye,Grilled Fish Rice with Coleslaw,88.0,5.5,Accra,N/A,Fish
+Papaye,Grilled Fish Chips with Coleslaw,88.0,8.2,Accra,N/A,Fish
+Papaye,Egg Burger,60.0,4.2,Accra,N/A,Burger
+Papaye,Beef Burger,60.0,6.9,Accra,N/A,Burger
+Papaye,Cheese Burger,65.0,5.8,Accra,N/A,Burger
+Papaye,Cheese Egg Burger,70.0,7.3,Accra,N/A,Burger
+Papaye,Extra  Coleslaw,7.0,3.1,Accra,N/A,Extra
+Papaye,Extra Fries,30.0,6.0,Accra,N/A,Extra
+Pizza Hut,Beef Pepperoni (Boss Pizza),49.0,7.4,Accra,N/A,MID MONTH DEAL
+Pizza Hut,Beef Deluxe. (Boss Pizza),49.0,6.3,Accra,N/A,MID MONTH DEAL
+Pizza Hut,Double Meat. (Boss Pizza),49.0,7.8,Accra,N/A,MID MONTH DEAL
+Pizza Hut,BBQ Meat Feast.  (Boss Pizza),49.0,8.4,Accra,N/A,MID MONTH DEAL
+Pizza Hut,BBQ Meat Feast (Medium Pizza),79.0,7.1,Accra,N/A,MID MONTH DEAL
+Pizza Hut,Beef Deluxe (Medium Pizza),79.0,5.9,Accra,N/A,MID MONTH DEAL
+Pizza Hut,Double Meat (Medium Pizza),79.0,7.6,Accra,N/A,MID MONTH DEAL
+Pizza Hut,Beef Pepperoni  (Medium Pizza),79.0,6.8,Accra,N/A,MID MONTH DEAL
+Pizza Hut,Beef Deluxe Halal,100.0,8.9,Accra,N/A,Meat Pizzas
+Pizza Hut,BBQ Meat Fest,100.0,9.2,Accra,N/A,Meat Pizzas
+Pizza Hut,BBQ Meat Fest Halal,100.0,7.0,Accra,N/A,Meat Pizzas
+Pizza Hut,Super Supreme,110.0,8.3,Accra,N/A,Meat Pizzas
+Pizza Hut,Super Supreme Halal,110.0,9.0,Accra,N/A,Meat Pizzas
+Pizza Hut,Pork Pepperoni,85.0,6.1,Accra,N/A,Meat Pizzas
+Pizza Hut,Beef Pepperoni,85.0,8.8,Accra,N/A,Meat Pizzas
+Pizza Hut,Beef Deluxe,100.0,7.7,Accra,N/A,Meat Pizzas
+Pizza Hut,Double Meat,85.0,5.5,Accra,N/A,Meat Pizzas
+Pizza Hut,Double Meat Halal,85.0,7.4,Accra,N/A,Meat Pizzas
+Pizza Hut,Sweet Chilli Chicken & Feta,90.0,8.5,Accra,N/A,Chicken Pizzas
+Pizza Hut,Tropical Chicken,90.0,7.2,Accra,N/A,Chicken Pizzas
+Pizza Hut,Chicken Supreme,110.0,9.1,Accra,N/A,Chicken Pizzas
+Pizza Hut,BBQ Chicken & Turkey,90.0,7.9,Accra,N/A,Chicken Pizzas
+Pizza Hut,Chicken'n Sweet Corn,90.0,8.2,Accra,N/A,Chicken Pizzas
+Pizza Hut,Hawaiian,75.0,4.8,Accra,N/A,Chicken Pizzas
+Pizza Hut,Spicy Chicken,75.0,5.3,Accra,N/A,Chicken Pizzas
+Pizza Hut,Chicken n Avocado,85.0,6.7,Accra,N/A,Chicken Pizzas
+Pizza Hut,Chicken & Mushroom,85.0,7.6,Accra,N/A,Chicken Pizzas
+Pizza Hut,Margherita,65.0,8.0,Accra,N/A,Veg Pizzas
+Pizza Hut,Cheesy Avocado,75.0,4.9,Accra,N/A,Veg Pizzas
+Pizza Hut,Fiery Veg,75.0,5.4,Accra,N/A,Veg Pizzas
+Pizza Hut,Double Cheese,75.0,7.2,Accra,N/A,Veg Pizzas
+Pizza Hut,Feta & Roasted Veg,80.0,7.7,Accra,N/A,Veg Pizzas
+Pizza Hut,Veg. Delight,75.0,5.6,Accra,N/A,Veg Pizzas
+Pizza Hut,Pork Pepperoni  Melts (Non Halal),65.0,6.0,Accra,N/A,Melts
+Pizza Hut,Fiery Veg Melts,65.0,3.8,Accra,N/A,Melts
+Pizza Hut,Avocado and Cheese Melts,65.0,4.6,Accra,N/A,Melts
+Pizza Hut,Fiery Double Cheese Melts,65.0,6.4,Accra,N/A,Melts
+Pizza Hut,Hot Chicken Melts,65.0,7.0,Accra,N/A,Melts
+Pizza Hut,Avocado Chicken Melts,65.0,7.5,Accra,N/A,Melts
+Pizza Hut,Hot Beef Melts (Non Halal),65.0,6.2,Accra,N/A,Melts
+Pizza Hut,Beef Pepperoni  Melts (Halal),65.0,6.9,Accra,N/A,Melts
+Pizza Hut,Hot Beef Melts (Halal),65.0,4.4,Accra,N/A,Melts
+Pizza Hut,Cheesy Crinkle Fries - Regular,40.0,3.2,Accra,N/A,Sides
+Pizza Hut,Crinkle Fries - Regular,40.0,5.8,Accra,N/A,Sides
+Pizza Hut,Portion of Fries - Large,45.0,7.1,Accra,N/A,Sides
+Pizza Hut,Portion of Fries - Regular,35.0,4.5,Accra,N/A,Sides
+Pizza Hut,Cheesy Fries - Large,45.0,6.8,Accra,N/A,Sides
+Pizza Hut,Cheesy Fries - Regular,40.0,5.2,Accra,N/A,Sides
+Pizza Hut,Crinkle Fries - Large,45.0,7.0,Accra,N/A,Sides
+Pizza Hut,Chilli Fries - Large,45.0,7.8,Accra,N/A,Sides
+Pizza Hut,Chilli Fries - Regular,40.0,6.0,Accra,N/A,Sides
+Pizza Hut,Cheesy Crinkle Fries - Large,45.0,7.6,Accra,N/A,Sides
+Pizza Hut,Cheesy Garlic Twist,55.0,6.9,Accra,N/A,Sides
+Pizza Hut,Garlic Bread Sticks,45.0,6.5,Accra,N/A,Sides
+Pizza Hut,Veg Jollof Rice,35.0,5.3,Accra,N/A,Sides
+Pizza Hut,Jumbo Breaded Wings,80.0,8.6,Accra,N/A,Sides
+Pizza Hut,Jumbo Traditional Wings,80.0,9.0,Accra,N/A,Sides
+Pizza Hut,Crumbed Chicken Strips,80.0,8.1,Accra,N/A,Sides
+Pizza Hut,Guinness,25.0,6.4,Accra,N/A,Beverages
+Pizza Hut,Club Beer,20.0,5.5,Accra,N/A,Beverages
+Pizza Hut,Faragello Cocktail,25.0,7.2,Accra,N/A,Beverages
+Pizza Hut,300 ML Sprite,12.0,6.7,Accra,N/A,Beverages
+Pizza Hut,Faragello Apple,25.0,7.0,Accra,N/A,Beverages
+Pizza Hut,Voltic Water 500 Ml.,8.0,9.8,Accra,N/A,Beverages
+Pizza Hut,300 ML Coke,12.0,7.5,Accra,N/A,Beverages
+Pizza Hut,Faragello Grape,25.0,6.6,Accra,N/A,Beverages
+Pizza Hut,300 ML Fanta,12.0,6.1,Accra,N/A,Beverages
+Pizza Hut,Hut Doubles Medium,220.0,8.8,Accra,N/A,Combos
+Pizza Hut,Hut Doubles Large,310.0,9.1,Accra,N/A,Combos
+Pizza Hut,Dinner Box - Add Fries + Wings,360.0,8.9,Accra,N/A,Combos
+Pizza Hut,Big Boss,400.0,9.4,Accra,N/A,Combos
+Pizza Hut,Hut Doubles Boss,140.0,7.7,Accra,N/A,Combos
+Pizza Hut,Bossu Kids Special,75.0,6.5,Accra,N/A,Combos
+Pizza Hut,Hut Special 1,150.0,9.2,Accra,N/A,Combos
+Pizza Hut,Hut Special 2,210.0,8.6,Accra,N/A,Combos
+Pizza Hut,Wings Special,145.0,9.0,Accra,N/A,Combos
+Pizza Hut,Big Boss Combo,425.0,9.5,Accra,N/A,Combos
+Papa’s Pizza,Medium Margherita (No Pork),106.8,6.8,Accra,N/A,Papa's Youngster
+Papa’s Pizza,Periperi Chicken Wings,144.0,8.4,Accra,N/A,Sides
+Papa’s Pizza,Medium BBQ Lovers,130.0,8.2,Accra,N/A,Papa's Lovers
+Papa’s Pizza,Medium Falaa Freestyler,156.0,9.0,Accra,N/A,Your Own Masterpiece
+Papa’s Pizza,Medium Falaa Freestyler,156.0,9.0,Accra,N/A,Your Own Masterpiece
+Papa’s Pizza,Medium Papa No (No Pork),130.8,7.2,Accra,N/A,Big Bosses
+Papa’s Pizza,Large Falaa Freestyler,204.0,8.8,Accra,N/A,Your Own Masterpiece
+Papa’s Pizza,Large Papa No (No Pork),202.8,7.9,Accra,N/A,Big Bosses
+Papa’s Pizza,Spicy Bbq Chicken Wings,144.0,6.2,Accra,N/A,Sides
+Papa’s Pizza,Large BBQ Lovers,202.8,8.5,Accra,N/A,Papa's Lovers
+Papa’s Pizza,Fried Rice Only (Small),66.0,4.6,Accra,N/A,Portion
+Papa’s Pizza,Large Margherita (No Pork),154.8,7.1,Accra,N/A,Papa's Youngster
+Papa’s Pizza,XL Falaa Freestyler,300.0,9.3,Accra,N/A,Your Own Masterpiece
+Papa’s Pizza,XL BBQ Lovers,298.8,8.2,Accra,N/A,Papa's Lovers
+Papa’s Pizza,XL Papa No (No Pork),298.8,7.0,Accra,N/A,Big Bosses
+Papa’s Pizza,XL Margherita (No Pork),226.8,6.9,Accra,N/A,Papa's Youngster
+Papa’s Pizza,BBQ Chicken Wings,144.0,7.7,Accra,N/A,Sides
+Papa’s Pizza,Fried Rice Only (Big),102.0,5.5,Accra,N/A,Portion
+Papa’s Pizza,Jumbo BBQ Lovers,334.8,8.7,Accra,N/A,Papa's Lovers
+Papa’s Pizza,Jumbo Margherita (No Pork),238.8,6.4,Accra,N/A,Papa's Youngster
+Papa’s Pizza,Jumbo Falaa Freestyler,348.0,9.2,Accra,N/A,Your Own Masterpiece
+Papa’s Pizza,Spicy Pork Chops,168.0,7.8,Accra,N/A,Sides
+Papa’s Pizza,Jumbo Papa No (No Pork),322.8,7.5,Accra,N/A,Big Bosses
+Papa’s Pizza,Jollof Only (Small),66.0,4.8,Accra,N/A,Portion
+Papa’s Pizza,Small Ghanaman (No Pork),94.8,6.2,Accra,N/A,Big Bosses
+Papa’s Pizza,Small Sweet Moments,118.8,8.0,Accra,N/A,Papa's Lovers
+Papa’s Pizza,Jollof Only (Big),102.0,5.2,Accra,N/A,Portion
+Papa’s Pizza,Small Papa's Love,138.8,8.6,Accra,N/A,Your Own Masterpiece
+Papa’s Pizza,Fried Rice and Chicken (Small),142.8,7.4,Accra,N/A,Rice Dishes
+Papa’s Pizza,Medium Ghanaman (No Pork),130.8,6.0,Accra,N/A,Big Bosses
+Papa’s Pizza,Medium Sweet Moments,130.8,7.8,Accra,N/A,Papa's Lovers
+Papa’s Pizza,Medium Papa's Love,180.0,8.7,Accra,N/A,Your Own Masterpiece
+Papa’s Pizza,Large Ghanaman (No Pork),202.8,7.2,Accra,N/A,Big Bosses
+Papa’s Pizza,Large Sweet Moments,178.8,8.1,Accra,N/A,Papa's Lovers
+Papa’s Pizza,Large Papa's Love,228.8,8.9,Accra,N/A,Your Own Masterpiece
+Papa’s Pizza,Fried Rice and Chicken (Big),166.8,6.5,Accra,N/A,Rice Dishes
+Papa’s Pizza,XL Ghanaman (No Pork),250.8,7.7,Accra,N/A,Big Bosses
+Papa’s Pizza,XL Papa's Love,324.0,8.8,Accra,N/A,Your Own Masterpiece
+Papa’s Pizza,XL Sweet Moments,274.8,7.0,Accra,N/A,Papa's Lovers
+Papa’s Pizza,Fried Rice and Portion of Pork (Big),214.8,6.6,Accra,N/A,Rice Dishes
+Papa’s Pizza,Jumbo Sweet Moments,298.8,8.4,Accra,N/A,Papa's Lovers
+Papa’s Pizza,Fried Rice and Half Portion of Pork (Big),154.8,5.0,Accra,N/A,Rice Dishes
+Papa’s Pizza,Jumbo Papa's Love,372.0,9.4,Accra,N/A,Your Own Masterpiece
+Papa’s Pizza,Jumbo Ghanaman (No Pork),274.8,6.9,Accra,N/A,Big Bosses
+Papa’s Pizza,Small Papa's Full House,118.8,8.0,Accra,N/A,Papa's Lovers
+Papa’s Pizza,Small Hot & Spicy (No Pork),96.0,5.7,Accra,N/A,Big Bosses
+Papa’s Pizza,Small Freestyler,156.0,8.5,Accra,N/A,Your Own Masterpiece
+Papa’s Pizza,Fried Rice and Portion of Pork (Small),178.8,6.4,Accra,N/A,Rice Dishes
+Papa’s Pizza,Medium Papa's Full House,130.8,7.6,Accra,N/A,Papa's Lovers
+Papa’s Pizza,Medium Hot & Spicy (No Pork),130.8,5.5,Accra,N/A,Big Bosses
+Papa’s Pizza,Medium Freestyler,192.0,8.3,Accra,N/A,Your Own Masterpiece
+Papa’s Pizza,Fried Rice and Half Portion of Pork (Small),118.8,4.9,Accra,N/A,Rice Dishes
+Papa’s Pizza,Large Hot & Spicy (No Pork),202.8,6.0,Accra,N/A,Big Bosses
+Papa’s Pizza,Large Papa's Full House,214.8,7.8,Accra,N/A,Papa's Lovers
+Papa’s Pizza,Jollof Rice and Portion of Pork (Big),214.8,6.8,Accra,N/A,Rice Dishes
+Papa’s Pizza,Large Freestyler,264.0,9.1,Accra,N/A,Your Own Masterpiece
+Papa’s Pizza,XL Papa's Full House,298.8,8.9,Accra,N/A,Papa's Lovers
+Papa’s Pizza,XL Hot & Spicy (No Pork),298.8,6.9,Accra,N/A,Big Bosses
+Papa’s Pizza,XL Freestyler,372.0,9.2,Accra,N/A,Your Own Masterpiece
+Papa’s Pizza,Jollof Rice and Half Portion of Pork (Big),166.8,5.6,Accra,N/A,Rice Dishes
+Papa’s Pizza,Jumbo Hot & Spicy (No Pork),322.8,7.1,Accra,N/A,Big Bosses
+Papa’s Pizza,Jumbo Papa's Full House,334.8,9.0,Accra,N/A,Papa's Lovers
+Papa’s Pizza,Jumbo Freestyler,420.0,9.3,Accra,N/A,Your Own Masterpiece
+Papa’s Pizza,Jollof Rice and Portion of Pork (Small),178.8,6.3,Accra,N/A,Rice Dishes
+Papa’s Pizza,Small Vegetarian Supreme (No Pork),76.8,5.2,Accra,N/A,Papa's Youngster
+Papa’s Pizza,Small Meateater,118.8,7.8,Accra,N/A,Papa's Lovers
+Papa’s Pizza,Small Plantain Passion( No Pork),91.2,6.6,Accra,N/A,Big Bosses
+Papa’s Pizza,Jollof Rice and Half Portion of Pork (Small),130.8,5.4,Accra,N/A,Rice Dishes
+Papa’s Pizza,Medium Meateater,130.8,7.2,Accra,N/A,Papa's Lovers
+Papa’s Pizza,Medium Plantain Passion ( No Pork),120.0,6.1,Accra,N/A,Big Bosses
+Papa’s Pizza,Medium Vegetarian Supreme (No Pork),106.8,5.7,Accra,N/A,Papa's Youngster
+Papa’s Pizza,Jollof Rice and Chicken (Small),154.8,7.9,Accra,N/A,Rice Dishes
+Papa’s Pizza,Large Vegetarian Supreme (No Pork),154.8,7.3,Accra,N/A,Papa's Youngster
+Papa’s Pizza,Large Meateater,214.8,8.1,Accra,N/A,Papa's Lovers
+Papa’s Pizza,Large Plantain Passion (No Pork),156.0,6.7,Accra,N/A,Big Bosses
+Papa’s Pizza,Jollof Rice and Chicken (Big),190.8,6.9,Accra,N/A,Rice Dishes
+Papa’s Pizza,XL Plantain Passion ( No Pork),240.0,7.2,Accra,N/A,Big Bosses
+Papa’s Pizza,XL Meateater,298.8,8.8,Accra,N/A,Papa's Lovers
+Papa’s Pizza,XL Vegetarian Supreme (No Pork),226.8,6.4,Accra,N/A,Papa's Youngster
+Papa’s Pizza,Jumbo Meateater,334.8,9.1,Accra,N/A,Papa's Lovers
+Papa’s Pizza,Jumbo Plantain Passion ( No Pork),276.0,7.4,Accra,N/A,Big Bosses
+Papa’s Pizza,Jumbo Vegetarian Supreme (No Pork),238.8,6.5,Accra,N/A,Papa's Youngster
+Papa’s Pizza,Small Opana,118.8,7.9,Accra,N/A,Papa's Lovers
+Papa’s Pizza,Small Obaa Kokoo ( No Pork),96.0,6.0,Accra,N/A,Big Bosses
+Papa’s Pizza,Medium Opana,130.8,8.5,Accra,N/A,Papa's Lovers
+Papa’s Pizza,Medium Obaa Kokoo ( No Pork),132.0,6.6,Accra,N/A,Big Bosses
+Papa’s Pizza,Large Opana,214.8,8.4,Accra,N/A,Papa's Lovers
+Papa’s Pizza,Large Obaa Kokoo ( No Pork),168.0,6.3,Accra,N/A,Big Bosses
+Papa’s Pizza,XL Obaa Kokoo ( No Pork),252.0,6.9,Accra,N/A,Big Bosses
+Papa’s Pizza,XL Opana,298.8,8.7,Accra,N/A,Papa's Lovers
+Papa’s Pizza,Jumbo Opana,334.8,9.0,Accra,N/A,Papa's Lovers
+Papa’s Pizza,Jumbo Obaa Kokoo ( No Pork),288.0,7.0,Accra,N/A,Big Bosses
+Papa’s Pizza,Small Papa's Special,94.8,6.1,Accra,N/A,Papa's Lovers
+Papa’s Pizza,Medium Papa's Special,118.8,6.8,Accra,N/A,Papa's Lovers
+Papa’s Pizza,Large Papa's Special,178.8,7.9,Accra,N/A,Papa's Lovers
+Papa’s Pizza,XL Papa's Special,262.8,8.6,Accra,N/A,Papa's Lovers
+Papa’s Pizza,Jumbo Papa's Special,298.8,9.1,Accra,N/A,Papa's Lovers
+Papa’s Pizza,Small Americano,88.8,5.6,Accra,N/A,Papa's Lovers
+Papa’s Pizza,Medium Americano,118.8,7.2,Accra,N/A,Papa's Lovers
+Papa’s Pizza,Large Americano,184.8,7.8,Accra,N/A,Papa's Lovers
+Papa’s Pizza,XL Americano,264.8,8.2,Accra,N/A,Papa's Lovers
+Papa’s Pizza,Jumbo Americano,300.0,8.9,Accra,N/A,Papa's Lovers
+Papa’s Pizza,Small BBQ Lovers,100.8,6.4,Accra,N/A,Papa's Lovers
+Papa’s Pizza,Small Margherita (No Pork),76.8,5.9,Accra,N/A,Papa's Youngster
+Papa’s Pizza,Small Papa No (No Pork),96.0,6.2,Accra,N/A,Big Bosses
+Papa’s Pizza,Small Falaa Freestyler,120.0,7.8,Accra,N/A,Your Own Masterpiece
+Papa’s Pizza,Vegetable Rice and Beef Sauce (Small),178.8,8.3,Accra,N/A,Rice Dishes
+Papa’s Pizza,Vegetable Rice Only (Small),66.0,4.4,Accra,N/A,Portion
+Papa’s Pizza,Vegetable Rice and Beef Sauce (Big),226.8,7.9,Accra,N/A,Rice Dishes
+Papa’s Pizza,Vegetable Rice and Chicken Sauce (Small),154.8,6.8,Accra,N/A,Rice Dishes
+Papa’s Pizza,Chicken Sauce,106.8,6.4,Accra,N/A,Rice Dishes
+Papa’s Pizza,Vegetable Rice and Chicken Sauce (Big),202.8,7.2,Accra,N/A,Rice Dishes
+Papa’s Pizza,Chicken Thigh,98.4,8.6,Accra,N/A,Sides
+Papa’s Pizza,Beef Sauce,130.8,6.9,Accra,N/A,Rice Dishes
+Papa’s Pizza,Vegetable Rice Only (Big),102.0,5.6,Accra,N/A,Portion
+Faridish,Assorted Jollof Rice,60.0,6.4,Accra,N/A,Mains
+Faridish,Assorted Fried Rice,60.0,5.3,Accra,N/A,Mains
+Faridish,Fried Rice,60.0,4.9,Accra,N/A,Mains
+Faridish,Plain rice,60.0,3.8,Accra,N/A,Mains
+Faridish,Jollof Rice,60.0,6.7,Accra,N/A,Mains
+Faridish,Waakye,10.0,8.1,Accra,N/A,Mains
+Dowu’s Kitchen,Frozen Spring Rolls,100.0,7.2,Accra,N/A,Snacks & Starters
+Dowu’s Kitchen,Fried Samosa (5 pieces),40.0,5.8,Accra,N/A,Snacks & Starters
+Dowu’s Kitchen,Fried Spring Rolls (5 pieces),40.0,6.0,Accra,N/A,Snacks & Starters
+Dowu’s Kitchen,Boiled Yam with Egg Stew,90.0,7.5,Accra,N/A,Yam & Plantain Dishes
+Dowu’s Kitchen,Boiled Yam with Garden Egg Stew,90.0,5.4,Accra,N/A,Yam & Plantain Dishes
+Dowu’s Kitchen,Boiled Plantain with Palava Sauce,90.0,6.9,Accra,N/A,Yam & Plantain Dishes
+Dowu’s Kitchen,Boiled Yam with Palava Sauce,90.0,6.7,Accra,N/A,Yam & Plantain Dishes
+Dowu’s Kitchen,Waakye with Protein & Salad,50.0,7.8,Accra,N/A,Traditional Ghanaian Dishes
+Dowu’s Kitchen,Fufu with Assorted Light Soup,150.0,9.0,Accra,N/A,Traditional Ghanaian Dishes
+Dowu’s Kitchen,Banku with Assorted Okro Stew,150.0,8.7,Accra,N/A,Traditional Ghanaian Dishes
+Dowu’s Kitchen,Banku with Grilled Tilapia,150.0,9.3,Accra,N/A,Traditional Ghanaian Dishes
+Dowu’s Kitchen,Banku with Okro Stew,120.0,7.1,Accra,N/A,Traditional Ghanaian Dishes
+Dowu’s Kitchen,Abunabun Soup with Fufu,150.0,8.5,Accra,N/A,Traditional Ghanaian Dishes
+Dowu’s Kitchen,Kokonte with Groundnut Soup,80.0,6.2,Accra,N/A,Traditional Ghanaian Dishes
+Dowu’s Kitchen,Omotuo with Groundnut Soup,90.0,7.6,Accra,N/A,Traditional Ghanaian Dishes
+Dowu’s Kitchen,Assorted Jollof Rice with Grilled Tilapia & Ripe Plantain,170.0,9.1,Accra,N/A,Rice Dishes
+Dowu’s Kitchen,Assorted Fried Rice,90.0,6.0,Accra,N/A,Rice Dishes
+Dowu’s Kitchen,Assorted Jollof Rice,90.0,6.3,Accra,N/A,Rice Dishes
+Dowu’s Kitchen,Plain Rice with Snail Gravy,130.0,8.9,Accra,N/A,Rice Dishes
+Dowu’s Kitchen,Shrimp Fried Rice,130.0,7.8,Accra,N/A,Rice Dishes
+Dowu’s Kitchen,Plain Rice with Spinach/Palava Sauce,85.0,5.0,Accra,N/A,Rice Dishes
+Dowu’s Kitchen,Plain Rice with Vegetable Stew,85.0,5.9,Accra,N/A,Rice Dishes
+Dowu’s Kitchen,Jollof Rice with Chicken,85.0,7.2,Accra,N/A,Rice Dishes
+Dowu’s Kitchen,Fried Rice with Chicken,85.0,6.8,Accra,N/A,Rice Dishes
+Hotdog Avenue,Onion Rings,48.0,5.6,Accra,N/A,Sides
+Hotdog Avenue,Spicy Dog,135.0,8.3,Accra,N/A,Hotdog Menu
+Hotdog Avenue,Kids Burger,95.0,6.4,Accra,N/A,Kids Menu
+Hotdog Avenue,Bacon Cheese Burger,163.0,8.8,Accra,N/A,Burger Menu
+Hotdog Avenue,Family Feast,770.0,9.5,Accra,N/A,Combo Deals
+Hotdog Avenue,"Coke, Fanta or Spirte",21.0,6.9,Accra,N/A,Drinks Menu
+Hotdog Avenue,Spicy Chicken Wings,100.0,7.7,Accra,N/A,Sides
+Hotdog Avenue,Veggie Dog,144.0,5.9,Accra,N/A,Hotdog Menu
+Hotdog Avenue,Chicken Burger,150.0,7.8,Accra,N/A,Burger Menu
+Hotdog Avenue,Bacon Feast,196.0,8.0,Accra,N/A,Combo Deals
+Hotdog Avenue,Malta Guinness,21.0,6.0,Accra,N/A,Drinks Menu
+Hotdog Avenue,Bacon Slaw Dog,132.0,7.5,Accra,N/A,Hotdog Menu
+Hotdog Avenue,Spicy Kick,183.0,8.6,Accra,N/A,Combo Deals
+Hotdog Avenue,Sobolo-Big Bottle,25.0,7.2,Accra,N/A,Drinks Menu
+Hotdog Avenue,Honey glazed Wings,108.0,8.1,Accra,N/A,Sides
+Hotdog Avenue,Mozzarella Cheese Sticks,69.0,6.7,Accra,N/A,Sides
+Hotdog Avenue,Milkshakes,82.0,7.9,Accra,N/A,Drinks Menu
+Hotdog Avenue,Beef Dog,150.0,7.2,Accra,N/A,Hotdog Menu
+Hotdog Avenue,Classic Combo,170.0,8.4,Accra,N/A,Combo Deals
+Hotdog Avenue,Lemon Pepper wings,108.0,7.1,Accra,N/A,Sides
+Hotdog Avenue,Cheesy Bacon Dog,157.0,8.1,Accra,N/A,Hotdog Menu
+Hotdog Avenue,Flaming Loaded fries,175.0,6.2,Accra,N/A,Sides
+Hotdog Avenue,The Baconizer,157.0,8.3,Accra,N/A,Hotdog Menu
+Hotdog Avenue,Fries,54.0,4.8,Accra,N/A,Sides
+Hotdog Avenue,Fully Loaded,216.0,8.9,Accra,N/A,Hotdog Menu
+Hotdog Avenue,Loaded Fries,125.0,6.5,Accra,N/A,Sides
+Hotdog Avenue,Mini Hotdog,82.0,6.1,Accra,N/A,Kids Menu
+Hotdog Avenue,Ultra Loaded Fries,232.0,7.0,Accra,N/A,Sides
+Hotdog Avenue,Classic Dog,100.0,7.6,Accra,N/A,Hotdog Menu
+Hotdog Avenue,Ultimate Feast,878.0,9.6,Accra,N/A,Combo Deals
+Hotdog Avenue,Hamburger,135.0,7.7,Accra,N/A,Burger Menu
+Hotdog Avenue,Water-Small,6.0,9.3,Accra,N/A,Drinks Menu
+Floka Eatery,Floka Standard,55.0,6.4,Accra,N/A,Mains
+Floka Eatery,Floka Executive Pack,65.0,7.2,Accra,N/A,Mains
+Floka Eatery,Fried Tilapia with Banku,60.0,8.8,Accra,N/A,Mains
+Floka Eatery,Tilapia Only,45.0,7.0,Accra,N/A,Mains
+Floka Eatery,smoky salmon ,30.0,5.9,Accra,N/A,Mains
+Cups and Cones,milkshake,120.0,8.6,Accra,N/A,drinks
+Cups and Cones,cone,15.0,4.8,Accra,N/A,extra
+Cups and Cones,waffle,40.0,6.5,Accra,N/A,extra
+Cups and Cones,water,5.0,9.7,Accra,N/A,drinks
+Cups and Cones,cake slice,40.0,7.2,Accra,N/A,pastery
+Cups and Cones,Alpen Caramel,35.0,7.8,Accra,N/A,ice cream
+Cups and Cones,Chocolate,35.0,8.9,Accra,N/A,ice cream
+Cups and Cones,Coffee,35.0,6.8,Accra,N/A,ice cream
+Cups and Cones,Oreo,35.0,9.1,Accra,N/A,ice cream
+Cups and Cones,Black chocolate,35.0,7.5,Accra,N/A,ice cream
+Cups and Cones,Mint,35.0,5.9,Accra,N/A,ice cream
+Cups and Cones,Cheese cake,35.0,8.3,Accra,N/A,ice cream
+Cups and Cones,Vanilla,35.0,8.0,Accra,N/A,ice cream
+Cups and Cones,Bubblegum,35.0,4.3,Accra,N/A,ice cream
+Cups and Cones,Pistachio,35.0,7.4,Accra,N/A,ice cream
+Cups and Cones,Biscotto cookie,35.0,6.2,Accra,N/A,ice cream
+Cups and Cones,Coconut,35.0,7.1,Accra,N/A,ice cream
+Cups and Cones,Passion,35.0,8.8,Accra,N/A,ice cream
+Cups and Cones,Mango,35.0,7.9,Accra,N/A,ice cream
+Cups and Cones,white chocolate,35.0,6.6,Accra,N/A,ice cream
+Cups and Cones,Peanut,35.0,5.7,Accra,N/A,ice cream
+Pinkberry,Regular Yoghurt ,66.0,8.2,Accra,N/A,Yoghurt
+Pinkberry,Regular Yoghurt with toppings ,71.5,9.0,Accra,N/A,Yoghurt
+Pinkberry,Large Yoghurt ,77.0,7.6,Accra,N/A,Yoghurt
+Pinkberry,Large Yoghurt with toppings ,82.5,9.2,Accra,N/A,Yoghurt
+Pinkberry,Strawberry banana,71.5,8.4,Accra,N/A,Smoothies
+Pinkberry,Original Bubble Waffle,60.5,7.1,Accra,N/A,Bubble Waffles
+Jollof Express by Yes Chef,1 x Pack of Jollof with Grilled Chicken,71.5,6.9,Accra,N/A,Jollof and Grilled Chicken Packages
+Jollof Express by Yes Chef,2 x Packs of Jollof with Grilled Chicken,110.5,7.3,Accra,N/A,Jollof and Grilled Chicken Packages
+Jollof Express by Yes Chef,5 x Packs of Jollof with Grilled Chicken,312.0,8.0,Accra,N/A,Jollof and Grilled Chicken Packages
+Jollof Express by Yes Chef,Coke,10.0,6.4,Accra,N/A,Drinks/Water
+Jollof Express by Yes Chef, Bottle Water,5.0,9.5,Accra,N/A,Drinks/Water
+Yendidi,"Attieke, tilapia, plantain",120.0,8.5,Accra,N/A,Main
+Yendidi,Jollof with half grilled tilapia,100.0,7.7,Accra,N/A,Main
+Yendidi,Plantain,35.0,6.1,Accra,N/A,Extra
+Yendidi,Tilapia,45.0,8.0,Accra,N/A,Extra
+Yendidi,Banku,8.0,5.2,Accra,N/A,Extra
+Yendidi,Grilled Chicken,30.0,7.3,Accra,N/A,Extra
+Fasee Pork Joint,Beef Sauce,90.0,6.6,Accra,N/A,Main meals
+Fasee Pork Joint,Jasmine Rice with Chicken Vegetable Stew,90.0,7.4,Accra,N/A,Main meals
+Fasee Pork Joint,Banku with grilled Tilapia,195.0,9.0,Accra,N/A,Main meals
+Fasee Pork Joint,Pork and yam chips,78.0,8.2,Accra,N/A,Main meals
+Delibeli Restaurant and Bar,Chicken Kofta Curry,138.0,7.4,Accra,N/A,Non Vegeterian Main Course
+Delibeli Restaurant and Bar,Steam Rice,88.0,4.6,Accra,N/A,Biryani
+Delibeli Restaurant and Bar,Jeera Rice,89.0,5.9,Accra,N/A,Biryani
+Delibeli Restaurant and Bar,Malai Chicken,140.0,8.1,Accra,N/A,Non Vegeterian Main Course
+Delibeli Restaurant and Bar,Matar Carrot Pulao,95.0,4.2,Accra,N/A,Biryani
+Delibeli Restaurant and Bar,Tawa Chicken,138.0,7.5,Accra,N/A,Non Vegeterian Main Course
+Delibeli Restaurant and Bar,Tomato Soup,85.0,5.1,Accra,N/A,Chef Special Soup
+Delibeli Restaurant and Bar,Bengali Egg Curry,138.0,7.3,Accra,N/A,Non Vegeterian Main Course
+Delibeli Restaurant and Bar,Coconut Rice,95.0,5.8,Accra,N/A,Biryani
+Delibeli Restaurant and Bar,Desi Chicken Korma,140.0,8.4,Accra,N/A,Non Vegeterian Main Course
+Delibeli Restaurant and Bar,Ghee Rice,95.0,6.0,Accra,N/A,Biryani
+Delibeli Restaurant and Bar,Assorted Biryani,220.0,8.5,Accra,N/A,Biryani
+Delibeli Restaurant and Bar,Tawa Chicken Masala,138.0,7.2,Accra,N/A,Non Vegeterian Main Course
+Delibeli Restaurant and Bar,Egg Biryani,135.0,6.7,Accra,N/A,Biryani
+Delibeli Restaurant and Bar,Chicken Do Pyaza,138.0,7.9,Accra,N/A,Non Vegeterian Main Course
+Delibeli Restaurant and Bar,Mutton Biryani,200.0,8.8,Accra,N/A,Biryani
+Delibeli Restaurant and Bar,Chicken Bhuna Masala,138.0,7.6,Accra,N/A,Non Vegeterian Main Course
+Delibeli Restaurant and Bar,Prawns Biryani,225.0,9.0,Accra,N/A,Biryani
+Delibeli Restaurant and Bar,"Chicken Tikka,Malai Chicken, Mutton Kebab,Chicken Kebab,Fish Kebab",460.0,9.3,Accra,N/A,Deli Beli Mix Tandoori Platter
+Delibeli Restaurant and Bar,Chicken Curry,140.0,7.5,Accra,N/A,Non Vegeterian Main Course
+Delibeli Restaurant and Bar,Fish Biryani,180.0,8.2,Accra,N/A,Biryani
+Delibeli Restaurant and Bar,Grouper Tawa King Masala,140.0,6.9,Accra,N/A,Non Vegeterian Main Course
+Delibeli Restaurant and Bar,Afghani Chicken Masala,145.0,8.1,Accra,N/A,Non Vegeterian Main Course
+Delibeli Restaurant and Bar,Fanta,34.0,6.4,Accra,N/A,Soft Drinks
+Delibeli Restaurant and Bar,Chicken Biryani,145.0,8.6,Accra,N/A,Biryani
+Delibeli Restaurant and Bar,Veg Biryani,135.0,5.8,Accra,N/A,Biryani
+Delibeli Restaurant and Bar,Chicken Tikka Masala,140.0,8.9,Accra,N/A,Non Vegeterian Main Course
+Delibeli Restaurant and Bar,Punjabi Chicken Masala,138.0,8.2,Accra,N/A,Non Vegeterian Main Course
+Delibeli Restaurant and Bar,Kebab Curry,139.0,7.0,Accra,N/A,Non Vegeterian Main Course
+Delibeli Restaurant and Bar,Chicken Korma,140.0,7.9,Accra,N/A,Non Vegeterian Main Course
+Delibeli Restaurant and Bar,Chicken Kolhapuri,145.0,8.1,Accra,N/A,Non Vegeterian Main Course
+Delibeli Restaurant and Bar,Butter Chicken,140.0,9.1,Accra,N/A,Non Vegeterian Main Course
+Delibeli Restaurant and Bar,Kadai Chicken,140.0,7.4,Accra,N/A,Non Vegeterian Main Course
+Delibeli Restaurant and Bar,Matar Pulao,95.0,5.1,Accra,N/A,Biryani
+Delibeli Restaurant and Bar,Chicken Vindaloo,138.0,7.7,Accra,N/A,Non Vegeterian Main Course
+Delibeli Restaurant and Bar,Pindi Chana Masala,125.0,5.6,Accra,N/A,Vegeterian Main Course
+Delibeli Restaurant and Bar,Paneer Bhurji,127.0,7.1,Accra,N/A,Vegeterian Main Course
+Delibeli Restaurant and Bar,Punjabi Kadhi Pakora,132.0,6.3,Accra,N/A,Vegeterian Main Course
+Delibeli Restaurant and Bar,Punjabi Mutton Curry,165.0,8.4,Accra,N/A,Mutton Special
+Delibeli Restaurant and Bar,Tandoori Garlic Chicken Tikka,200.0,8.6,Accra,N/A,Non Vegeterian Starter
+Delibeli Restaurant and Bar,Half Tandoori Chicken,140.0,7.2,Accra,N/A,Non Vegeterian Starter
+Delibeli Restaurant and Bar,Lamb Fried Rice,220.0,7.5,Accra,N/A,Deli Beli Special Fried Rice
+Delibeli Restaurant and Bar,Hallow Butter Naan,40.0,5.5,Accra,N/A,Tandoori ( Naan)
+Delibeli Restaurant and Bar,Aloo Puri & Tea,117.0,6.8,Accra,N/A,Weekend Menu
+Delibeli Restaurant and Bar,Cheese Garlic Butter Naan,45.0,7.1,Accra,N/A,Tandoori ( Naan)
+Delibeli Restaurant and Bar,Missi Roti,39.0,4.3,Accra,N/A,Tandoori ( Naan)
+Delibeli Restaurant and Bar,Sambhar Vada,120.0,6.5,Accra,N/A,Weekend Menu
+Delibeli Restaurant and Bar,Thump Up,53.0,5.7,Accra,N/A,Alcoholic
+Delibeli Restaurant and Bar,Fresh Lime Soda Sweet,45.0,7.3,Accra,N/A,Cocktails
+Delibeli Restaurant and Bar,Jack Daniels 60ML,60.0,8.4,Accra,N/A,Alcoholic
+Delibeli Restaurant and Bar,Absolut Vodka 60ML,64.0,8.2,Accra,N/A,Alcoholic
+Delibeli Restaurant and Bar,Gulab Jamun,80.0,9.0,Accra,N/A,Desserts
+Delibeli Restaurant and Bar,Heineken,58.0,7.0,Accra,N/A,Alcoholic
+Delibeli Restaurant and Bar,Crispy Fish Kathi Roll,145.0,7.7,Accra,N/A,Chef Choice
+Delibeli Restaurant and Bar,Brenghali Hangla Egg Roll,135.0,6.8,Accra,N/A,Chef Choice
+Delibeli Restaurant and Bar,Veg Kathi Roll,100.0,5.9,Accra,N/A,Chef Choice
+Delibeli Restaurant and Bar,Cucumber Salad,40.0,4.7,Accra,N/A,Salad
+Delibeli Restaurant and Bar,Aloo Chat,95.0,6.0,Accra,N/A,Vegeterian Chat
+Delibeli Restaurant and Bar,Kachori Wale Aloo Ki Sabzi,100.0,5.5,Accra,N/A,Vegeterian Chat
+Delibeli Restaurant and Bar,Masala Papad (2)piece,55.0,4.4,Accra,N/A,Vegeterian Chat
+Delibeli Restaurant and Bar,Hara Bara Kebab,140.0,6.3,Accra,N/A,Vegeterian Starter
+Delibeli Restaurant and Bar,Bhindi Do Pyaza,126.0,5.8,Accra,N/A,Vegeterian Main Course
+Delibeli Restaurant and Bar,Chilli Honey Potato,180.0,7.9,Accra,N/A,Chinese Chilli Special
+Delibeli Restaurant and Bar,Kashmiri Paneer,135.0,7.4,Accra,N/A,Vegeterian Main Course
+Delibeli Restaurant and Bar,Tandoori Chicken Tikka,200.0,8.7,Accra,N/A,Non Vegeterian Starter
+Delibeli Restaurant and Bar,Tawa Mutton Liver,165.0,6.8,Accra,N/A,Mutton Special
+Delibeli Restaurant and Bar,Tandoori Chicken Malai Tikka,200.0,8.5,Accra,N/A,Non Vegeterian Starter
+Delibeli Restaurant and Bar,Chloe Bachure & Drink,151.0,6.2,Accra,N/A,Weekend Menu
+Delibeli Restaurant and Bar,Vada Pav & Tea,106.0,5.4,Accra,N/A,Weekend Menu
+Delibeli Restaurant and Bar,Chicken Sweet Corn Soup,95.0,6.8,Accra,N/A,Chef Special Soup
+Delibeli Restaurant and Bar,Chicken Fried Rice,160.0,7.7,Accra,N/A,Deli Beli Special Fried Rice
+Delibeli Restaurant and Bar,Bull Dog 60ML,55.0,7.3,Accra,N/A,Alcoholic
+Delibeli Restaurant and Bar,Fish Fried Rice,170.0,7.8,Accra,N/A,Deli Beli Special Fried Rice
+Delibeli Restaurant and Bar,Club Mini,36.0,6.2,Accra,N/A,Alcoholic
+Delibeli Restaurant and Bar,Mango Lassi,55.0,8.6,Accra,N/A,Cocktails
+Delibeli Restaurant and Bar,Stella Artois,60.0,7.0,Accra,N/A,Alcoholic
+Delibeli Restaurant and Bar,Water,10.0,9.6,Accra,N/A,Soft Drinks
+Delibeli Restaurant and Bar,Russian Salad,85.0,6.1,Accra,N/A,Salad
+Delibeli Restaurant and Bar,Paneer Dry Kadai,150.0,7.9,Accra,N/A,Vegeterian Starter
+Delibeli Restaurant and Bar,Paneer Tikka Kathi Roll,130.0,7.5,Accra,N/A,Chef Choice
+Delibeli Restaurant and Bar,Crispy Onion Pakoda,95.0,5.4,Accra,N/A,Vegeterian Chat
+Delibeli Restaurant and Bar,Prawns Hakka Noodles,210.0,8.4,Accra,N/A,Chinese Chilli Special
+Delibeli Restaurant and Bar,Expresso,60.0,7.1,Accra,N/A,HI! Tea
+Delibeli Restaurant and Bar,Paneer Pepper Fry,150.0,8.1,Accra,N/A,Vegeterian Starter
+Delibeli Restaurant and Bar,Chilli Paneer,180.0,8.3,Accra,N/A,Chinese Chilli Special
+Delibeli Restaurant and Bar,Nawabi Paneer,133.0,7.6,Accra,N/A,Vegeterian Main Course
+Delibeli Restaurant and Bar,Veg Jhal Farelzi,126.0,6.7,Accra,N/A,Vegeterian Main Course
+Delibeli Restaurant and Bar,Tawa paneer Masala,126.0,7.2,Accra,N/A,Vegeterian Main Course
+Delibeli Restaurant and Bar,Aloo Jeera,125.0,5.3,Accra,N/A,Vegeterian Main Course
+Delibeli Restaurant and Bar,Mix Veg Korma,130.0,7.4,Accra,N/A,Vegeterian Main Course
+Delibeli Restaurant and Bar,Aloo Gobi,127.0,6.2,Accra,N/A,Vegeterian Main Course
+Delibeli Restaurant and Bar,Achari Paneer Masala,126.0,7.1,Accra,N/A,Vegeterian Main Course
+Delibeli Restaurant and Bar,Steamed Mutton with Veg,165.0,8.0,Accra,N/A,Mutton Special
+Delibeli Restaurant and Bar,Afghani Mutton,225.0,8.6,Accra,N/A,Non Vegeterian Starter
+Delibeli Restaurant and Bar,Tandoori Ginger Chicken Tikka,200.0,8.3,Accra,N/A,Non Vegeterian Starter
+Delibeli Restaurant and Bar,Tawa Mutton Masala,165.0,7.8,Accra,N/A,Mutton Special
+Delibeli Restaurant and Bar,Malabari Fish Curry,135.0,8.1,Accra,N/A,Fish Special
+Delibeli Restaurant and Bar,Tandoori Mutton Boti Kebab,225.0,8.5,Accra,N/A,Non Vegeterian Starter
+Delibeli Restaurant and Bar,Prawns Curry,245.0,9.0,Accra,N/A,Fish Special
+Delibeli Restaurant and Bar,Tandoori Hariyali Chicken Kebab,200.0,8.4,Accra,N/A,Non Vegeterian Starter
+Delibeli Restaurant and Bar,"Malai Paneer Tikka,Aloo Tikka",170.0,7.9,Accra,N/A,Deli Beli Mix Tandoori Platter
+Delibeli Restaurant and Bar,Tandoori Chicken Tiranga,225.0,8.7,Accra,N/A,Non Vegeterian Starter
+Delibeli Restaurant and Bar,"Mutton Boti Kebab,Mutton Seekh Kebab,Mutton Gola Kebab",330.0,9.1,Accra,N/A,Deli Beli Mix Tandoori Platter
+Delibeli Restaurant and Bar,Banana Stick,70.0,6.3,Accra,N/A,Cocktails
+Delibeli Restaurant and Bar,Egg Parantha,62.0,6.0,Accra,N/A,Tandoori ( Naan)
+Delibeli Restaurant and Bar,Star Big,40.0,5.5,Accra,N/A,Alcoholic
+Delibeli Restaurant and Bar,Chilli Garlic Butter Naan,42.0,7.0,Accra,N/A,Tandoori ( Naan)
+Delibeli Restaurant and Bar,Diet Coke,45.0,6.5,Accra,N/A,Soft Drinks
+Delibeli Restaurant and Bar,7UP,39.0,6.7,Accra,N/A,Soft Drinks
+Delibeli Restaurant and Bar,Fruit Salad,95.0,7.4,Accra,N/A,Salad
+Delibeli Restaurant and Bar,Chana CHAT,95.0,5.2,Accra,N/A,Vegeterian Chat
+Delibeli Restaurant and Bar,Steamed Egg Salad,75.0,6.0,Accra,N/A,Salad
+Delibeli Restaurant and Bar,Lamb Kathi Roll,150.0,7.9,Accra,N/A,Chef Choice
+Delibeli Restaurant and Bar,Paneer Butter Pepper Fry,150.0,8.2,Accra,N/A,Vegeterian Starter
+Delibeli Restaurant and Bar,Aloo Dum,128.0,6.6,Accra,N/A,Vegeterian Main Course
+Delibeli Restaurant and Bar,CHILLLI CHCKEN LOLLIPOP (8)Piece,200.0,7.5,Accra,N/A,Chinese Chilli Special
+Delibeli Restaurant and Bar,Tandoori Chicken Thigh,200.0,8.3,Accra,N/A,Non Vegeterian Starter
+Delibeli Restaurant and Bar,Chilly Veg Manchurian,160.0,6.4,Accra,N/A,Chinese Chilli Special
+Delibeli Restaurant and Bar,Malai Paneer,126.0,7.0,Accra,N/A,Vegeterian Main Course
+Delibeli Restaurant and Bar,Mutton Burra Kebab,225.0,8.4,Accra,N/A,Non Vegeterian Starter
+Delibeli Restaurant and Bar,Mysore Masala Dosa,120.0,7.8,Accra,N/A,South Indian
+Delibeli Restaurant and Bar,Tawa Tilapia Masala,146.0,8.0,Accra,N/A,Fish Special
+Delibeli Restaurant and Bar,Prawns Masala,245.0,8.7,Accra,N/A,Fish Special
+Delibeli Restaurant and Bar,Rava Veg Uttpam,118.0,7.1,Accra,N/A,South Indian
+Delibeli Restaurant and Bar,Egg Dosa,118.0,6.5,Accra,N/A,South Indian
+Delibeli Restaurant and Bar,Prawns Fried Rice,220.0,8.3,Accra,N/A,Deli Beli Special Fried Rice
+Delibeli Restaurant and Bar,Sweet & Sour Fish Soup,95.0,6.7,Accra,N/A,Chef Special Soup
+Delibeli Restaurant and Bar,Masala Dosa,125.0,7.4,Accra,N/A,South Indian
+Delibeli Restaurant and Bar,Tandoori Butter Roti,34.0,5.4,Accra,N/A,Tandoori ( Naan)
+Delibeli Restaurant and Bar,Paneer Parantha,62.0,6.6,Accra,N/A,Tandoori ( Naan)
+Delibeli Restaurant and Bar,Mix Fruit Juice,70.0,7.5,Accra,N/A,Cocktails
+Delibeli Restaurant and Bar,Mango Juice,55.0,7.7,Accra,N/A,Cocktails
+Delibeli Restaurant and Bar,Rabri with Gulab Jamun,95.0,8.8,Accra,N/A,Desserts
+Delibeli Restaurant and Bar,orange fruit,45.0,6.0,Accra,N/A,Soft Drinks
+Delibeli Restaurant and Bar,Mutton Seekh Kebab Roll,145.0,7.8,Accra,N/A,Chef Choice
+Delibeli Restaurant and Bar,Aloo Matar,125.0,6.1,Accra,N/A,Vegeterian Main Course
+Delibeli Restaurant and Bar,Chilli Fish,190.0,8.3,Accra,N/A,Chinese Chilli Special
+Delibeli Restaurant and Bar,Kali Mirch Mutton,165.0,8.2,Accra,N/A,Mutton Special
+Delibeli Restaurant and Bar,Mutton Seekh Kebab,225.0,8.5,Accra,N/A,Non Vegeterian Starter
+Delibeli Restaurant and Bar,Tandoori Chicken Wings(10)piece,240.0,8.4,Accra,N/A,Non Vegeterian Starter
+Delibeli Restaurant and Bar,Chivas Regal 60ML,60.0,8.6,Accra,N/A,Alcoholic
+Delibeli Restaurant and Bar,Mutton Masala,165.0,7.9,Accra,N/A,Mutton Special
+Delibeli Restaurant and Bar,Tawa King Fish Masala,135.0,7.7,Accra,N/A,Fish Special
+Delibeli Restaurant and Bar,Hyderabadi Mutton Curry,165.0,8.4,Accra,N/A,Mutton Special
+Delibeli Restaurant and Bar,Pineapple Juice,55.0,7.6,Accra,N/A,Cocktails
+Delibeli Restaurant and Bar,Plain Dosa,100.0,6.9,Accra,N/A,South Indian
+Delibeli Restaurant and Bar,Sweet & Sour Ginger Garlic Chicken Soup,95.0,7.1,Accra,N/A,Chef Special Soup
+Delibeli Restaurant and Bar,Elachi Coffee,60.0,7.3,Accra,N/A,HI! Tea
+Delibeli Restaurant and Bar,Malt,40.0,6.8,Accra,N/A,Soft Drinks
+Delibeli Restaurant and Bar,Coconut Fish Korma,135.0,8.2,Accra,N/A,Fish Special
+Delibeli Restaurant and Bar,Prawns Korma,245.0,8.9,Accra,N/A,Fish Special
+Delibeli Restaurant and Bar,Malpua,99.0,6.7,Accra,N/A,Weekend Menu
+Delibeli Restaurant and Bar,Veg Fried Rice,150.0,7.0,Accra,N/A,Deli Beli Special Fried Rice
+Delibeli Restaurant and Bar,Gobhi Parantha,62.0,6.0,Accra,N/A,Tandoori ( Naan)
+Delibeli Restaurant and Bar,Aloo Parantha,62.0,6.2,Accra,N/A,Tandoori ( Naan)
+Delibeli Restaurant and Bar,Pav Bhaji & Drink,117.0,6.4,Accra,N/A,Weekend Menu
+Delibeli Restaurant and Bar,Tequila 60ML,40.0,7.9,Accra,N/A,Alcoholic
+Delibeli Restaurant and Bar,Sweet Corn Soup,85.0,6.8,Accra,N/A,Chef Special Soup
+Delibeli Restaurant and Bar,Steamed Chicken Salad,90.0,7.2,Accra,N/A,Salad
+Delibeli Restaurant and Bar,Red Label 60ML,50.0,8.1,Accra,N/A,Alcoholic
+Delibeli Restaurant and Bar,White Wine,325.0,8.5,Accra,N/A,Alcoholic
+Delibeli Restaurant and Bar,Kesar Rabri,85.0,8.4,Accra,N/A,Desserts
+Delibeli Restaurant and Bar,Indian Masala Tea,25.0,7.3,Accra,N/A,HI! Tea
+Delibeli Restaurant and Bar,Club Big,45.0,6.9,Accra,N/A,Alcoholic
+Delibeli Restaurant and Bar,Side Salad,45.0,5.8,Accra,N/A,Salad
+Delibeli Restaurant and Bar,Malai Paneer Tikka,150.0,8.1,Accra,N/A,Vegeterian Starter
+Delibeli Restaurant and Bar,Badam Milk,65.0,7.7,Accra,N/A,HI! Tea
+Delibeli Restaurant and Bar,Butter Paneer Masala,127.0,7.8,Accra,N/A,Vegeterian Main Course
+Delibeli Restaurant and Bar,Tandoori Barber Aloo,150.0,6.8,Accra,N/A,Vegeterian Starter
+Delibeli Restaurant and Bar,Benghali Mutton Curry,165.0,8.1,Accra,N/A,Mutton Special
+Delibeli Restaurant and Bar,Mutton Korma,165.0,8.3,Accra,N/A,Mutton Special
+Delibeli Restaurant and Bar,Tandoori Prawns,430.0,9.2,Accra,N/A,Non Vegeterian Starter
+Delibeli Restaurant and Bar,Tawa Chicken,200.0,8.6,Accra,N/A,Non Vegeterian Starter
+Delibeli Restaurant and Bar,Tandoori Chicken Seekh Kebab,210.0,8.2,Accra,N/A,Non Vegeterian Starter
+Delibeli Restaurant and Bar,Tandoori Chicken Reshmi Kebab,200.0,8.5,Accra,N/A,Non Vegeterian Starter
+Delibeli Restaurant and Bar,Malai Prawns Curry,245.0,9.1,Accra,N/A,Fish Special
+Delibeli Restaurant and Bar,Assorted Fried Rice,215.0,7.5,Accra,N/A,Deli Beli Special Fried Rice
+Delibeli Restaurant and Bar,Pundina Parantha,62.0,6.0,Accra,N/A,Tandoori ( Naan)
+Delibeli Restaurant and Bar,Aloo Kachori,145.0,6.1,Accra,N/A,Weekend Menu
+Delibeli Restaurant and Bar,Veg Hot & Sour Soup,95.0,6.8,Accra,N/A,Chef Special Soup
+Delibeli Restaurant and Bar,Kali Micchib Paneer Tikka,150.0,7.6,Accra,N/A,Vegeterian Starter
+Delibeli Restaurant and Bar,Shrimp Green Salad,95.0,8.0,Accra,N/A,Salad
+Delibeli Restaurant and Bar,Paneer Do Pyaza,127.0,7.3,Accra,N/A,Vegeterian Main Course
+Delibeli Restaurant and Bar,Cuppacino,60.0,7.4,Accra	N/A,HI! Tea
+Delibeli Restaurant and Bar,Potato Masala,126.0,6.2,Accra,N/A,Vegeterian Main Course
+Delibeli Restaurant and Bar,Chicken 65,200.0,8.5,Accra,N/A,Non Vegeterian Starter
+Delibeli Restaurant and Bar,Kadai Paneer,127.0,7.8,Accra,N/A,Vegeterian Main Course
+Delibeli Restaurant and Bar,Palak Paneer,128.0,7.7,Accra,N/A,Vegeterian Main Course
+Delibeli Restaurant and Bar,"Kali Micchi Chicken Tikka, Garlic Butter Naan(2)",170.0,8.5,Accra	N/A,Deli Beli Mix Tandoori Platter
+Delibeli Restaurant and Bar,Tawa Mutton,165.0,8.0,Accra,N/A,Mutton Special
+Delibeli Restaurant and Bar,"Mutton Boti Kebab,Mutton Seekh Kebab,",220.0,8.9,Accra,N/A,Deli Beli Mix Tandoori Platter
+Delibeli Restaurant and Bar,Ballantines 60ML,55.0,8.0,Accra,N/A,Alcoholic
+Delibeli Restaurant and Bar,Benghali Fish Curry,135.0,7.6,Accra,N/A,Fish Special
+Delibeli Restaurant and Bar,Achairi Paneer Tikka,150.0,7.9,Accra	N/A,Vegeterian Starter
+Delibeli Restaurant and Bar,Green Salad,65.0,6.2,Accra	N/A,Salad
+Delibeli Restaurant and Bar,Aloo Tikka Chat,95.0,6.4,Accra,N/A,Vegeterian Chat
+Delibeli Restaurant and Bar,Egg Fried Rice,180.0,7.6,Accra	N/A,Deli Beli Special Fried Rice
+Delibeli Restaurant and Bar,Veg Manchow Soup,85.0,7.1,Accra	N/A,Chef Special Soup
+Delibeli Restaurant and Bar,Paneer Tikka Masala,132.0,7.8,Accra	N/A,Vegeterian Main Course
+Delibeli Restaurant and Bar,Simla Mirch Aloo,125.0,5.5,Accra	N/A,Vegeterian Main Course
+Delibeli Restaurant and Bar,Tandoori Chicken Lollipop (10) piece,240.0,8.4,Accra	N/A,Non Vegeterian Starter
+Delibeli Restaurant and Bar,Muttton Keema Masala,165.0,8.2,Accra	N/A,Mutton Special
+Delibeli Restaurant and Bar,Malai Paneer Tikka & Plain Naan (2),150.0,7.9,Accra,N/A,Deli Beli Mix Tandoori Platter
+Delibeli Restaurant and Bar,Mutton Kashmiri Rogan Josh,180.0,8.7,Accra	N/A,Mutton Special
+Delibeli Restaurant and Bar,Laacha Parantha,62.0,6.5,Accra	N/A,Tandoori ( Naan)
+Delibeli Restaurant and Bar,Keema Parantha,86.0,6.0,Accra	N/A	Tandoori ( Naan)
+Delibeli Restaurant and Bar,Tangdi Kebab & Chilly Garlic Naan (2),170.0,8.3,Accra	N/A,Deli Beli Mix Tandoori Platter
+Delibeli Restaurant and Bar,Pundina Butter Naan,62.0,6.7,Accra	N/A,Tandoori ( Naan)
+Delibeli Restaurant and Bar,Jameson 60ML,50.0,8.3,Accra	N/A,Alcoholic
+Delibeli Restaurant and Bar,Red Bull,60.0,7.4,Accra	N/A,Soft Drinks
+Delibeli Restaurant and Bar,Pepsi,40.0,6.6,Accra	N/A,Soft Drinks
+Delibeli Restaurant and Bar,Onion Raita,50.0,7.0,Accra	N/A,Yoghurt
+Delibeli Restaurant and Bar,Cucumber Raita,50.0,6.9,Accra	N/A,Yoghurt
+Delibeli Restaurant and Bar,Onion Salad,40.0,5.7,Accra	N/A,Salad
+Delibeli Restaurant and Bar,Samosa Chat,100.0,6.8,Accra	N/A,Vegeterian Chat
+Delibeli Restaurant and Bar,Mumbai Pav Bhaji,100.0,7.2,Accra	N/A,Vegeterian Chat
+Delibeli Restaurant and Bar,Papadi Chat,95.0,5.9,Accra	N/A,Vegeterian Chat
+Delibeli Restaurant and Bar,Baingan Bharta,125.0,7.1,Accra	N/A,Vegeterian Main Course
+Delibeli Restaurant and Bar,Roasted Peanuts,35.0,4.8,Accra	N/A,Vegeterian Chat
+Delibeli Restaurant and Bar,Aloo Tikka,120.0,6.7,Accra	N/A,Vegeterian Starter
+Delibeli Restaurant and Bar,Kaju Paneer,130.0,8.1,Accra	N/A,Vegeterian Main Course
+Delibeli Restaurant and Bar,Mutton Gola Kebab,225.0,8.6,Accra	N/A,Non Vegeterian Starter
+Delibeli Restaurant and Bar,Afghani Chicken & Cheese Chilly Garlic (2),170.0,8.2,Accra	N/A,Deli Beli Mix Tandoori Platter
+Delibeli Restaurant and Bar,Keema Naan,85.0,6.1,Accra	N/A,Tandoori ( Naan)
+Delibeli Restaurant and Bar,Tandoori Prawns & Butter Naan(2),220.0,9.0,Accra	N/A,Deli Beli Mix Tandoori Platter
+Delibeli Restaurant and Bar,Roomali Roti,43.0,5.3,Accra	N/A,Tandoori ( Naan)
+Delibeli Restaurant and Bar,Masala Chaj,60.0,7.1,Accra	N/A,Cocktails
+Delibeli Restaurant and Bar,King Fish with Vegetable Garlic Chilly Butter,195.0,9.1,Accra	N/A,Deli Beli Mix Tandoori Platter
+Delibeli Restaurant and Bar,Fresh Lime Soda Salted,40.0,7.0,Accra	N/A,Cocktails
+Delibeli Restaurant and Bar,Glen Grant Majors 60ML,60.0,8.0,Accra	N/A,Alcoholic
+Delibeli Restaurant and Bar,Garlic Butter Naan,39.0,6.0,Accra	N/A,Tandoori ( Naan)
+Delibeli Restaurant and Bar,Sprite,34.0,6.5,Accra	N/A,Soft Drinks
+Delibeli Restaurant and Bar,Bacardi 60ML,68.0,8.3,Accra	N/A,Alcoholic
+Delibeli Restaurant and Bar,Chicken Kathi Roll,135.0,7.9,Accra	N/A,Chef Choice
+Delibeli Restaurant and Bar,Glen Grant 10yrs 60ML,60.0,8.2,Accra	N/A,Alcoholic
+Delibeli Restaurant and Bar,Rasmalai,85.0,8.7,Accra	N/A,Desserts
+Delibeli Restaurant and Bar,Hot Chocolate,60.0,8.1,Accra	N/A,HI! Tea
+Delibeli Restaurant and Bar,Jalebi,100.0,8.4,Accra	N/A,Weekend Menu
+Delibeli Restaurant and Bar,Roasted Chicken Salad,90.0,7.0,Accra	N/A,Salad
+Delibeli Restaurant and Bar,Bhel Puri,95.0,5.5,Accra	N/A,Vegeterian Chat
+Delibeli Restaurant and Bar,Tiranga Paneer Tikka,150.0,7.7,Accra	N/A,Vegeterian Starter
+Delibeli Restaurant and Bar,Dal Takada,123.0,6.9,Accra	N/A,Vegeterian Main Course
+Delibeli Restaurant and Bar,Mumbai Vada Pav,95.0,6.5,Accra	N/A,Vegeterian Chat
+Delibeli Restaurant and Bar,Roasted Papad (2)piece,45.0,4.2,Accra	N/A,Vegeterian Chat
+Delibeli Restaurant and Bar,Malai Paneer Kofta,133.0,7.8,Accra	N/A,Vegeterian Main Course
+Delibeli Restaurant and Bar,Mutton Afghani,175.0,8.2,Accra	N/A,Mutton Special
+Delibeli Restaurant and Bar,Paneer Dosa,115.0,7.5,Accra	N/A,South Indian
+Delibeli Restaurant and Bar,Butter Naan,34.0,5.8,Accra	N/A,Tandoori ( Naan)
+Delibeli Restaurant and Bar,Bread Pakoda & Drink,106.0,6.7,Accra	N/A,Weekend Menu
+Delibeli Restaurant and Bar,Cheese Dosa,118.0,7.4,Accra	N/A,South Indian
+Delibeli Restaurant and Bar,Peshawari Naan,50.0,6.3,Accra	N/A,Tandoori ( Naan)
+Delibeli Restaurant and Bar,Tandoori Roti,34.0,6.1,Accra	N/A,Tandoori ( Naan)
+Delibeli Restaurant and Bar,Malibu 60ML,55.0,8.0,Accra	N/A,Alcoholic
+Delibeli Restaurant and Bar,Baileys 60ML,50.0,8.2,Accra	N/A,Alcoholic
+Delibeli Restaurant and Bar,Star Small,36.0,5.9,Accra	N/A,Alcoholic
+Delibeli Restaurant and Bar,Alvaro,39.0,6.8,Accra	N/A,Soft Drinks
+Delibeli Restaurant and Bar,Mix Raita,60.0,7.2,Accra	N/A,Yoghurt
+Delibeli Restaurant and Bar,Coke,34.0,6.4,Accra	N/A,Soft Drinks
+Delibeli Restaurant and Bar,Bhudi Raita,50.0,6.1,Accra	N/A,Yoghurt
+Delibeli Restaurant and Bar,Garlic Paneer,150.0,8.0,Accra	N/A,Vegeterian Starter
+Delibeli Restaurant and Bar,Chicken Tikka Kathi Roll,135.0,7.7,Accra	N/A,Chef Choice
+Delibeli Restaurant and Bar,Punjabi Samosa (3) piece,100.0,6.2,Accra	N/A,Vegeterian Chat
+Delibeli Restaurant and Bar,Mumbai Mix Pakoda,95.0,5.8,Accra	N/A,Vegeterian Chat
+Delibeli Restaurant and Bar,Chilli Chicken,180.0,8.5,Accra	N/A,Chinese Chilli Special
+Delibeli Restaurant and Bar,Chicken Hakka Noodles,180.0,7.9,Accra	N/A,Chinese Chilli Special
+Delibeli Restaurant and Bar,Veg Hakka Noodles,150.0,6.4,Accra	N/A,Chinese Chilli Special
+Delibeli Restaurant and Bar,Dal Makhani,130.0,7.0,Accra	N/A,Vegeterian Main Course
+Delibeli Restaurant and Bar,BBQ Mutton Masala,165.0,8.4,Accra	N/A,Mutton Special
+Delibeli Restaurant and Bar,Mixed Veg Kolhapuri,127.0,7.5,Accra	N/A,Vegeterian Main Course
+Delibeli Restaurant and Bar,Mutton Bhuna Masala,165.0,8.0,Accra	N/A,Mutton Special
+Delibeli Restaurant and Bar,Mutton Do Pyaza,165.0,8.3,Accra	N/A,Mutton Special
+Delibeli Restaurant and Bar,Mutton Curry,165.0,8.1,Accra	N/A,Mutton Special
+Delibeli Restaurant and Bar,Tandoori Fish,160.0,8.5,Accra	N/A,Non Vegeterian Starter
+Delibeli Restaurant and Bar,Tandoori Kali Micchi Chicken Tikka,200.0,8.7,Accra	N/A,Non Vegeterian Starter
+Delibeli Restaurant and Bar,Chicken Manchow Soup,95.0,7.3,Accra	N/A,Chef Special Soup
+Delibeli Restaurant and Bar,Peanuts Soup,85.0,5.9,Accra	N/A,Chef Special Soup
+Delibeli Restaurant and Bar,Full Tandoori Chicken,280.0,9.0,Accra	N/A,Non Vegeterian Starter
+Delibeli Restaurant and Bar,Benghali Fish Masala,135.0,7.2,Accra	N/A,Fish Special
+Delibeli Restaurant and Bar,Soda,25.0,6.5,Accra	N/A,Soft Drinks
+Delibeli Restaurant and Bar,Rice Pudding,80.0,8.1,Accra	N/A,Desserts
+Delibeli Restaurant and Bar,Hariyali Paneer Tikka,150.0,8.3,Accra	N/A,Vegeterian Starter
+Delibeli Restaurant and Bar,Tangerine Juice,70.0,7.4,Accra	N/A,Cocktails
+Delibeli Restaurant and Bar,Budweiser King,57.0,7.0,Accra	N/A,Alcoholic
+Delibeli Restaurant and Bar,Black Label 60ML,60.0,8.5,Accra	N/A,Alcoholic
+Delibeli Restaurant and Bar,Tawa Paneer,150.0,8.1,Accra	N/A,Vegeterian Starter
+Delibeli Restaurant and Bar,Baingan Masala,125.0,7.2,Accra	N/A,Vegeterian Main Course
+Delibeli Restaurant and Bar,Palak Pakoda Chat,95.0,6.2,Accra	N/A,Vegeterian Chat
+Delibeli Restaurant and Bar,Tandoori Chicken Tangdi Kebab(4)piece,200.0,8.6,Accra	N/A,Non Vegeterian Starter
+Delibeli Restaurant and Bar,Makhani Paneer,128.0,7.9,Accra	N/A,Vegeterian Main Course
+Delibeli Restaurant and Bar,Rajma Masala,125.0,6.7,Accra	N/A,Vegeterian Main Course
+Delibeli Restaurant and Bar,Aloo Palak,125.0,6.5,Accra	N/A,Vegeterian Main Course
+Delibeli Restaurant and Bar,Half Afghani Tandoori Chicken,150.0,8.2,Accra	N/A,Non Vegeterian Starter
+Delibeli Restaurant and Bar,Full Afghani Tandoori Chicken,300.0,9.0,Accra	N/A,Non Vegeterian Starter
+Delibeli Restaurant and Bar,BBQ Chicken Thigh,200.0,8.5,Accra	N/A,Non Vegeterian Starter
+Delibeli Restaurant and Bar,Ghee Plain Dosa,125.0,7.6,Accra	N/A,South Indian
+Delibeli Restaurant and Bar,Boss Energy Drink,25.0,6.8,Accra	N/A,Soft Drinks
+Delibeli Restaurant and Bar,Whole Tandoori Chicken,300.0,9.2,Accra	N/A,Non Vegeterian Starter
+Delibeli Restaurant and Bar,Cheese Garlic Naan,46.0,6.9,Accra	N/A,Tandoori ( Naan)
+Delibeli Restaurant and Bar,Malai Fish Curry,135.0,8.2,Accra	N/A,Fish Special
+Delibeli Restaurant and Bar,Roomali Butter Roti,45.0,6.0,Accra	N/A,Tandoori ( Naan)
+Delibeli Restaurant and Bar,Onion Parantha,62.0,6.2,Accra	N/A,Tandoori ( Naan)
+Delibeli Restaurant and Bar,Palak Parantha,62.0,6.7,Accra	N/A,Tandoori ( Naan)
+Delibeli Restaurant and Bar,Tandoori Ghee Roti,34.0,6.4,Accra	N/A,Tandoori ( Naan)
+Delibeli Restaurant and Bar,Red Wine Bottle,330.0,8.8,Accra	N/A,Alcoholic
+Delibeli Restaurant and Bar,Masala Jeera,53.0,6.6,Accra	N/A,Alcoholic
+Delibeli Restaurant and Bar,Hunters,58.0,6.9,Accra	N/A,Alcoholic
+Delibeli Restaurant and Bar,Plain Yoghurt,87.0,7.1,Accra	N/A,Yoghurt
+Delibeli Restaurant and Bar,Gold Label 60ML,116.0,8.7,Accra	N/A,Alcoholic
+Delibeli Restaurant and Bar,Guinness,48.0,7.0,Accra	N/A,Alcoholic
+Delibeli Restaurant and Bar,Egg Kathi Roll,105.0,7.5,Accra	N/A,Chef Choice
+Delibeli Restaurant and Bar,Potato Salad,80.0,6.4,Accra	N/A,Salad
+Delibeli Restaurant and Bar,Paneer Kathi Roll,125.0,7.9,Accra	N/A,Chef Choice
+Delibeli Restaurant and Bar,Brenghali Hangla chicken Roll,130.0,7.4,Accra	N/A,Chef Choice
+Delibeli Restaurant and Bar,Smirnoff Ice,50.0,6.9,Accra	N/A,Alcoholic
+Delibeli Restaurant and Bar,Benghali Rasgulla,85.0,8.7,Accra	N/A,Desserts
+10:10 Joint,White rice,40.0,4.7,Accra,N/A,Sides
+10:10 Joint,Ofe akwu (palm nut)stew with white rice,155.0,8.2,Accra,N/A,Rice Dishes
+10:10 Joint,Vegetable served with pounded yam,200.0,8.5,Accra,N/A,Locals
+10:10 Joint,Fried rice,55.0,5.9,Accra,N/A,Sides
+10:10 Joint,Peppered stockfish,120.0,7.2,Accra,N/A,Soups & Other Proteins
+10:10 Joint,White rice& vegetable tew,155.0,6.8,Accra,N/A,Rice Dishes
+10:10 Joint,Dry fish,100.0,6.0,Accra,N/A,Soups & Other Proteins
+10:10 Joint,Fried rice with fried fish,145.0,7.5,Accra,N/A,Rice Dishes
+10:10 Joint,"Okro soup  swallow comes with eba,fufu,semo or wheat ",165.0,8.4,Accra,N/A,Locals
+10:10 Joint,Eba,15.0,4.2,Accra,N/A,Sides
+10:10 Joint,Cow intestine pepper soup,190.0,8.1,Accra,N/A,Soups & Other Proteins
+10:10 Joint,Fried rice with one piece of fried beef,135.0,6.9,Accra,N/A,Rice Dishes
+10:10 Joint,"Bitter leaf soup comes with eba,fufu,semo or wheat",165.0,7.4,Accra,N/A,Locals
+10:10 Joint,Fufu,15.0,4.6,Accra,N/A,Sides
+10:10 Joint,Fried rice with fried chicken ,165.0,7.7,Accra,N/A,Rice Dishes
+10:10 Joint,Semo,17.0,3.9,Accra,N/A,Sides
+10:10 Joint,Bitter leaf soup &pounded yam,200.0,8.3,Accra,N/A,Locals
+10:10 Joint,Goat Meat Pepper Soup,190.0,8.9,Accra,N/A,Soups & Other Proteins
+10:10 Joint,"Afang soup comes with.eba,fufu,semo or wheat",180.0,8.0,Accra,N/A,Locals
+10:10 Joint,White rice n tomatoes stew,125.0,6.2,Accra,N/A,Rice Dishes
+10:10 Joint,Wheat,15.0,5.5,Accra,N/A,Sides
+10:10 Joint,Afang soup & pounded yam,200.0,8.7,Accra,N/A,Locals
+10:10 Joint,Fish,45.0,6.1,Accra,N/A,Sides
+10:10 Joint,"Jollof Rice served with, chicken,beef or fried fish",165.0,8.4,Accra,N/A,Rice Dishes
+10:10 Joint,Nkwobi,300.0,9.4,Accra,N/A,Soups & Other Proteins
+10:10 Joint,Isiewu,300.0,9.2,Accra,N/A,Soups & Other Proteins
+10:10 Joint,"Okro soup  swallow comes with eba,fufu,semo or wheat ",155.0,7.2,Accra,N/A,Locals
+10:10 Joint,Beef,35.0,5.8,Accra,N/A,Sides
+10:10 Joint,Chicken,35.0,6.5,Accra,N/A,Sides
+10:10 Joint,Okro soup  swallow& poundo yam,180.0,8.6,Accra,N/A,Locals
+10:10 Joint,"Egusi Soup comes with eba,fufu,semo or wheat ",165.0,8.1,Accra,N/A,Locals
+10:10 Joint,"Vegetable Soup comes with eba,fufu,semo or wheat ",170.0,7.9,Accra,N/A,Locals
+10:10 Joint,"Ogbono Soup with eba,fufu,semo or wheat ",155.0,7.8,Accra,N/A,Locals
+10:10 Joint,"Oha Soup with eba,fufu,semo or wheat ",180.0,8.3,Accra,N/A,Locals
+10:10 Joint,Abacha,180.0,7.1,Accra,N/A,Locals
+10:10 Joint,Chicken sauce stew,180.0,7.6,Accra,N/A,Rice Dishes
+10:10 Joint,Pounded yam,35.0,6.0,Accra,N/A,Sides
+10:10 Joint,"Delicious yam porridge prepared with either dry fish, salmon or beef with vegetables",160.0,7.2,Accra,N/A,Locals
+Kiss Burger and Wraps Bar,"Crunchy kisses spring rolls",63.0,5.4,Accra,N/A,SAMOSA
+Kiss Burger and Wraps Bar,Tender moment Samosa,63.0,4.9,Accra,N/A,SAMOSA
+Kiss Burger and Wraps Bar,CHICKEN CEASAR SALAD,110.0,7.7,Accra,N/A,SALADS
+Kiss Burger and Wraps Bar,TUNA SALAD,110.0,6.8,Accra,N/A,SALADS
+Kiss Burger and Wraps Bar,COLESLAW,58.0,5.2,Accra,N/A,SALADS
+Kiss Burger and Wraps Bar,GARLIC RICE WITH SPICY FISH SAUCE,176.0,8.1,Accra,N/A,RICE MEALS
+Kiss Burger and Wraps Bar,"SMOKY SYLVIA SHOT RIB RICE RICE, BEEF, BELL PEPPER",142.0,7.5,Accra,N/A,RICE MEALS
+Kiss Burger and Wraps Bar,VEGETABLE RICE WITH DRIPPING CHICKEN SAUCE,150.0,7.2,Accra,N/A,RICE MEALS
+Kiss Burger and Wraps Bar,"COCONUT RICE / LICK IT UP BEEF SAUCE",150.0,8.0,Accra,N/A,RICE MEALS
+Kiss Burger and Wraps Bar,ASSORTED FRIED RICE,136.0,6.1,Accra,N/A,RICE MEALS
+Kiss Burger and Wraps Bar,SPICY GOAT JOLLOF RICE,157.0,8.4,Accra,N/A,RICE MEALS
+Kiss Burger and Wraps Bar,TUNA LOAF,110.0,6.7,Accra,N/A,MEAT LOAF
+Kiss Burger and Wraps Bar,UNIQUE LOAF,117.0,6.2,Accra,N/A,MEAT LOAF
+Kiss Burger and Wraps Bar,HOT OVEN CHICKEN LOAF,104.0,7.1,Accra,N/A,MEAT LOAF
+Kiss Burger and Wraps Bar,KISS FLAVOURED BEEF LOAF,110.0,6.9,Accra,N/A,MEAT LOAF
+Kiss Burger and Wraps Bar,FIRE HOUSE CHILLY GOATLITO BURGER,169.0,8.7,Accra,N/A,BURGERS
+Kiss Burger and Wraps Bar,CHILLY CRISPY FISH BURGER,149.0,7.8,Accra,N/A,BURGERS
+Kiss Burger and Wraps Bar,KISSY CHEESE BURGER,142.0,7.0,Accra,N/A,BURGERS
+Kiss Burger and Wraps Bar,BEEF BURGER,130.0,6.6,Accra,N/A,BURGERS
+Kiss Burger and Wraps Bar,LOVY CHICKEN BURGER,124.0,7.4,Accra,N/A,BURGERS
+Kiss Burger and Wraps Bar,KISS SPECIAL BURGER,169.0,8.4,Accra,N/A,BURGERS
+Kiss Burger and Wraps Bar,WETTY BEEF SHAWARMA,126.0,7.3,Accra,N/A,SHAWARMA
+Kiss Burger and Wraps Bar,HEARTY CHICKEN SHAWARMA,117.0,6.5,Accra,N/A,SHAWARMA
+Kiss Burger and Wraps Bar,SUPER DUPA SHAWARMA,143.0,7.9,Accra,N/A,SHAWARMA
+Kiss Burger and Wraps Bar,TUNA SANDWICH,117.0,6.8,Accra,N/A,SANDWICHES & WRAPS
+Kiss Burger and Wraps Bar,SMOKY CHICKEN SANDWICH,113.0,7.0,Accra,N/A,SANDWICHES & WRAPS
+Kiss Burger and Wraps Bar,GOAT WRAP,145.0,7.7,Accra,N/A,WRAPS
+Kiss Burger and Wraps Bar,SOFT BEEF WRAP,134.0,6.9,Accra,N/A,WRAPS
+Kiss Burger and Wraps Bar,CHICKEN WRAP,117.0,7.2,Accra,N/A,WRAPS
+Cherry’s Mini Pizza,Assorted boss 2 ,120.0,7.1,Accra,N/A,Cherry’s assorted fried rice
+Cherry’s Mini Pizza,Assorted boss 1,100.0,6.7,Accra,N/A,Cherry’s assorted fried rice
+Cherry’s Mini Pizza,Assorted fried rice ,80.0,5.5,Accra,N/A,Cherry’s assorted fried rice
+Cherry’s Mini Pizza,Beef and sausage fried rice ,60.0,6.0,Accra,N/A,Cherry’s rice
+Cherry’s Mini Pizza,chicken and sausage fried rice ,60.0,5.8,Accra,N/A,Cherry’s rice
+Cherry’s Mini Pizza,beef and gizzard fried rice ,65.0,6.3,Accra,N/A,Cherry’s rice
+Cherry’s Mini Pizza,chicken and gizzard fried ,60.0,6.2,Accra,N/A,Cherry’s rice
+Cherry’s Mini Pizza,Gizzard and sausage fried rice ,60.0,5.7,Accra,N/A,Cherry’s rice
+Cherry’s Mini Pizza,Beef fried rice ,60.0,6.1,Accra,N/A,Cherry’s rice
+Cherry’s Mini Pizza,Gizzard fried rice ,50.0,5.3,Accra,N/A,Cherry’s rice
+Cherry’s Mini Pizza,Chicken fried rice ,50.0,5.0,Accra,N/A,Cherry’s rice
+Cherry’s Mini Pizza,4 season  mini pizza ,200.0,8.6,Accra,N/A,Cherry’s special pizza
+Cherry’s Mini Pizza,3 season mini pizza ,170.0,8.2,Accra,N/A,Cherry’s special pizza
+Cherry’s Mini Pizza,2 season mini pizza ,150.0,7.6,Accra,N/A,Cherry’s special pizza
+Cherry’s Mini Pizza,Tuna pizza ,140.0,7.4,Accra,N/A,People’s Choice
+Cherry’s Mini Pizza,Tuna pizza ,75.0,6.5,Accra,N/A,People’s Choice
+Cherry’s Mini Pizza,pepperoni pizza ,150.0,8.3,Accra,N/A,People’s Choice
+Cherry’s Mini Pizza,beef pizza ,150.0,7.1,Accra,N/A,People’s Choice
+Cherry’s Mini Pizza,beef pizza ,80.0,6.2,Accra,N/A,People’s Choice
+Cherry’s Mini Pizza,chicken pizza ,150.0,7.0,Accra,N/A,People’s Choice
+Cherry’s Mini Pizza,chicken pizza ,80.0,6.1,Accra,N/A,People’s Choice
+Cherry’s Mini Pizza,Egg pizza ,120.0,6.6,Accra,N/A,Cherry’s choice of pizza
+Cherry’s Mini Pizza,Egg pizza ,65.0,5.9,Accra,N/A,Cherry’s choice of pizza
+Cherry’s Mini Pizza,Magarita large ,100.0,7.2,Accra,N/A,Cherry’s choice of pizza
+Cherry’s Mini Pizza,Magarita pizza ,55.0,5.5,Accra,N/A,Cherry’s choice of pizza
+Cherry’s Mini Pizza,sausage pizza ,130.0,7.1,Accra,N/A,Cherry’s choice of pizza
+Cherry’s Mini Pizza,Sausage mini pizzas ,70.0,6.1,Accra,N/A,Cherry’s choice of pizza
+Cherry’s Mini Pizza,mix pizza large ,190.0,8.1,Accra,N/A,Cherry’s choice of pizza
+Cherry’s Mini Pizza,mix pizza ,100.0,7.0,Accra,N/A,Cherry’s choice of pizza
+JarToGo Smart-food Hub,Fresh plain yoghurt (low-sugar),30.0,6.9,Accra,N/A,Main Items
+Cheezzy Pizza,Meat Lovers,99.0,8.6,Accra,N/A,Pizza
+Cheezzy Pizza,Supreme,98.0,8.3,Accra,N/A,Pizza
+Cheezzy Pizza,Margherita,97.0,7.5,Accra,N/A,Pizza
+Cheezzy Pizza,Lemonade Juice,54.0,6.7,Accra,N/A,Drinks
+HM Eatery,Banku with Light Soup and Fish,85.0,8.5,Accra,N/A,Banku Dishes
+HM Eatery,Banku,10.0,5.1,Accra,N/A,Extras
+HM Eatery,Beef,25.0,6.2,Accra,N/A,Extras
+HM Eatery,Banku with Palmnut Soup and Fish,85.0,8.0,Accra,N/A,Banku Dishes
+HM Eatery,Tuna,15.0,6.0,Accra,N/A,Extras
+HM Eatery,Sausage,10.0,4.8,Accra,N/A,Extras
+HM Eatery,Egg,10.0,4.6,Accra,N/A,Extras
+HM Eatery,Banku with Okro Stew and Tuna,85.0,7.9,Accra,N/A,Banku Dishes
+Munchy’s Ring Road,Slim Macho Shawarma,168.0,8.4,Accra,N/A,Shawarmas
+Munchy’s Ring Road,Oreo Vanilla Milkshake,96.0,8.3,Accra,N/A,Milkshakes
+Munchy’s Ring Road,Tuna Melt Sandwich,96.0,7.0,Accra,N/A,Sandwiches
+Munchy’s Ring Road,Chicken Salad,96.0,7.1,Accra,N/A,Salads
+Munchy’s Ring Road,Tropical Twist,54.0,7.5,Accra,N/A,Smoothies
+Munchy’s Ring Road,Munchys Sunnyside,144.0,8.8,Accra,N/A,Burgers
+Munchy’s Ring Road,Smooth Cruise Smoothie,54.0,7.3,Accra,N/A,Smoothies
+Munchy’s Ring Road,Seasoned Pork Shawarma,96.0,6.9,Accra,N/A,Shawarmas
+Munchy’s Ring Road,Ice Cold Coffee Shake,84.0,7.4,Accra,N/A,Milkshakes
+Munchy’s Ring Road,Beef Salad,96.0,6.8,Accra,N/A,Salads
+Munchy’s Ring Road,Quarter Pounder with Cheese Burger,102.0,7.7,Accra,N/A,Burgers
+Munchy’s Ring Road,Munchy's Special Sandwich,96.0,7.0,Accra,N/A,Sandwiches
+Munchy’s Ring Road,Oliver Twist Sandwich,96.0,6.6,Accra,N/A,Sandwiches
+Munchy’s Ring Road,Strawberry Shake,84.0,7.4,Accra,N/A,Milkshakes
+Munchy’s Ring Road,Double Decker Burger,144.0,8.7,Accra,N/A,Burgers
+Munchy’s Ring Road,House Party Smoothie,54.0,7.2,Accra,N/A,Smoothies
+Munchy’s Ring Road,Vegetarian Salad,72.0,5.9,Accra,N/A,Salads
+Munchy’s Ring Road,Tuna Shawarma,96.0,7.5,Accra,N/A,Shawarmas
+Munchy’s Ring Road,Bacon Double Cheese Burger,144.0,8.6,Accra,N/A,Burgers
+Munchy’s Ring Road,Chocolate Caramel Shake,96.0,7.8,Accra,N/A,Milkshakes
+Munchy’s Ring Road,Sweet & Spicy Shawarma,108.0,7.3,Accra,N/A,Shawarmas
+Munchy’s Ring Road,Coco Banana Smoothie,54.0,6.7,Accra,N/A,Smoothies
+Munchy’s Ring Road,Chicken Cheese,108.0,7.7,Accra,N/A,Shawarmas
+Munchy’s Ring Road,Chicken Cheese Burger,102.0,8.0,Accra,N/A,Burgers
+Munchy’s Ring Road,Beef on Bacon Burger,102.0,8.2,Accra,N/A,Burgers
+Munchy’s Ring Road,Munchy's Favorite Milkshake,84.0,7.1,Accra,N/A,Milkshakes
+Munchy’s Ring Road,Farmhouse Shawarma,108.0,8.4,Accra,N/A,Shawarmas
+Munchy’s Ring Road,Sweet in the Middle Sandwich,96.0,7.0,Accra,N/A,Sandwiches
+Munchy’s Ring Road,Mangopine Smoothie,54.0,6.9,Accra,N/A,Smoothies
+Munchy’s Ring Road,Tuna Salad,96.0,6.8,Accra,N/A,Salads
+Munchy’s Ring Road,Quarter Pounder Burger,102.0,7.6,Accra,N/A,Burgers
+Asanka Restaurant,Spicy Potatoes,95.0,5.7,Accra,N/A,Starters
+Asanka Restaurant,Fries and shrimps,155.0,8.1,Accra,N/A,Fries
+Asanka Restaurant,Gizzard and sausage Jollof,115.0,6.6,Accra,N/A,Rice / Jollof
+Asanka Restaurant,Chilli Chicken Dry,85.0,5.3,Accra,N/A,Starters
+Asanka Restaurant,Banku & Fish,115.0,7.5,Accra,N/A,Banku
+Asanka Restaurant,Squid Fried Rice,155.0,7.8,Accra,N/A,Rice Menu
+Asanka Restaurant,Shrimps Chilli Garlic,135.0,8.4,Accra,N/A,Starters
+Asanka Restaurant,Assorted Fried Rice,125.0,6.7,Accra,N/A,Rice Menu
+Asanka Restaurant,Chicken Sweet and Sour Sauce with Rice,130.0,7.6,Accra,N/A,Chicken Sauce
+Asanka Restaurant,Chicken in Black Beans Sauce with Rice,130.0,6.7,Accra,N/A,Chicken Sauce
+Asanka Restaurant,Fish Sweet Chilli Sauce with Rice,135.0,7.4,Accra,N/A,Fish Sauce
+Asanka Restaurant,Shrimps Sweet Chilli Sauce with Rice,155.0,8.2,Accra,N/A,Shrimps Sauce
+Asanka Restaurant,Rice or Jollof & Tilapia,135.0,7.7,Accra,N/A,Rice / Jollof
+Asanka Restaurant,Akyeke & Squid,155.0,7.0,Accra,N/A,Akyeke
+Asanka Restaurant,Squid Jollof rice,135.0,7.5,Accra,N/A,Rice / Jollof
+Asanka Restaurant,Fries and squid,155.0,7.6,Accra,N/A,Fries
+Asanka Restaurant,Fries and tilapia,135.0,7.2,Accra,N/A,Fries
+Asanka Restaurant,Banku & Fried Squid,135.0,7.1,Accra,N/A,Banku
+Asanka Restaurant,Chicken Noodles,115.0,6.3,Accra,N/A,Noodles
+Asanka Restaurant,Birthday Noodles,105.0,5.9,Accra,N/A,Noodles
+Asanka Restaurant,Vegetable Fried Rice,100.0,6.1,Accra,N/A,Rice Menu
+Asanka Restaurant,Beef Sweet and Sour Sauce with Rice,130.0,7.1,Accra,N/A,Beef Sauce
+Asanka Restaurant,Fish Curry Sauce with Rice,135.0,7.0,Accra,N/A,Fish Sauce
+Asanka Restaurant,Red Red & Fried Turkey Wings,115.0,7.6,Accra,N/A,Red Red
+Asanka Restaurant,Rice or Jollof & Fried Fish,115.0,6.9,Accra,N/A,Rice / Jollof
+Asanka Restaurant,Tuna Sandwich,90.0,5.5,Accra,N/A,Starters
+Asanka Restaurant,Chicken Spicy Chilli Sauce with Rice,130.0,7.2,Accra,N/A,Chicken Sauce
+Asanka Restaurant,Shrimps Curry Sauce with Rice,155.0,8.3,Accra,N/A,Shrimps Sauce
+Asanka Restaurant,Squid Curry Sauce with Rice,155.0,7.9,Accra,N/A,Squid Sauce
+Asanka Restaurant,Squid Green Pepper Sauce with Rice,155.0,7.4,Accra,N/A,Squid Sauce
+Asanka Restaurant,Ampesi & Tilapia Palava Sauce,155.0,8.0,Accra,N/A,Ampesi
+Asanka Restaurant,Red Red & Fried Chicken,105.0,6.8,Accra,N/A,Red Red
+Asanka Restaurant,Egg Fried Rice,100.0,5.7,Accra,N/A,Rice Menu
+Asanka Restaurant,Banku & Turkey Wings,115.0,7.3,Accra,N/A,Banku
+Asanka Restaurant,Squid in Black Beans Sauce with Rice,155.0,6.5,Accra,N/A,Squid Sauce
+Asanka Restaurant,Shrimps Jollof rice,135.0,7.7,Accra,N/A,Rice / Jollof
+Asanka Restaurant,Banku & Chicken,105.0,6.3,Accra,N/A,Banku
+Asanka Restaurant,Red Red & Fried Fish,115.0,7.0,Accra,N/A,Red Red
+Asanka Restaurant,Fufu & Chicken Soup,110.0,7.8,Accra,N/A,Fufu
+Asanka Restaurant,Fries and chicken,115.0,6.9,Accra,N/A,Fries
+Asanka Restaurant,French Fries,85.0,5.6,Accra,N/A,Starters
+Asanka Restaurant,Rice or Jollof & Turkey Wings,115.0,7.1,Accra,N/A,Rice / Jollof
+Asanka Restaurant,Rice or Jollof & Chicken Wings,110.0,7.0,Accra,N/A,Rice / Jollof
+Asanka Restaurant,"Veg Rice, Fries & Seafood Platter",185.0,8.6,Accra,N/A,Asanka Special
+Asanka Restaurant,Banku & Tilapia,135.0,7.9,Accra,N/A,Banku
+Asanka Restaurant,Chicken Fried Rice,115.0,6.2,Accra,N/A,Rice Menu
+Asanka Restaurant,Yam Chips & Seafood Platter,185.0,8.4,Accra,N/A,Asanka Special
+Asanka Restaurant,Chicken Curry Sauce with Rice,130.0,7.4,Accra,N/A,Chicken Sauce
+Asanka Restaurant,Beef Sweet Chilli Sauce with Rice,130.0,7.3,Accra,N/A,Beef Sauce
+Asanka Restaurant,Chicken Sweet Chilli Sauce with Rice,130.0,7.5,Accra,N/A,Chicken Sauce
+Asanka Restaurant,Squid Spicy Chilli Sauce with Rice,155.0,8.1,Accra,N/A,Squid Sauce
+Asanka Restaurant,Fish Spicy Chilli Sauce with Rice,135.0,7.2,Accra,N/A,Fish Sauce
+Asanka Restaurant,Beef and chicken jollof,125.0,7.0,Accra,N/A,Rice / Jollof
+Asanka Restaurant,Fufu & Fish Light Soup,110.0,7.3,Accra,N/A,Fufu
+Asanka Restaurant,Rice or Jollof & Fried Chicken,110.0,7.4,Accra,N/A,Rice / Jollof
+Asanka Restaurant,Beef Chilli Sauce with Rice,130.0,7.2,Accra,N/A,Beef Sauce
+Asanka Restaurant,Yam Chips & Fish or Chicken,115.0,7.5,Accra,N/A,Asanka Special
+Asanka Restaurant,Chicken Chilli Sauce with Rice,130.0,7.6,Accra,N/A,Chicken Sauce
+Asanka Restaurant,Squid Sweet Chilli Sauce with Rice,155.0,7.8,Accra,N/A,Squid Sauce
+Asanka Restaurant,Ampesi & Turkey Wings Palava Sauce,135.0,7.1,Accra,N/A,Ampesi
+Asanka Restaurant,Golden Fried Fish,135.0,7.8,Accra,N/A,Starters
+Asanka Restaurant,Chilli Chicken Garlic,85.0,6.2,Accra,N/A,Starters
+Asanka Restaurant,French Fries & Seafood Platter,185.0,8.7,Accra,N/A,Asanka Special
+Asanka Restaurant,Beef Noodles,115.0,6.5,Accra,N/A,Noodles
+Asanka Restaurant,Gizzard and sausage fried rice,110.0,6.8,Accra,N/A,Rice Menu
+Asanka Restaurant,Fufu & Cow Light Soup,110.0,7.0,Accra,N/A,Fufu
+Asanka Restaurant,Akyeke & Fried Fish,135.0,7.5,Accra,N/A,Akyeke
+Asanka Restaurant,Beef Spicy Chilli Sauce with Rice,130.0,7.2,Accra,N/A,Beef Sauce
+Asanka Restaurant,Yam Chips & Tilapia,135.0,8.1,Accra,N/A,Asanka Special
+Asanka Restaurant,Goat Jollof rice,115.0,7.1,Accra,N/A,Rice Menu
+Asanka Restaurant,Shrimps Fried Rice,155.0,8.4,Accra,N/A,Rice Menu
+Asanka Restaurant,Fufu & Goat Soup,110.0,8.0,Accra,N/A,Fufu
+Asanka Restaurant,Beef Curry Sauce with Rice,130.0,7.5,Accra,N/A,Beef Sauce
+Asanka Restaurant,Akyeke & Tilapia,155.0,8.2,Accra,N/A,Akyeke
+Asanka Restaurant,Crispy Fried Squid,135.0,8.0,Accra,N/A,Starters
+Asanka Restaurant,Chicken Wings,85.0,6.2,Accra,N/A,Starters
+Asanka Restaurant,Fish Fried Rice,115.0,7.3,Accra,N/A,Rice Menu
+Asanka Restaurant,Seafood Fried Rice,185.0,8.5,Accra,N/A,Rice Menu
+Asanka Restaurant,Fried Rice with Chicken Wings,115.0,7.4,Accra,N/A,Rice Menu
+Asanka Restaurant,Fish in Black Beans Sauce with Rice,135.0,7.7,Accra,N/A,Fish Sauce
+Asanka Restaurant,Shrimps Spicy Chilli Sauce with Rice,155.0,8.4,Accra,N/A,Shrimps Sauce
+Asanka Restaurant,Shrimps Chilli Sauce with Rice,155.0,8.0,Accra,N/A,Shrimps Sauce
+Asanka Restaurant,Fries and tilapia,135.0,7.4,Accra,N/A,Fries
+Asanka Restaurant,Squid Noodles,135.0,7.5,Accra,N/A,Noodles
+Asanka Restaurant,Seafood Noodles,185.0,8.3,Accra,N/A,Noodles
+Asanka Restaurant,Vegetable Noodles,95.0,6.2,Accra,N/A,Noodles
+Asanka Restaurant,Asanka Special Fried Rice,115.0,7.0,Accra,N/A,Rice Menu
+Asanka Restaurant,Shrimps Sweet and Sour Sauce with Rice,155.0,8.6,Accra,N/A,Shrimps Sauce
+Asanka Restaurant,Chicken in Curry Fried Rice,110.0,6.4,Accra,N/A,Rice Menu
+Asanka Restaurant,Squid Chilli Sauce with Rice,155.0,8.2,Accra,N/A,Squid Sauce
+Asanka Restaurant,Beef Green Pepper Sauce with Rice,130.0,7.4,Accra,N/A,Beef Sauce
+Asanka Restaurant,Goat jollof rice,125.0,7.6,Accra,N/A,Rice / Jollof
+Asanka Restaurant,Fish Green Pepper Sauce with Rice,135.0,7.2,Accra,N/A,Fish Sauce
+Asanka Restaurant,Shrimps Noodles,135.0,7.8,Accra,N/A,Noodles
+Asanka Restaurant,Red Red & Tilapia,135.0,7.9,Accra,N/A,Red Red
+Asanka Restaurant,Ampesi & Fried Fish Palava Sauce,125.0,7.5,Accra,N/A,Ampesi
+Asanka Restaurant,Assorted Noodles,125.0,6.3,Accra,N/A,Noodles
+Asanka Restaurant,Rice or Jollof & Chicken Soup,110.0,7.2,Accra,N/A,Rice / Jollof
+Asanka Restaurant,Golden Fried Shrimps,135.0,8.7,Accra,N/A,Starters
+Asanka Restaurant,Akyeke & Seafood Platter,185.0,8.9,Accra,N/A,Asanka Special
+Asanka Restaurant,Club Sandwich,90.0,6.0,Accra,N/A,Starters
+Asanka Restaurant,Beef in Black Beans Sauce with Rice,130.0,7.1,Accra,N/A,Beef Sauce
+Asanka Restaurant,Chicken Green Pepper Sauce with Rice,130.0,7.3,Accra,N/A,Chicken Sauce
+Asanka Restaurant,Rice or Jollof & Spicy Squid,135.0,8.4,Accra,N/A,Rice / Jollof
+Asanka Restaurant,Banku & Chicken Wings,110.0,7.0,Accra,N/A,Banku
+Asanka Restaurant,Fried Rice with Chicken,110.0,6.5,Accra,N/A,Rice Menu
+Asanka Restaurant,Beef Fried Rice,115.0,7.0,Accra,N/A,Rice Menu
+Asanka Restaurant,Fish Sweet and Sour Sauce with Rice,135.0,7.6,Accra,N/A,Fish Sauce
+The Gold Coast Restaurant,Akonfem half,170.0,7.9,Accra,N/A,Light Bites and Appetizers
+The Gold Coast Restaurant,Waakye premium with Beef or Fish Stew and plantain,120.0,7.3,Accra,N/A,Special Waakye
+The Gold Coast Restaurant,Steamed veg,100.0,5.5,Accra,N/A,Starters
+The Gold Coast Restaurant,Shreddered beef sauce,190.0,6.7,Accra,N/A,SAUCES
+The Gold Coast Restaurant,Tilapia a La Abidjan,170.0,8.2,Accra,N/A,SEAFOOD
+The Gold Coast Restaurant,GC Special Rice,200.0,8.6,Accra,N/A,GC Specials
+The Gold Coast Restaurant,Chicken light soup,126.0,7.2,Accra,N/A,Locals
+The Gold Coast Restaurant,Original Chef’s Special - Chicken Grill,180.0,8.0,Accra,N/A,Chicken Grills
+The Gold Coast Restaurant,Waakye,44.0,5.8,Accra,N/A,Sides
+The Gold Coast Restaurant,GC Mini Butcher’s Platter,650.0,9.0,Accra,N/A,Meat Platters
+The Gold Coast Restaurant,GC Mini Seafood Platter,700.0,9.1,Accra,N/A,Seafood Platters
+The Gold Coast Restaurant,Nkatse,150.0,6.3,Accra,N/A,Locals
+The Gold Coast Restaurant,Chicken Wings,180.0,7.7,Accra,N/A,Chicken Grills
+The Gold Coast Restaurant,Jerk pork,150.0,7.1,Accra,N/A,Light Bites and Appetizers
+The Gold Coast Restaurant,Vegetable Rice,65.0,5.4,Accra,N/A,Sides
+The Gold Coast Restaurant,Chicken salad,150.0,6.9,Accra,N/A,Starters
+The Gold Coast Restaurant,King Prawn Special,300.0,8.9,Accra,N/A,SEAFOOD
+The Gold Coast Restaurant,Okro stew/soup,100.0,6.8,Accra,N/A,Locals
+The Gold Coast Restaurant,Mixed Green Salad,130.0,6.0,Accra,N/A,Starters
+The Gold Coast Restaurant,Plain Rice,50.0,5.2,Accra,N/A,Sides
+The Gold Coast Restaurant,Original Chef’s Special - Appetizers,125.0,7.0,Accra,N/A,Light Bites and Appetizers
+The Gold Coast Restaurant,Grilled Chicken Wings,140.0,7.5,Accra,N/A,Light Bites and Appetizers
+The Gold Coast Restaurant,Red Red,95.0,6.7,Accra,N/A,Locals
+The Gold Coast Restaurant,Yam Fries,65.0,5.6,Accra,N/A,Sides
+The Gold Coast Restaurant,Potato Fries,50.0,4.8,Accra,N/A,Sides
+The Gold Coast Restaurant,Dry fish soup,150.0,7.1,Accra,N/A,Locals
+The Gold Coast Restaurant,Kelewele,85.0,6.6,Accra,N/A,Light Bites and Appetizers
+The Gold Coast Restaurant,Atseke,58.0,5.9,Accra,N/A,Sides
+The Gold Coast Restaurant,Aponkyi Nkakra,150.0,7.2,Accra,N/A,Locals
+The Gold Coast Restaurant,Abe,150.0,6.8,Accra,N/A,Locals
+The Gold Coast Restaurant,Plantain / Aloko,65.0,5.5,Accra,N/A,Sides
+The Gold Coast Restaurant,Palava sauce,150.0,7.0,Accra,N/A,Locals
+The Gold Coast Restaurant,Yam Balls,65.0,5.7,Accra,N/A,Sides
+The Gold Coast Restaurant,Banku,15.0,4.4,Accra,N/A,Sides
+The Gold Coast Restaurant,Fufu,20.0,5.5,Accra,N/A,Sides
+The Gold Coast Restaurant,Omotuo,20.0,5.6,Accra,N/A,Sides
+The Gold Coast Restaurant,Boiled Yam,35.0,5.9,Accra,N/A,Sides
+The Gold Coast Restaurant,Copy of Waakye premium with Beef or Fish Stew,80.0,6.0,Accra,N/A,Special Waakye
+The Gold Coast Restaurant,Chef's special stir-fry noodles,200.0,8.2,Accra,N/A,GC Specials
+The Gold Coast Restaurant,Jollof Rice,65.0,6.5,Accra,N/A,Sides
+The Gold Coast Restaurant,Akonfem full,300.0,8.4,Accra,N/A,Light Bites and Appetizers
+The Gold Coast Restaurant,Spicy fried calamari,200.0,8.0,Accra,N/A,Starters
+The Gold Coast Restaurant,Tilapia light soup,150.0,7.8,Accra,N/A,Locals
+The Gold Coast Restaurant,Jerk pork,200.0,7.5,Accra,N/A,Chicken Grills
+The Gold Coast Restaurant,Jerk Pork,150.0,7.1,Accra,N/A,Pork Grills
+The Gold Coast Restaurant,GC Butcher’s Platter,800.0,9.2,Accra,N/A,Meat Platters
+The Gold Coast Restaurant,Shredded chicken sauce,180.0,6.9,Accra,N/A,SAUCES
+The Gold Coast Restaurant,GC Seafood Platter,900.0,9.3,Accra,N/A,Seafood Platters
+The Gold Coast Restaurant,Cassava Cassava,150.0,7.0,Accra,N/A,SEAFOOD
+Wonder Wings,Family Pack,768.0,9.0,Accra,N/A,Lifestyle Packages
+Wonder Wings,Group Pack,480.0,8.7,Accra,N/A,Lifestyle Packages
+Wonder Wings,Crew Pack,288.0,8.4,Accra,N/A,Lifestyle Packages
+Wonder Wings,Party Pack,960.0,9.2,Accra,N/A,Lifestyle Packages
+Ninano Restaurant Osu,Cheese Kimbap (10pcs),115.0,7.2,Accra,N/A,Kimbap
+Ninano Restaurant Osu,Bibim Naengmyum,180.0,7.7,Accra,N/A,Noodles
+Ninano Restaurant Osu,Water,10.0,9.4,Accra,N/A,Drinks
+Ninano Restaurant Osu,Seafood Pajeon,150.0,7.5,Accra,N/A,Appetizer
+Ninano Restaurant Osu,Grilled Mackerel,175.0,8.2,Accra,N/A,Main Meals
+Ninano Restaurant Osu,Soya Garlic Fried Rice,80.0,6.5,Accra,N/A,Sides
+Ninano Restaurant Osu,Japachae Meal,210.0,7.8,Accra,N/A,Noodles
+Ninano Restaurant Osu,Bibimbap,175.0,8.0,Accra,N/A,Main Meals
+Ninano Restaurant Osu,Fanta 0.5L,18.0,6.5,Accra,N/A,Drinks
+Ninano Restaurant Osu,Tuna Kimbap (10pcs),115.0,7.1,Accra,N/A,Kimbap
+Ninano Restaurant Osu,Jjajangmyeon,155.0,7.4,Accra,N/A,Noodles
+Ninano Restaurant Osu,Chung-mu Kimbap (10pcs),190.0,7.6,Accra,N/A,Kimbap
+Ninano Restaurant Osu,Sprite 0.5L,18.0,6.2,Accra,N/A,Drinks
+Ninano Restaurant Osu,Kimchi Fried Rice,115.0,7.3,Accra,N/A,Main Meals
+Ninano Restaurant Osu,Spicy stir fried squid,215.0,8.1,Accra,N/A,Main Meals
+Ninano Restaurant Osu,Coke 0.5L,18.0,6.7,Accra,N/A,Drinks
+Ninano Restaurant Osu,Spicy Pork Bulgogi,190.0,8.4,Accra,N/A,Main Meals
+Ninano Restaurant Osu,Heineken,50.0,7.0,Accra,N/A,Drinks
+Ninano Restaurant Osu,Bulgogi,190.0,8.5,Accra,N/A,Main Meals
+Ninano Restaurant Osu,Bulgogi Bibimbap,200.0,8.8,Accra,N/A,Main Meals
+Ninano Restaurant Osu,Squid Bibimbap,215.0,8.3,Accra,N/A,Main Meals
+Ninano Restaurant Osu,Teriyaki Chicken Meal,230.0,8.6,Accra,N/A,Main Meals
+Ninano Restaurant Osu,Spicy Stir Fried Squid Meal,240.0,8.2,Accra,N/A,Main Meals
+Ninano Restaurant Osu,Pork Belly,195.0,8.0,Accra,N/A,Main Meals
+Ninano Restaurant Osu,Spicy Pork Bulgogi Meal,215.0,8.4,Accra,N/A,Main Meals
+Ninano Restaurant Osu,Bulgogi Meal,215.0,8.2,Accra,N/A,Main Meals
+Ninano Restaurant Osu,Pork Ribs,300.0,8.9,Accra,N/A,Main Meals
+Ninano Restaurant Osu,Galbi Jjim Meal,240.0,8.3,Accra,N/A,Main Meals
+Ninano Restaurant Osu,Japachae,185.0,7.6,Accra,N/A,Noodles
+Ninano Restaurant Osu,Kimchi Jeon,150.0,6.9,Accra,N/A,Appetizer
+Ninano Restaurant Osu,Soju,140.0,8.2,Accra,N/A,Drinks
+Ninano Restaurant Osu,Teriyaki Chicken,170.0,7.8,Accra,N/A,Main Meals
+Ninano Restaurant Osu,Korean Plain Rice,35.0,5.0,Accra,N/A,Sides
+Ninano Restaurant Osu,Bulgogi Kimbap (10pcs),115.0,7.0,Accra,N/A,Kimbap
+Yah Restaurant,Waffle,104.0,6.9,Accra,N/A,Waffle
+Yah Restaurant,Scoop of Ice Cream (1),46.0,6.0,Accra,N/A,Ice Cream
+Yah Restaurant,Pancake,104.0,7.1,Accra,N/A,Pancake
+Yah Restaurant,Vanilla Milkshake,104.0,7.5,Accra,N/A,Milkshake
+Yah Restaurant,Strawberry Milkshake,104.0,7.6,Accra,N/A,Milkshake
+Yah Restaurant,Full House Yoghurt,116.0,8.0,Accra,N/A,Fresh Yoghurt Creation
+Yah Restaurant,Nutty Banana Smoothie,79.0,7.3,Accra,N/A,Smoothies
+Yah Restaurant,Scoops of Ice Cream (2),87.0,7.0,Accra,N/A,Ice Cream
+Yah Restaurant,Mango and Pineapple Smoothie,91.0,7.2,Accra,N/A,Smoothies
+Yah Restaurant,Scoops of Ice Cream (3),128.0,8.0,Accra,N/A,Ice Cream
+Yah Restaurant,Cheesecake Milkshake,117.0,8.2,Accra,N/A,Milkshake
+Yah Restaurant,Oreo Milkshake,117.0,8.1,Accra,N/A,Milkshake
+Yah Restaurant,Strawberry and Banana Smoothie,107.0,7.5,Accra,N/A,Smoothies
+Yah Restaurant,Custom Milkshake,122.0,7.8,Accra,N/A,Milkshake
+Yah Restaurant,Strawberry and Pineapple Smoothie,107.0,7.0,Accra,N/A,Smoothies
+Yah Restaurant,Tropical Delight Smoothie,110.0,7.3,Accra,N/A,Smoothies
+Yah Restaurant,Irish Cream Milkshake,148.0,8.6,Accra,N/A,Milkshake
+Yah Restaurant,Mango Straweberry Smoothie,110.0,7.5,Accra,N/A,Smoothies
+Yah Restaurant,Waffle with Syrup,91.0,7.2,Accra,N/A,Waffle
+Yah Restaurant,Ice Kenkey Smoothie,75.0,6.4,Accra,N/A,Smoothies
+Yah Restaurant,Shawarma,112.0,7.8,Accra,N/A,Shawarma
+Yah Restaurant,Chunky Apple Yoghurt,91.0,7.7,Accra,N/A,Fresh Yoghurt Creation
+Yah Restaurant,Salad,112.0,6.6,Accra,N/A,Salad
+Yah Restaurant,Ice Cream Cone,16.0,5.5,Accra,N/A,Ice Cream
+Yah Restaurant,Chocolate Milkshake,104.0,7.4,Accra,N/A,Milkshake
+Yah Restaurant,Pancake with Syrup,91.0,7.0,Accra,N/A,Pancake
+Yah Restaurant,Fula Smoothie,75.0,6.7,Accra,N/A,Smoothies
+Yah Restaurant,Tropical Crunch Yoghurt,107.0,8.0,Accra,N/A,Fresh Yoghurt Creation
+Pinocchio Osu,Four Season Pizza,160.0,8.3,Accra,N/A,Pizza
+Pinocchio Osu,Linguini Cardonara,210.0,7.8,Accra,N/A,Pasta
+Pinocchio Osu,Double Espresso,60.0,7.0,Accra,N/A,Coffee
+Pinocchio Osu,Filetto alla Griglia (Grilled Imported Steak),300.0,8.7,Accra,N/A,Fish and Meat
+Pinocchio Osu,Mediterranean Salad,110.0,6.5,Accra,N/A,Salads
+Pinocchio Osu,Baked Potatoes,60.0,5.4,Accra,N/A,Side Dishes
+Pinocchio Osu,The Greek Pizza,140.0,7.9,Accra,N/A,Pizza
+Pinocchio Osu,Salad,60.0,5.7,Accra,N/A,Side Dishes
+Pinocchio Osu,Cafe Latte,60.0,7.2,Accra,N/A,Coffee
+Pinocchio Osu,Rigatoni alla Bolognese,150.0,7.6,Accra,N/A,Pasta
+Pinocchio Osu,Petto di Pollo alla Griglia (Grilled Chicken Breast),160.0,8.2,Accra,N/A,Fish and Meat
+Pinocchio Osu,Avocado Lobster and Prawns,300.0,8.9,Accra,N/A,Salads
+Pinocchio Osu,Chicken Caesar Salad,140.0,7.3,Accra,N/A,Salads
+Pinocchio Osu,French Fries,50.0,5.0,Accra,N/A,Side Dishes
+Pinocchio Osu,Calamari Fritti o Grigliati,210.0,8.1,Accra,N/A,Appetizers
+Pinocchio Osu,Lasagna,165.0,8.4,Accra,N/A,Pasta
+Pinocchio Osu,Dal Mare Pizza,330.0,8.8,Accra,N/A,Pizza
+Pinocchio Osu,Chicken Delight Pizza,185.0,7.7,Accra,N/A,Pizza
+Pinocchio Osu,Mozzarella Sticks,100.0,6.9,Accra,N/A,Appetizers
+Pinocchio Osu,Spaghetti all Aragosta,280.0,8.6,Accra,N/A,Pasta
+Pinocchio Osu,Grigliata di Mare (Mixed Seafood Platter),470.0,9.2,Accra,N/A,Fish and Meat
+Pinocchio Osu,Octopus Salad,160.0,7.8,Accra,N/A,Salads
+Pinocchio Osu,Cappucino,60.0,7.4,Accra,N/A,Coffee
+Pinocchio Osu,Napoletana Pizza,260.0,8.3,Accra,N/A,Pizza
+Pinocchio Osu,Grissini,30.0,5.2,Accra,N/A,Appetizers
+Pinocchio Osu,Gnocchi al Pomodoro,120.0,6.6,Accra,N/A,Pasta
+Pinocchio Osu,Pesto Pasta,120.0,7.0,Accra,N/A,Pasta
+Pinocchio Osu,Spicy Diavola Pizza,135.0,7.9,Accra,N/A,Pizza
+Pinocchio Osu,Fritto Misto (Mixed Fried Seafood),400.0,9.0,Accra,N/A,Fish and Meat
+Pinocchio Osu,Four Cheese Pizza,190.0,8.2,Accra,N/A,Pizza
+Pinocchio Osu,Pasta dal Mare,350.0,8.7,Accra,N/A,Pasta
+Pinocchio Osu,Hawaiiana Pizza,175.0,7.3,Accra,N/A,Pizza
+Pinocchio Osu,Croissant,30.0,6.8,Accra,N/A,Ice-Cream and Dessert
+Pinocchio Osu,Penne Brandy and Shrimps,195.0,8.5,Accra,N/A,Pasta
+Pinocchio Osu,Penne Arabiata,100.0,6.2,Accra,N/A,Pasta
+Pinocchio Osu,Pepperoni Pizza,135.0,7.6,Accra,N/A,Pizza
+Pinocchio Osu,Cookie,30.0,5.9,Accra,N/A,Ice-Cream and Dessert
+Pinocchio Osu,Regina Pizza,160.0,8.0,Accra,N/A,Pizza
+Pinocchio Osu,Vegetarian Pizza,150.0,7.0,Accra,N/A,Pizza
+Pinocchio Osu,Kebab Pizza,250.0,8.5,Accra,N/A,Pizza
+Pinocchio Osu,Calzone Classic Pizza,180.0,7.7,Accra,N/A,Pizza
+Pinocchio Osu,Marble Cake,50.0,6.9,Accra,N/A,Ice-Cream and Dessert
+Pinocchio Osu,Capricciosa Pizza,160.0,7.5,Accra,N/A,Pizza
+Pinocchio Osu,Brownie,50.0,7.2,Accra,N/A,Ice-Cream and Dessert
+Pinocchio Osu,Tonno Pizza,180.0,8.0,Accra,N/A,Pizza
+Pinocchio Osu,Tiramisu,90.0,8.3,Accra,N/A,Ice-Cream and Dessert
+Pinocchio Osu,Avocado Pesto Pizza,130.0,7.6,Accra,N/A,Pizza
+Pinocchio Osu,Gelato 1 Scoop,35.0,6.7,Accra,N/A,Ice-Cream and Dessert
+Pinocchio Osu,Giant Pepperoni Pizza,260.0,8.8,Accra,N/A,Pizza
+Pinocchio Osu,Giant Mix Pizza,450.0,9.1,Accra,N/A,Pizza
+Pinocchio Osu,Bambino Marghettia,80.0,5.8,Accra,N/A,Pizza
+Pinocchio Osu,Bambino Pepperoni Pizza,100.0,6.6,Accra,N/A,Pizza
+Pinocchio Osu,Bufala Pizza,180.0,8.3,Accra,N/A,Pizza
+Pinocchio Osu,Giant Margherita Pizza,200.0,8.4,Accra,N/A,Pizza
+Pinocchio Osu,Crudo e Recula Pizza,220.0,7.9,Accra,N/A,Pizza
+Pinocchio Osu,Campagna Pizza,210.0,8.1,Accra,N/A,Pizza
+Pinocchio Osu,Marinara Pizza,80.0,5.4,Accra,N/A,Pizza
+Pinocchio Osu,Margherita Pizza,100.0,7.0,Accra,N/A,Pizza
+Pinocchio Osu,Gratin Potatoes,80.0,6.1,Accra,N/A,Side Dishes
+Pinocchio Osu,Espresso,30.0,7.2,Accra,N/A,Coffee
+Pinocchio Osu,Tropical Salad,140.0,7.5,Accra,N/A,Salads
+Pinocchio Osu,Casareccio Pizza,100.0,7.1,Accra,N/A,Pizza
+Pinocchio Osu,Bruschetta Mix,100.0,7.3,Accra,N/A,Appetizers
+Pinocchio Osu,Spaghetti la Piazza,170.0,7.7,Accra,N/A,Pasta
+Pinocchio Osu,Ginger Pineapple,35.0,6.6,Accra,N/A,Fresh Juice
+Pinocchio Osu,Gelato 4Scoop,140.0,8.0,Accra,N/A,Ice-Cream and Dessert
+Pinocchio Osu,TONNO PANINI,180.0,7.8,Accra,N/A,Panini Sandwich
+Pinocchio Osu,MELTY STEAK,260.0,8.6,Accra,N/A,Panini Sandwich
+Pinocchio Osu,Jack Daniels gls,110.0,8.3,Accra,N/A,Whisky
+Pinocchio Osu,Cotoletta alla Milanese (Chicken Milanese),200.0,8.2,Accra,N/A,Fish and Meat
+Pinocchio Osu,House Wine (Long Mountain),220.0,8.0,Accra,N/A,Red Wine
+Pinocchio Osu,Veuve Cliquot btl,1800.0,9.2,Accra,N/A,Champagne
+Pinocchio Osu,Olmeca Gold,80.0,7.5,Accra,N/A,Tequila
+Pinocchio Osu,Coke Light,50.0,5.8,Accra,N/A,Soft Drinks
+Pinocchio Osu,Pinocchio Pizza,160.0,8.2,Accra,N/A,Pizza
+Pinocchio Osu,Gelato  2Scoop,70.0,7.0,Accra,N/A,Ice-Cream and Dessert
+Pinocchio Osu,Long Mountain Pinotage,220.0,8.3,Accra,N/A,Red Wine
+Pinocchio Osu,Still Water,20.0,9.4,Accra,N/A,Water
+Pinocchio Osu,Giacondi Cabernet Sauvignon,240.0,8.1,Accra,N/A,Red Wine
+Pinocchio Osu,Giacondi Pinot Grigio btl,300.0,8.2,Accra,N/A,White Wine
+Pinocchio Osu,Grey Goose gls,150.0,8.5,Accra,N/A,Vodka
+Pinocchio Osu,Skky Vodka gls,60.0,7.5,Accra,N/A,Vodka
+Pinocchio Osu,Havana Club 3 Anos,60.0,7.2,Accra,N/A,Rum
+Pinocchio Osu,Sprite,30.0,6.0,Accra,N/A,Soft Drinks
+Pinocchio Osu,Chivas Regal 12Y gls,110.0,8.4,Accra,N/A,Whisky
+Pinocchio Osu,COTTO E MOZZARELLA,180.0,8.0,Accra,N/A,Panini Sandwich
+Pinocchio Osu,Itinera Brut,500.0,8.7,Accra,N/A,Prosecco
+Pinocchio Osu,WAFFLE CONE,15.0,5.5,Accra,N/A,Ice-Cream and Dessert
+Pinocchio Osu,Margarita Classic,100.0,7.6,Accra,N/A,Cocktails
+Pinocchio Osu,Gin Basil,120.0,7.7,Accra,N/A,Cocktails
+Pinocchio Osu,Giacondi Merlot,240.0,8.1,Accra,N/A,Red Wine
+Pinocchio Osu,Bacardi Carta Negra,60.0,7.3,Accra,N/A,Rum
+Pinocchio Osu,Waffle,40.0,6.8,Accra,N/A,Ice-Cream and Dessert
+Pinocchio Osu,San Pellegrino small,45.0,8.9,Accra,N/A,Water
+Pinocchio Osu,Villa Antinori Toscana btl,600.0,8.4,Accra,N/A,White Wine
+Pinocchio Osu,Fresh  Pineapple,35.0,7.0,Accra,N/A,Fresh Juice
+Pinocchio Osu,32 Nebra,320.0,8.0,Accra,N/A,Beer
+Pinocchio Osu,32 Audace,320.0,7.9,Accra,N/A,Beer
+Pinocchio Osu,Hennessy V.S.O.P,180.0,8.8,Accra,N/A,Cognac
+Pinocchio Osu,Glemorangie The Original 10Y gls,150.0,8.3,Accra,N/A,Whisky
+Pinocchio Osu,Olmeca white,60.0,7.2,Accra,N/A,Tequila
+Pinocchio Osu,Santa Cristina Umbria,380.0,8.2,Accra,N/A,White Wine
+Pinocchio Osu,Vegetarian Panini,160.0,7.4,Accra,N/A,Panini Sandwich
+Pinocchio Osu,Moet Chandon Brut btl,1800.0,9.3,Accra,N/A,Champagne
+Pinocchio Osu,Coca-Cola,30.0,6.2,Accra,N/A,Soft Drinks
+Pinocchio Osu,Belvedere gls,120.0,8.2,Accra,N/A,Vodka
+Pinocchio Osu,Moscow Mule,100.0,7.7,Accra,N/A,Cocktails
+Pinocchio Osu,Cuba Libre,90.0,7.0,Accra,N/A,Cocktails
+Pinocchio Osu,Negroni,120.0,7.8,Accra,N/A,Cocktails
+Pinocchio Osu,Ciroc,80.0,7.6,Accra,N/A,Vodka
+Pinocchio Osu,Ice Cream 1/2 KG,240.0,8.4,Accra,N/A,Ice-Cream and Dessert
+Pinocchio Osu,Klein Vesting Merlot,260.0,8.1,Accra,N/A,Red Wine
+Pinocchio Osu,White House Wine,50.0,6.4,Accra,N/A,White Wine
+Pinocchio Osu,Friesland Stellenbosch Sauvignon Blanc btl,380.0,8.6,Accra,N/A,White Wine
+Pinocchio Osu,Klein Vesting Chenin Blanc btl,260.0,7.8,Accra,N/A,White Wine
+Pinocchio Osu,House Wine (Long Mountain) btl,200.0,7.4,Accra,N/A,White Wine
+Pinocchio Osu,Jameson gls,80.0,8.0,Accra,N/A,Whisky
+Pinocchio Osu,Red House Wine,50.0,6.3,Accra,N/A,Red Wine
+Pinocchio Osu,Gecko Ridge Cabernet Sauvignon,250.0,8.5,Accra,N/A,Red Wine
+Pinocchio Osu,Giacondi Chianti,260.0,8.1,Accra,N/A,Red Wine
+Pinocchio Osu,Long Mountain Chardonnay btl,200.0,7.7,Accra,N/A,White Wine
+Pinocchio Osu,Fantinel Brut,600.0,8.7,Accra,N/A,Prosecco
+Pinocchio Osu,Hennessy V.S,150.0,8.4,Accra,N/A,Cognac
+Pinocchio Osu,Gelato 3Scoop,105.0,8.0,Accra,N/A,Ice-Cream and Dessert
+Pinocchio Osu,Pasqualina,475.0,8.9,Accra,N/A,Ice-Cream and Dessert
+Pinocchio Osu,Fanta,30.0,6.5,Accra,N/A,Soft Drinks
+Pinocchio Osu,32 Curmi,320.0,8.0,Accra,N/A,Beer
+Pinocchio Osu,Pirlo,90.0,6.9,Accra,N/A,Cocktails
+Pinocchio Osu,Aperol Spritz,100.0,7.8,Accra,N/A,Cocktails
+Pinocchio Osu,J.W Black Label gls,110.0,8.5,Accra,N/A,Whisky
+Pinocchio Osu,Bulldog Gin,90.0,7.6,Accra,N/A,Gin
+Sikada,Banku ,80.0,6.9,Accra,N/A,Grills
+Sikada,Tilalpia Choice of Akyeku ,170.0,8.4,Accra,N/A,Grills
+Sikada,Okro,N/A,6.0,Accra,N/A,Soup
+Sikada,Ebunubunu,N/A,7.2,Accra,N/A,Soup
+Sikada,Abe Nkwan,N/A,6.8,Accra,N/A,Soup
+Sikada,kale Nkwan,N/A,5.9,Accra,N/A,Soup
+Sikada,Light Soup,N/A,7.1,Accra,N/A,Soup
+Sikada,Banku ,10.0,4.5,Accra,N/A,Tro Tro Menu
+Sikada,Fufu,10.0,5.0,Accra,N/A,Tro Tro Menu
+Sikada,Cassava Fries,120.0,6.4,Accra,N/A,Dishes
+Sikada,Fried Yam,50.0,5.6,Accra,N/A,Dishes
+Sikada,Fried Plantain & Chicken,40.0,7.2,Accra,N/A,Dishes
+Sikada,Fried Yam & Chicken wings,80.0,7.5,Accra,N/A,Dishes
+Sikada,Fried Yam & Chicken thigh.,100.0,7.7,Accra,N/A,Dishes
+Sikada,Red Okro stew,80.0,6.5,Accra,N/A,Dishes
+Sikada,Plain rice and chicken stew,65.0,6.9,Accra,N/A,Dishes
+Sikada,Tropical Salsa,45.0,5.1,Accra,N/A,Dishes
+Sikada,Egg (two eggs),10.0,4.7,Accra,N/A,Dishes
+Sikada,Abomu w/Boiled Yam & /Plantain- Served with kobi or titu:,80.0,7.0,Accra,N/A,Dishes
+PS Banku and Tilapia,Extra Banku,5.0,4.9,Accra,N/A,Extras
+PS Banku and Tilapia,Extra tilapia Medium,70.0,7.7,Accra,N/A,Extras
+PS Banku and Tilapia,Extra Tilapia - Mini,40.0,6.9,Accra,N/A,Extras
+PS Banku and Tilapia,Banku and Grilled Tilapia (Medium),80.0,7.9,Accra,N/A,Main Dishes
+PS Banku and Tilapia,Banku with Small Grilled Tilapia and Sardine,75.0,7.0,Accra,N/A,Main Dishes
+PS Banku and Tilapia,Banku and Grilled Tilapia (Mini),50.0,6.6,Accra,N/A,Main Dishes
+PS Banku and Tilapia,Banku with Fried Egg & Sardine,55.0,6.0,Accra,N/A,Main Dishes
+PS Banku and Tilapia,Yam chips only,35.0,5.5,Accra,N/A,YAM CHIPS & TILAPIA
+PS Banku and Tilapia,Yam chips with grilled tilapia (Medium),70.0,7.4,Accra,N/A,YAM CHIPS & TILAPIA
+PS Banku and Tilapia,Yam chips with grilled tilapia (Maxi),100.0,8.1,Accra,N/A,YAM CHIPS & TILAPIA
+The Rumson Restaurant,Spring roll,25.0,5.8,Accra,N/A,Sides
+The Rumson Restaurant,Samosas ,25.0,5.9,Accra,N/A,Sides
+The Rumson Restaurant,Basil yam chips,32.5,6.4,Accra,N/A,Sides
+The Rumson Restaurant,Stir fry noodles ,45.5,7.2,Accra,N/A,Sides
+The Rumson Restaurant,Steam Rice ,32.5,4.6,Accra,N/A,Sides
+The Rumson Restaurant,Fried plantain,32.2,6.0,Accra,N/A,Sides
+The Rumson Restaurant,Fried Rice,45.5,6.3,Accra,N/A,Sides
+The Rumson Restaurant,Beef Vegetable Sauce ,85.5,7.7,Accra,N/A,Main meal ( Protein )
+The Rumson Restaurant,Goat Stew,104.0,8.3,Accra,N/A,Main meal ( Protein )
+The Rumson Restaurant,Assorted vegetables and mushrooms sauce ,65.0,6.8,Accra,N/A,Main meal ( Protein )
+The Rumson Restaurant,Bambara Beans,52.0,6.6,Accra,N/A,Main meal ( Protein )
+The Rumson Restaurant,Kaiser Wings,84.5,7.8,Accra,N/A,Main meal ( Protein )
+The Rumson Restaurant,Fried Cassava Fish Sauce ,97.5,8.2,Accra,N/A,Main meal ( Protein )
+The Rumson Restaurant,Oxtail with Vegetable Sauce ,104.0,8.0,Accra,N/A,Main meal ( Protein )
+The Rumson Restaurant,Jollof rice,45.5,6.7,Accra,N/A,Sides
+Yehowada,Fufu,90.0,7.5,Accra,N/A,Main Dish
+Yehowada,Rice Ball,70.0,7.1,Accra,N/A,Main Dish
+Yehowada,Kokonte,70.0,6.4,Accra,N/A,Main Dish
+Yehowada,Banku,70.0,7.0,Accra,N/A,Main Dish
+Yehowada,BelAqua,10.0,9.5,Accra,N/A,Main Dish
+Hi-tech Fast Foods,Jollof Rice with Two Chicken Pieces,55.0,7.4,Accra,N/A,Main Meals
+Hi-tech Fast Foods,Jollof Rice with One Chicken Piece,45.0,6.5,Accra,N/A,Main Meals
+Hi-tech Fast Foods,Fried Rice with Two Chicken Pieces,55.0,7.2,Accra,N/A,Main Meals
+Hi-tech Fast Foods,Fried Rice with One Chicken Piece,45.0,6.1,Accra,N/A,Main Meals
+Express Noodles,Sausage Noodles Mixed with Rice,68.0,5.8,Accra,N/A,Main Dish
+Express Noodles,Beef Noodles & Fried Rice Mix,68.0,6.4,Accra,N/A,Main Dish
+Express Noodles,Beef Indomie,55.0,6.1,Accra,N/A,Main Dish
+Express Noodles,Assorted Fried Rice,78.0,6.7,Accra,N/A,Main Dish
+Express Noodles,Sausage Indomie,45.0,4.9,Accra,N/A,Main Dish
+Express Noodles,Chicken indomie,55.0,6.3,Accra,N/A,Main Dish
+Express Noodles,Egg indomie with chicken,48.0,5.6,Accra,N/A,Main Dish
+Express Noodles,Vegetable Noodles,55.0,5.5,Accra,N/A,Main Dish
+Express Noodles,"Chicken, sausage noodles",65.0,6.5,Accra,N/A,Main Dish
+Express Noodles,Chicken and beef indomie,75.0,7.2,Accra,N/A,Main Dish
+Burkina Waakye,Diamond Pack,60.0,7.0,Accra,N/A,Main meal
+Burkina Waakye,Premium Pack,60.0,7.2,Accra,N/A,Main meal
+Burkina Waakye,Silver Pack,50.0,6.6,Accra,N/A,Main meal
+Burkina Waakye,EasyGo Pack,45.0,6.3,Accra,N/A,Main meal
+Burkina Waakye,FirstAid Pack,30.0,5.1,Accra,N/A,Main meal
+The Burger Booth,Bacon cheese,115.0,8.0,Accra,N/A,Burgers
+The Burger Booth,9 yards,120.0,8.2,Accra,N/A,Burgers
+The Burger Booth,Garlic fries,60.0,6.5,Accra,N/A,Fries
+The Burger Booth,Fries,40.0,5.3,Accra,N/A,Fries
+The Burger Booth,Classic,75.0,7.0,Accra,N/A,Burgers
+The Burger Booth,Caramel Milk Tea,65.0,6.8,Accra,N/A,Boba Teas
+The Burger Booth,Custard milk tea,55.0,6.6,Accra,N/A,Boba Teas
+The Burger Booth,Passionfruit Boba,50.0,6.2,Accra,N/A,Boba Teas
+The Burger Booth,Coke,10.0,5.7,Accra,N/A,Drinks
+The Burger Booth,Fanta,10.0,5.6,Accra,N/A,Drinks
+The Burger Booth,sprite,10.0,5.6,Accra,N/A,Drinks
+Burkina Banku and Kenkey,Banku and Large Fried Tilapia,80.0,8.0,Accra,N/A,Main meal
+Burkina Banku and Kenkey,Kenkey and Large Fried Tilapia,80.0,7.9,Accra,N/A,Main meal
+Burkina Banku and Kenkey,Kenkey and Red Fish,30.0,6.2,Accra,N/A,Main meal
+Burkina Banku and Kenkey,Banku with Red Fish,30.0,6.4,Accra,N/A,Main meal
+Burkina Banku and Kenkey,Kenkey and Meat,30.0,6.6,Accra,N/A,Main meal
+Burkina Banku and Kenkey,Fried Egg and Spicy Gizzard Served with Banku,30.0,6.8,Accra,N/A,Main meal
+Burkina Banku and Kenkey,Banku and Medium fried tilapia,70.0,7.7,Accra,N/A,Main meal
+Burkina Banku and Kenkey,Kenkey and Medium fried tilapia,70.0,7.8,Accra,N/A,Main meal
+Burkina Banku and Kenkey,Fried Egg and Spicy Gizzard Served with Kenkey,30.0,6.9,Accra,N/A,Main meal
+Pinkie’s Bistro,Assorted Fried Rice,60.0,6.7,Accra,N/A,Rice Dishes
+Pinkie’s Bistro,Classic Pack,75.0,7.3,Accra,N/A,Special Angwamo(Braised Rice)Infused with Beef
+Pinkie’s Bistro,Medium Pack,60.0,6.4,Accra,N/A,Special Angwamo(Braised Rice)Infused with Beef
+Pinkie’s Bistro,Regular Pack,50.0,6.0,Accra,N/A,Special Angwamo(Braised Rice)Infused with Beef
+Pinkie’s Bistro,Kosua Ne Meko,6.0,4.8,Accra,N/A,Special Angwamo(Braised Rice)Infused with Beef
+Pinkie’s Bistro,Assorted Noodles,90.0,6.8,Accra,N/A,SELFTREAT DISHES
+Pinkie’s Bistro,Labadi Beachstyle Yamchips ,90.0,6.9,Accra,N/A,SELFTREAT DISHES
+Pinkie’s Bistro,Silver Pack,130.0,7.8,Accra,N/A,SELFTREAT DISHES
+Pinkie’s Bistro,Bronze Pack ,70.0,6.3,Accra,N/A,SELFTREAT DISHES
+Pinkie’s Bistro,Fried rice and fried chicken ,50.0,7.0,Accra,N/A,Rice Dishes
+Yes Chef Osu,2 To Share,55.0,6.9,Accra,N/A,Everyday Meal Deal
+Yes Chef Osu,Rice with Chicken,85.0,7.4,Accra,N/A,Rice Meals ( Jollof or Fried rice )
+Yes Chef Osu,Rice with ChillI Gizzard,90.0,7.2,Accra,N/A,Rice Meals ( Jollof or Fried rice )
+Yes Chef Osu,"Rice with  Chicken Wings",85.0,7.5,Accra,N/A,Rice Meals ( Jollof or Fried rice )
+Yes Chef Osu,Kenkey with 2pcs Chicken,65.0,6.4,Accra,N/A,Ga Kenkey ( 2 balls )
+Yes Chef Osu,Kenkey with Chilli Gizzard,65.0,6.7,Accra,N/A,Ga Kenkey ( 2 balls )
+Yes Chef Osu,Kenkey with 6pcs Chicken Wings,85.0,7.6,Accra,N/A,Ga Kenkey ( 2 balls )
+Yes Chef Osu,Sweet Potato Chips with 6pcs Honey Wings,105.0,7.8,Accra,N/A,Chips ( Yam or Sweet Potato )
+Yes Chef Osu,Chips with 6pcs Chicken Wings,85.0,7.2,Accra,N/A,Chips ( Yam or Sweet Potato )
+Yes Chef Osu,Chips with 2pcs Chicken,85.0,6.9,Accra,N/A,Chips ( Yam or Sweet Potato )
+Yes Chef Osu,Chips with Chilli Gizzard,75.0,6.8,Accra,N/A,Chips ( Yam or Sweet Potato )
+Yes Chef Osu,6pcs Wings,65.0,7.3,Accra,N/A,Extra Chicken
+Yes Chef Osu,2pcs Chicken,35.0,6.5,Accra,N/A,Extra Chicken
+Yes Chef Osu,6pcs Chicken,102.0,7.7,Accra,N/A,Extra Chicken
+Yes Chef Osu,Chilli Peppers,10.0,4.3,Accra,N/A,Extras
+Yes Chef Osu,Coleslaw,10.0,5.5,Accra,N/A,Extras
+Yes Chef Osu,2 Fried Eggs,20.0,5.8,Accra,N/A,Extras
+Yes Chef Osu,Executive Rice Pack,105.0,8.1,Accra,N/A,Catering Pack/ Packages
+Junkies Burger,Chicken burger ,135.0,7.5,Accra,N/A,Chicken Burgers
+Junkies Burger,Chicken cheese burger,160.0,7.8,Accra,N/A,Chicken Burgers
+Junkies Burger,Avocado chicken burger,175.0,8.2,Accra,N/A,Chicken Burgers
+Junkies Burger,Avocado chicken cheese burger,200.0,8.5,Accra,N/A,Chicken Burgers
+Junkies Burger,Fully loaded chicken burger ,210.0,8.7,Accra,N/A,Chicken Burgers
+Junkies Burger,Fully loaded avocado chicken burger,235.0,8.8,Accra,N/A,Chicken Burgers
+Junkies Burger,Beef Burger,135.0,7.6,Accra,N/A,Beef Burgers
+Junkies Burger,Cheese Burger,160.0,7.7,Accra,N/A,Beef Burgers
+Junkies Burger,"Bacon Cheese Burger",195.0,8.2,Accra,N/A,Beef Burgers
+Junkies Burger,Fully Loaded Burger,220.0,8.5,Accra,N/A,Beef Burgers
+Junkies Burger,Fully Loaded XL Burger,270.0,8.9,Accra,N/A,Beef Burgers
+Junkies Burger,Double Beef Burger,195.0,8.0,Accra,N/A,Beef Burgers
+Junkies Burger,Double Cheese Burger,210.0,8.4,Accra,N/A,Beef Burgers
+Junkies Burger,French fries,50.0,6.4,Accra,N/A,Sides
+Junkies Burger,Fanta,20.0,5.5,Accra,N/A,Drinks
+Junkies Burger,Coke,20.0,5.5,Accra,N/A,Drinks
+Junkies Burger,water,15.0,9.4,Accra,N/A,Drinks
+Awo Aduane,Boiled Yam & Palava sauce,70.0,7.4,Accra,N/A,Yam & Plantain Dishes
+Awo Aduane,Assorted Indomie,70.0,6.7,Accra,N/A,Noodles
+Awo Aduane,Stir fry indomie,60.0,6.1,Accra,N/A,Noodles
+Awo Aduane,Assorted spaghetti,60.0,6.6,Accra,N/A,Noodles
+Awo Aduane,Stir fry spaghetti,50.0,5.9,Accra,N/A,Noodles
+Awo Aduane,Riped Plantain & palava sauce,70.0,7.2,Accra,N/A,Yam & Plantain Dishes
+Awo Aduane,Riped plantain & Garden egg stew,60.0,6.9,Accra,N/A,Yam & Plantain Dishes
+Awo Aduane,Riped plantain & egg sauce,60.0,6.5,Accra,N/A,Yam & Plantain Dishes
+Awo Aduane,Boiled Plantain & Garden Egg Stew,60.0,6.6,Accra,N/A,Yam & Plantain Dishes
+Awo Aduane,Boiled Plantain & Egg sauce,60.0,6.2,Accra,N/A,Yam & Plantain Dishes
+Awo Aduane,Boiled Plantain & Palava sauce,70.0,7.0,Accra,N/A,Yam & Plantain Dishes
+Awo Aduane,Crispy Fried Yam and Tilapia,110.0,8.4,Accra,N/A,Yam & Plantain Dishes
+Awo Aduane,Jollof,80.0,7.1,Accra,N/A,Rice Dishes 
+Awo Aduane,Boiled Yam & Egg sauce,60.0,6.6,Accra,N/A,Yam & Plantain Dishes
+Awo Aduane,Fried Yam,75.0,6.2,Accra,N/A,Yam & Plantain Dishes
+Awo Aduane,Gari Foto,60.0,6.3,Accra,N/A,Gari Dishes
+Awo Aduane,Waakye,80.0,7.0,Accra,N/A,Rice Dishes 
+Awo Aduane,Plain rice & Palava sauce,75.0,6.8,Accra,N/A,Rice Dishes 
+Awo Aduane,Plain Rice & Egg Sauce,70.0,6.4,Accra,N/A,Rice Dishes 
+Awo Aduane,Plain Rice & Gravy Stew,60.0,6.1,Accra,N/A,Rice Dishes 
+Awo Aduane,Angwamoo (Braised Rice),85.0,6.9,Accra,N/A,Rice Dishes 
+Awo Aduane,Assorted Fried Rice,85.0,7.3,Accra,N/A,Rice Dishes 
+Awo Aduane,Fried Rice,75.0,6.5,Accra,N/A,Rice Dishes 
+Awo Aduane,Assorted Jollof,95.0,7.8,Accra,N/A,Rice Dishes 
+Awo Aduane,Beans Stew,60.0,6.6,Accra,N/A,Beans Stew
+Awo Aduane,Banku & Tilapia,110.0,8.3,Accra,N/A,Swallows
+Burkina Tasty Fries,Yam Chips and fried  Chicken ,35.0,6.6,Accra,N/A,main meals 
+Burkina Tasty Fries,Kelewele with fried Chicken,35.0,6.4,Accra,N/A,main meals 
+Burkina Tasty Fries,Yam with Sausage and Gizzard,30.0,7.4,Accra,N/A,main meals 
+Burkina Tasty Fries,Kelewele with Sausage,25.0,5.9,Accra,N/A,main meals 
+Burkina Tasty Fries,Kelewele with Sausage and Gizzard,30.0,6.5,Accra,N/A,main meals 
+Burkina Tasty Fries,Yam and Gizzard Only,25.0,6.2,Accra,N/A,main meals 
+Burkina Tasty Fries,Kelewele with Gizzard Only,25.0,6.0,Accra,N/A,main meals 
+Burkina Tasty Fries,"Kelewele with Chicken, Sausage and Gizzard",40.0,7.8,Accra,N/A,main meals 
+Burkina Tasty Fries,"Yam Chips and Chicken, Sausage and Gizzard",40.0,7.6,Accra,N/A,main meals 
+Licks Eatery,Pineapple juice,10.0,7.1,Accra,N/A,Drinks
+Licks Eatery,Fried Rice & Chicken ,60.0,7.2,Accra,N/A,Fried Rice
+Licks Eatery,Potato Fries & Tilapia ,85.0,8.0,Accra,N/A,Potato Fries 
+Licks Eatery,Potato Fries & Chicken ,60.0,7.1,Accra,N/A,Potato Fries 
+Licks Eatery,Jollof Rice & tilapia ,85.0,8.2,Accra,N/A,Jollof Rice
+Licks Eatery,Chicken 5pcs,60.0,7.5,Accra,N/A,Jollof Rice
+Licks Eatery,Jollof Rice & Chicken ,60.0,7.3,Accra,N/A,Jollof Rice
+Licks Eatery,tilapia Only (Large),60.0,7.8,Accra,N/A,Tilapia 
+Licks Eatery,Tilapia & Banku (Standard),70.0,7.7,Accra,N/A,Tilapia 
+Licks Eatery,Noodles Chicken ,60.0,7.0,Accra,N/A,Noodles 
+Licks Eatery,Noodles (Reg),45.0,5.5,Accra,N/A,Noodles 
+Licks Eatery,Tilapia Only (Standard),55.0,7.5,Accra,N/A,Tilapia 
+Licks Eatery,Tilapia & Banku (Large),80.0,8.3,Accra,N/A,Tilapia 
+Licks Eatery,Shawarma (chicken),65.0,7.4,Accra,N/A,Shawarma 
+Licks Eatery,Fried Spring Rolls/Samosas (Tuna),40.0,5.7,Accra,N/A,Spring Rolls Samosas 
+Licks Eatery,Fried Spring Rolls/Samosas (Chicken),45.5,6.9,Accra,N/A,Spring Rolls Samosas 
+Waakye Phobia,Phobia Jollof  A,50.0,6.7,Accra,N/A,Phobia Combos
+Waakye Phobia,Phobia Jollof B,50.0,6.8,Accra,N/A,Phobia Combos
+Waakye Phobia,Chop Better 4 Two,100.0,7.6,Accra,N/A,Phobia Combos
+Waakye Phobia,Morow Dey Pack A,50.0,6.4,Accra,N/A,Phobia Combos
+Waakye Phobia,Morow Dey Pack B,50.0,6.2,Accra,N/A,Phobia Combos
+Waakye Phobia,Morrow Dey C,50.0,6.3,Accra,N/A,Phobia Combos
+Waakye Phobia,Rainbow Pack A,70.0,7.4,Accra,N/A,Phobia Combos
+Waakye Phobia,Rainbow Pack B,70.0,7.5,Accra,N/A,Phobia Combos
+Waakye Phobia,Chop Better Pack,90.0,7.7,Accra,N/A,Phobia Combos
+Burkina Red Red,0.7 kilo Catfish with Acheke,176.0,7.8,Accra,N/A,Catfish Main Menu
+Burkina Red Red,0.7 kilo Catfish with potatoes,170.0,7.5,Accra,N/A,Catfish Main Menu
+Burkina Red Red,Assorted Fried Rice,130.0,6.9,Accra,N/A,Main Menu
+Burkina Red Red,1 kilo Catfish with potatoes,228.0,8.0,Accra,N/A,Catfish Main Menu
+Burkina Red Red,0.8 kilo Catfish with 3 balls of banku,169.0,7.4,Accra,N/A,Catfish Main Menu
+Burkina Red Red,0.8 kilo Catfish with 2 balls of Eba,169.0,7.2,Accra,N/A,Catfish Main Menu
+Burkina Red Red,1.5 kilo Catfish with yam chips,325.0,8.5,Accra,N/A,Catfish Main Menu
+Burkina Red Red,1 kilo Catfish with yam chips,228.0,8.2,Accra,N/A,Catfish Main Menu
+Burkina Red Red,1.5 kilo Catfish with 3 balls of banku,303.0,8.3,Accra,N/A,Catfish Main Menu
+Burkina Red Red,0.8 kilo Catfish with Acheke,195.0,7.9,Accra,N/A,Catfish Main Menu
+Burkina Red Red,Fried Rice with Grilled chicken,104.0,7.2,Accra,N/A,Main Menu
+Burkina Red Red,0.7 kilo Catfish with 2 balls of Eba,150.0,6.8,Accra,N/A,Catfish Main Menu
+Burkina Red Red,0.8 kilo Catfish with potatoes,189.0,7.1,Accra,N/A,Catfish Main Menu
+Burkina Red Red,1.2 kilo Catfish with yam chips,268.0,8.4,Accra,N/A,Catfish Main Menu
+Burkina Red Red,1 kilo Catfish with 2 balls of Eba,208.0,7.3,Accra,N/A,Catfish Main Menu
+Burkina Red Red,0.7 kilo Catfish with 3 balls of banku,150.0,6.7,Accra,N/A,Catfish Main Menu
+Burkina Red Red,1 kilo Catfish with 3 balls of banku,208.0,7.5,Accra,N/A,Catfish Main Menu
+Burkina Red Red,0.8 kilo Catfish with yam chips,189.0,7.8,Accra,N/A,Catfish Main Menu
+Burkina Red Red,0.8 kilo Catfish Only,156.0,7.0,Accra,N/A,Catfish Main Menu
+Burkina Red Red,1 kilo Catfish Only,195.0,7.5,Accra,N/A,Catfish Main Menu
+Burkina Red Red,0.7 kilo Catfish with yam chips,170.0,6.9,Accra,N/A,Catfish Main Menu
+Burkina Red Red,1.2 kilo Catfish with potatoes,268.0,7.8,Accra,N/A,Catfish Main Menu
+Burkina Red Red,1.2 kilo Catfish with 3 balls of banku,248.0,7.7,Accra,N/A,Catfish Main Menu
+Burkina Red Red,IKIE Special Delight,124.0,7.1,Accra,N/A,Main Menu
+Burkina Red Red,1.5 kilo Catfish with two balls of Eba,303.0,8.3,Accra,N/A,Catfish Main Menu
+Burkina Red Red,Jollof Rice with Catfish,182.0,8.0,Accra,N/A,Main Menu
+Burkina Red Red,1.5 kilo Catfish Only,290.0,8.2,Accra,N/A,Catfish Main Menu
+Burkina Red Red,1.2 kilo Catfish with 2 balls of Eba,248.0,7.5,Accra,N/A,Catfish Main Menu
+Burkina Red Red,Jollof Rice with grilled chicken,110.0,7.3,Accra,N/A,Main Menu
+Burkina Red Red,IKEI Super Delicious (catfish with rice),234.0,8.5,Accra,N/A,Catfish Main Menu
+Burkina Red Red,1.2 kilo Catfish with Acheke,274.0,8.1,Accra,N/A,Catfish Main Menu
+Burkina Red Red,1 kilo Catfish with Acheke,234.0,8.0,Accra,N/A,Catfish Main Menu
+Burkina Red Red,Assorted Jollof,143.0,7.4,Accra,N/A,Main Menu
+Burkina Red Red,0.7 kilo Catfish Only,137.0,6.7,Accra,N/A,Catfish Main Menu
+Burkina Red Red,1.5 kilo Catfish with Acheke,332.0,8.7,Accra,N/A,Catfish Main Menu
+Burkina Red Red,1.5 kilo Catfish with potatoes,325.0,8.5,Accra,N/A,Catfish Main Menu
+Burkina Red Red,1.2 kilo Catfish Only,235.0,7.2,Accra,N/A,Catfish Main Menu
+Peter Pan Osu,Veg-Lover Pizza,89.0,7.3,Accra,N/A,Pizza
+Peter Pan Osu,Fried Rice,28.0,5.6,Accra,N/A,Sides
+Peter Pan Osu,Worcester Burger,50.0,6.9,Accra,N/A,Burger
+Peter Pan Osu,Fanta,18.0,5.2,Accra,N/A,Drinks
+Peter Pan Osu,Original,72.0,7.1,Accra,N/A,Chicken
+Peter Pan Osu,Pepperoni Pizza,102.0,8.0,Accra,N/A,Pizza
+Peter Pan Osu,Sweet Spicy,79.0,7.0,Accra,N/A,Chicken
+Peter Pan Osu,Wonder Cheese Burger,59.0,6.7,Accra,N/A,Burger
+Peter Pan Osu,French Fries Chips,32.0,5.5,Accra,N/A,Sides
+Peter Pan Osu,Sprite,18.0,5.1,Accra,N/A,Drinks
+Peter Pan Osu,Potato Cheese Burger,59.0,6.9,Accra,N/A,Burger
+Peter Pan Osu,Combination Pizza,112.0,8.1,Accra,N/A,Pizza
+Peter Pan Osu,Popcorn Chicken,40.0,6.0,Accra,N/A,Sides
+Peter Pan Osu,Hot Wings,79.0,7.8,Accra,N/A,Chicken
+Peter Pan Osu,Coke,18.0,5.5,Accra,N/A,Drinks
+Peter Pan Osu,Cheese-Holic Pizza,112.0,8.2,Accra,N/A,Pizza
+Peter Pan Osu,Blazing,89.0,7.2,Accra,N/A,Chicken
+Peter Pan Osu,Heineken,50.0,6.8,Accra,N/A,Drinks
+Peter Pan Osu,Blazing Burger,59.0,7.1,Accra,N/A,Burger
+Peter Pan Osu,Jollof Rice,39.0,6.4,Accra,N/A,Sides
+Peter Pan Osu,Wonder Wrap,56.0,6.9,Accra,N/A,Burger
+Peter Pan Osu,Hash Brown,40.0,5.9,Accra,N/A,Sides
+Peter Pan Osu,Shrimp & Squid Pizza,129.0,8.5,Accra,N/A,Pizza
+Peter Pan Osu,Blazing Chicken Pizza,112.0,8.1,Accra,N/A,Pizza
+Peter Pan Osu,Story Burger,66.0,7.3,Accra,N/A,Burger
+Peter Pan Osu,Wonder Chicken Fried Rice,59.0,6.5,Accra,N/A,Sides
+Peter Pan Osu,Wonder Chicken Jollof Rice,70.0,7.0,Accra,N/A,Sides
+Peter Pan Osu,Blazing Cheese Burger,68.0,7.4,Accra,N/A,Burger
+Peter Pan Osu,Worcester Double Cheese Burger,73.0,7.7,Accra,N/A,Burger
+Peter Pan Osu,Blazing Wrap,65.0,7.2,Accra,N/A,Burger
+Peter Pan Osu,Margherita Pizza,89.0,7.5,Accra,N/A,Pizza
+Peter Pan Osu,Coleslaw Salad,6.0,4.6,Accra,N/A,Sides
+Peter Pan Osu,Wonder Burger,50.0,6.6,Accra,N/A,Burger
+Peter Pan Osu,Hot & Crispy,59.0,7.3,Accra,N/A,Chicken
+Peter Pan Osu,Water,10.0,9.0,Accra,N/A,Drinks
+Golden Shawarma Palace,Loaded fries,85.0,7.4,Accra,N/A,Shawarma
+Golden Shawarma Palace,Fries small pack ,25.0,5.6,Accra,N/A,Shawarma
+Golden Shawarma Palace,Combo shawarma with cheese,80.0,7.9,Accra,N/A,Shawarma
+Golden Shawarma Palace,Chicken shawarma with cheese ,75.0,7.7,Accra,N/A,Shawarma
+Golden Shawarma Palace,Combo shawarma ,65.0,7.0,Accra,N/A,Shawarma
+Golden Shawarma Palace,Chicken shawarma,60.0,6.9,Accra,N/A,Shawarma
+Deli Locals,JOLLOF & (6) CHICKEN WINGS,140.0,7.8,Accra,N/A,jollof rice
+Deli Locals,JOLLOF & CHICKEN THIGH,140.0,8.0,Accra,N/A,jollof rice
+Deli Locals,JOLLOF & (3) DRUMSTICK,140.0,7.5,Accra,N/A,jollof rice
+Deli Locals,Jollof & Tilapia,140.0,8.2,Accra,N/A,jollof rice
+Deli Locals,RED GRAPE JUICE,40.0,6.5,Accra,N/A,jollof rice
+Deli Locals,Fish Fried Rice & Fish Sauce,135.0,7.4,Accra,N/A,Fried Rice
+Deli Locals,LAMB MEAT &JOLLOF RICE,140.0,8.0,Accra,N/A,jollof rice
+Deli Locals,JOLLOF & EGG (3),100.0,6.2,Accra,N/A,jollof rice
+Deli Locals,LARGE TILAPIA BANKU (2),140.0,8.3,Accra,N/A,jollof rice
+Deli Locals,Mixed Meat Platter Menu (2),500.0,8.9,Accra,N/A,Mixed Meat Platter
+Deli Locals,Crispy Chicken (10pcs),210.0,8.1,Accra,N/A,Yam Chips
+Deli Locals,GOATLIGHT SOUP,130.0,7.3,Accra,N/A,jollof rice
+Deli Locals,TILAPIA LIGHT SOUP,130.0,7.6,Accra,N/A,jollof rice
+Deli Locals,Fried Rice Family Pack (12) People,2600.0,9.0,Accra,N/A,Fried Rice
+Deli Locals,Prawn Fried Rice & Pawn Sauce,145.0,8.0,Accra,N/A,Fried Rice
+Deli Locals,Plain Rice & Chicken Stew,120.0,7.0,Accra,N/A,Fried Rice
+Deli Locals,White Sauce Penne Pasta & Chicken,130.0,7.4,Accra,N/A,Spaghetti
+Deli Locals,Vegetable Spaghetti & Veg Sauce,110.0,6.7,Accra,N/A,Spaghetti
+Deli Locals,Chicken Spaghetti & Chicken Sauce,135.0,7.5,Accra,N/A,Spaghetti
+Deli Locals,Spicy Chicken Wings (10pcs) & Lemon,215.0,8.3,Accra,N/A,Yam Chips
+Deli Locals,Chicken Wings (8pcs) & Chips,180.0,7.9,Accra,N/A,Yam Chips
+Deli Locals,Grilled Chicken (2) & Chips,120.0,7.2,Accra,N/A,Yam Chips
+Deli Locals,Boil Yam & Tuna Fish Stew,110.0,6.8,Accra,N/A,Fried Rice
+Deli Locals,Chicken Wings (18pcs) & Yam Chips,260.0,9.1,Accra,N/A,Mixed Meat Platter
+Deli Locals,Esse Cigarette,50.0,2.5,Accra,N/A,Shisha Flavour
+Deli Locals,Fried Rice & Chicken Wings (6pcs),130.0,7.8,Accra,N/A,Fried Rice
+Deli Locals,Fried Rice & Drumsticks 2pc),115.0,7.2,Accra,N/A,Fried Rice
+Deli Locals,Assorted Fried Rice,130.0,7.0,Accra,N/A,Fried Rice
+Deli Locals,Lamb Spaghetti,130.0,7.4,Accra,N/A,Spaghetti
+Deli Locals,Fish Fry (3pcs) & Garlic Sauce,165.0,7.9,Accra,N/A,Yam Chips
+Deli Locals,MIX LAMB MEAT JOLLOF RICE,140.0,8.0,Accra,N/A,jollof rice
+Deli Locals,Mix Chicken Crispy (4pcs),145.0,7.7,Accra,N/A,Yam Chips
+Deli Locals,King Size Cigarette,60.0,3.5,Accra,N/A,Shisha Flavour
+Deli Locals,Fried Rice Family Pack (6) People,1600.0,8.9,Accra,N/A,Fried Rice
+Deli Locals,Fried Rice & Chicken (1pc) Mini Pack,67.0,6.7,Accra,N/A,Fried Rice
+Deli Locals,Pork & Yam Chips,115.0,7.5,Accra,N/A,Mixed Meat Platter
+Deli Locals,MIX CHICKEN & JOLLOF,140.0,7.8,Accra,N/A,jollof rice
+Deli Locals,Tilapia (2pcs) & Goat Meat,200.0,8.6,Accra,N/A,Mixed Meat Platter
+Deli Locals,Assorted Spaghetti,135.0,7.1,Accra,N/A,Spaghetti
+Deli Locals,Lamb Fried Rice & Lamb Sauce,135.0,7.8,Accra,N/A,Fried Rice
+Deli Locals,GOATS MEAT & JOLLOF RICE,140.0,8.0,Accra,N/A,jollof rice
+Deli Locals,Fish Spaghetti & Fish Sauce,135.0,7.6,Accra,N/A,Spaghetti
+Deli Locals,"Fried Rice, Large Tilapia, Yam Chips, French Fries",190.0,8.2,Accra,N/A,Yam Chips
+Deli Locals,Yam Chips & Pork,150.0,7.3,Accra,N/A,Yam Chips
+Deli Locals,Fried Chicken (2) & Chips,120.0,7.4,Accra,N/A,Yam Chips
+Deli Locals,Fried Rice & Chicken/Drumstick(1pc each),120.0,7.2,Accra,N/A,Fried Rice
+Deli Locals,Fried Plantain & Peanut,110.0,6.6,Accra,N/A,Yam Chips
+Deli Locals,Spicy Fish Fry (3pcs),180.0,8.5,Accra,N/A,Yam Chips
+Deli Locals,Yam Chips &  Large Tilapia (1pc),150.0,8.0,Accra,N/A,Yam Chips
+Deli Locals,Mixed Meat Platter Menu (1),550.0,9.0,Accra,N/A,Mixed Meat Platter
+Deli Locals,Mix Pork Fried Rice,130.0,7.4,Accra,N/A,Fried Rice
+Deli Locals,Mixed Meat Platter Family Pack (4) People,800.0,9.1,Accra,N/A,Mixed Meat Platter
+Deli Locals,JOLLOF & PORK,140.0,7.7,Accra,N/A,jollof rice
+Deli Locals,Lamb Meat & Fried Rice,130.0,7.6,Accra,N/A,Fried Rice
+Deli Locals,Steam Egg (3) & Fried Rice,100.0,6.9,Accra,N/A,Fried Rice
+Deli Locals,Fried Rice & Chicken Sauce,135.0,7.5,Accra,N/A,Fried Rice
+Deli Locals,Fried Rice & Tilapia (2pcs),120.0,8.2,Accra,N/A,Fried Rice
+Deli Locals,"Chicken Wings, Tilapia & Goat Meat",260.0,8.8,Accra,N/A,Mixed Meat Platter
+Deli Locals,Yam Chips & (1pc) Chicken Thigh,135.0,7.5,Accra,N/A,Yam Chips
+Deli Locals,JOLLOF RICE & Chicken(1pc) Mini pack,60.0,6.5,Accra,N/A,jollof rice
+Deli Locals,Fried Rice & Chicken Gizzard,100.0,7.3,Accra,N/A,Fried Rice
+Deli Locals,Mix Chicken Fried Rice,125.0,7.4,Accra,N/A,Fried Rice
+Deli Locals,Lamb Spaghetti & Lamb Sauce,135.0,7.7,Accra,N/A,Spaghetti
+Deli Locals,Assorted jollof,140.0,7.9,Accra,N/A,jollof rice
+Deli Locals,Large French Fries,120.0,7.2,Accra,N/A,Yam Chips
+Deli Locals,Vegetables Spaghetti,100.0,6.8,Accra,N/A,Spaghetti
+Deli Locals,Yam Chips & Chicken Gizzard,125.0,7.6,Accra,N/A,Yam Chips
+Deli Locals,Lamb & French Fries,135.0,7.8,Accra,N/A,Mixed Meat Platter
+Deli Locals,Fried Rice Family Pack (5) People,1000.0,8.9,Accra,N/A,Fried Rice
+Deli Locals,Yam Chips & (4pcs) Chicken Drumsticks,175.0,7.9,Accra,N/A,Yam Chips
+Deli Locals,Fish Spaghetti,125.0,7.1,Accra,N/A,Spaghetti
+Deli Locals,Fried Rice with Pork Sauce,135.0,7.4,Accra,N/A,Fried Rice
+Deli Locals,Red Sauce Penne Pasta & Chicken,130.0,7.3,Accra,N/A,Spaghetti
+Deli Locals,Finger Fried Fish Spice (8pcs) & Lemon,180.0,8.6,Accra,N/A,Yam Chips
+Deli Locals,Jollof & Chicken,140.0,7.7,Accra,N/A,jollof rice
+Deli Locals,Prawn Spaghetti,140.0,7.5,Accra,N/A,Spaghetti
+Deli Locals,CHICKEN LIGHT SOUP,130.0,7.4,Accra,N/A,jollof rice
+Deli Locals,Prawn Spaghetti & Prawn Sauce,145.0,7.8,Accra,N/A,Spaghetti
+Deli Locals,Chicken Spaghetti,125.0,7.2,Accra,N/A,Spaghetti
+Deli Locals,"Pork, Lamb & Yam Chips",180.0,8.5,Accra,N/A,Mixed Meat Platter
+Deli Locals,Yam Chips & (8pcs) Chicken Wings,195.0,8.3,Accra,N/A,Yam Chips
+Wok Boyz Osu,Schezwan Beef,166.0,7.2,Accra,N/A,Combo
+Wok Boyz Osu,Schezwan Prawn,180.0,8.0,Accra,N/A,Combo
+Wok Boyz Osu,Schezwan Chicken,155.0,7.0,Accra,N/A,Combo
+Wok Boyz Osu,Schezwan Veg,132.0,6.2,Accra,N/A,Combo
+Wok Boyz Osu,Hong Kong Beef,167.0,7.5,Accra,N/A,Combo
+Wok Boyz Osu,Hong Kong Prawn,180.0,8.2,Accra,N/A,Combo
+Wok Boyz Osu,Hong Kong Chicken,155.0,7.3,Accra,N/A,Combo
+Wok Boyz Osu,Hong Kong Veg,132.0,6.4,Accra,N/A,Combo
+Wok Boyz Osu,Sweet & Sour Beef,167.0,7.1,Accra,N/A,Combo
+Wok Boyz Osu,Sweet & Sour Prawn,180.0,8.1,Accra,N/A,Combo
+Wok Boyz Osu,Sweet & Sour Chicken,154.0,7.0,Accra,N/A,Combo
+Wok Boyz Osu,Sweet & Sour Veg,132.0,6.6,Accra,N/A,Combo
+Wok Boyz Osu,Kung Pau Beef,167.0,7.5,Accra,N/A,Combo
+Wok Boyz Osu,Kung Pau Prawn,180.0,8.0,Accra,N/A,Combo
+Wok Boyz Osu,kung Pau  Chicken,155.0,7.3,Accra,N/A,Combo
+Wok Boyz Osu,Kung Pau veg,132.0,6.7,Accra,N/A,Combo
+Wok Boyz Osu,Wokboyz Chopsuey-Prawns,180.0,8.5,Accra,N/A,Signature
+Wok Boyz Osu,Wokboyz Chopsuey-Chicken,155.0,7.4,Accra,N/A,Signature
+Wok Boyz Osu,Wokboyz Chopsuey-veg,132.0,6.8,Accra,N/A,Signature
+Wok Boyz Osu,Nasi prawns,180.0,8.4,Accra,N/A,Signature
+Wok Boyz Osu,Nasi Mix Meat,190.0,8.2,Accra,N/A,Signature
+Wok Boyz Osu,Nasi Beef,167.0,7.3,Accra,N/A,Signature
+Wok Boyz Osu,Nasi Chicken,155.0,7.2,Accra,N/A,Signature
+Wok Boyz Osu,Nasi veg,132.0,6.5,Accra,N/A,Signature
+Wok Boyz Osu,Curry Laksa- Prawns,180.0,8.3,Accra,N/A,Signature
+Wok Boyz Osu,Curry Laksa- Chicken,155.0,7.5,Accra,N/A,Signature
+Wok Boyz Osu,Curry Laksa- Veg,132.0,6.9,Accra,N/A,Signature
+Wok Boyz Osu,Hakka Mix  eat,192.0,7.8,Accra,N/A,Signature
+Wok Boyz Osu,Hakka Noodle- Prawns,180.0,7.9,Accra,N/A,Signature
+Wok Boyz Osu,Hakka Noodle- Chicken,155.0,7.2,Accra,N/A,Signature
+Wok Boyz Osu,Hakka Noodle- Paneer,132.0,6.8,Accra,N/A,Signature
+Wok Boyz Osu,PAD THAI- Veg,132.0,6.6,Accra,N/A,Signature
+Wok Boyz Osu,PAD THAI- Chicken,155.0,7.3,Accra,N/A,Signature
+Wok Boyz Osu,PAD THAI- Prawns,180.0,8.2,Accra,N/A,Signature
+Wok Boyz Osu,Ramen Base - Mix Meat,190.0,8.1,Accra,N/A,Signature
+Wok Boyz Osu,Ramen Base - Tofu,132.0,6.5,Accra,N/A,Signature
+Wok Boyz Osu,Ramen Base - Shrimp,180.0,8.0,Accra,N/A,Signature
+Wok Boyz Osu,Ramen Base - Beef,167.0,7.7,Accra,N/A,Signature
+Wok Boyz Osu,Ramen Base - Chicken,155.0,7.1,Accra,N/A,Signature
+Wok Boyz Osu,Fresh Orange Juice,48.0,7.4,Accra,N/A,Dessert
+Wok Boyz Osu,Coconut Water,24.0,7.0,Accra,N/A,Dessert
+Wok Boyz Osu,Soda,15.0,5.6,Accra,N/A,Dessert
+Wok Boyz Osu,Small water,10.0,9.2,Accra,N/A,Dessert
+Wok Boyz Osu,Soft Drinks,18.0,6.1,Accra,N/A,Dessert
+Wok Boyz Osu,Sticky Mango Rice,57.6,7.9,Accra,N/A,Dessert
+Wok Boyz Osu,Vermicelli Noodle Salad -Prawns,72.0,8.0,Accra,N/A,Salad
+Wok Boyz Osu,Vermicelli Noodle Salad -Chicken,58.0,7.1,Accra,N/A,Salad
+Wok Boyz Osu,Vermicelli Noodle Salad -Veg,48.0,6.2,Accra,N/A,Salad
+Wok Boyz Osu,Thai Pappaya Salad - Prawns,72.0,8.1,Accra,N/A,Salad
+Wok Boyz Osu,Thai Pappaya Salad - Chicken,58.0,7.0,Accra,N/A,Salad
+Wok Boyz Osu,Thai Pappaya Salad - veg,48.0,6.0,Accra,N/A,Salad
+Wok Boyz Osu,Tom Kha Soup -Prawns,72.0,8.0,Accra,N/A,Soup
+Wok Boyz Osu,Tom Kha Soup -Chicken,58.0,7.2,Accra,N/A,Soup
+Wok Boyz Osu,Tom Kha Soup -Veg,48.0,6.1,Accra,N/A,Soup
+Wok Boyz Osu,Wonton Soup- Prawns,72.0,8.0,Accra,N/A,Soup
+Wok Boyz Osu,Wonton Soup- Chicken,66.0,7.2,Accra,N/A,Soup
+Wok Boyz Osu,Wonton Soup- Veg,48.0,6.0,Accra,N/A,Soup
+Wok Boyz Osu,Hor Garlic Soup- Prawns,72.0,8.1,Accra,N/A,Soup
+Wok Boyz Osu,Hor Garlic Soup- Chicken,58.0,7.0,Accra,N/A,Soup
+Wok Boyz Osu,Hot Garlic Soup- Veg,48.0,6.2,Accra,N/A,Soup
+Wok Boyz Osu,Chicken Tom Yum Soup,58.0,7.3,Accra,N/A,Soup
+Wok Boyz Osu,Prawn Tom Yum Soup ,72.0,8.2,Accra,N/A,Soup
+Wok Boyz Osu,Vegetable Tom Yum Soup ,48.0,6.4,Accra,N/A,Soup
+Wok Boyz Osu,Chicken Sweet Corn Soup ,58.8,7.1,Accra,N/A,Soup
+Wok Boyz Osu,Vegetable Sweet Corn Soup,48.0,6.3,Accra,N/A,Soup
+Wok Boyz Osu,Chilii tofu,54.0,6.7,Accra,N/A,APPETIZERS
+Wok Boyz Osu,veg Cracker,30.0,5.4,Accra,N/A,APPETIZERS
+Wok Boyz Osu,Molten red curry shrimp balls,202.0,8.2,Accra,N/A,APPETIZERS
+Wok Boyz Osu,Shrimp Hakao,202.0,8.5,Accra,N/A,APPETIZERS
+Wok Boyz Osu,Shrimp Gyoza,166.8,8.1,Accra,N/A,APPETIZERS
+Wok Boyz Osu,Vegetable Gyoza,132.0,6.8,Accra,N/A,APPETIZERS
+Wok Boyz Osu,Street Tofu ,72.0,6.1,Accra,N/A,APPETIZERS
+Wok Boyz Osu,Prawn Siu Mai ,166.8,8.3,Accra,N/A,APPETIZERS
+Wok Boyz Osu,Chicken Siu Mai ,155.0,7.6,Accra,N/A,APPETIZERS
+Wok Boyz Osu,Spicy Korean Wings ,96.0,8.0,Accra,N/A,APPETIZERS
+Wok Boyz Osu,Prawn Tempura ,108.0,8.2,Accra,N/A,APPETIZERS
+Wok Boyz Osu,Prawn Crackers ,30.0,5.9,Accra,N/A,APPETIZERS
+Wok Boyz Osu,Vegetables Spring Roll ,120.0,6.7,Accra,N/A,APPETIZERS
+Chickie’s Restaurant,Laban Ayran,25.0,6.6,Accra,N/A,Drinks
+Chickie’s Restaurant,Kids Juice,15.0,6.4,Accra,N/A,Drinks
+Chickie’s Restaurant,Soft Drinks,20.0,5.9,Accra,N/A,Drinks
+Chickie’s Restaurant,Sparkling Water,30.0,8.5,Accra,N/A,Drinks
+Chickie’s Restaurant,Water,10.0,9.5,Accra,N/A,Drinks
+Chickie’s Restaurant,Cheddar Cheese,20.0,7.0,Accra,N/A,Dips/Sauce
+Chickie’s Restaurant,BBQ Sauce,15.0,6.9,Accra,N/A,Dips/Sauce
+Chickie’s Restaurant,Honey Mustard Sauce,15.0,6.7,Accra,N/A,Dips/Sauce
+Chickie’s Restaurant,Avocado Sauce,15.0,6.6,Accra,N/A,Dips/Sauce
+Chickie’s Restaurant,Shito Sauce,15.0,7.1,Accra,N/A,Dips/Sauce
+Chickie’s Restaurant,Dynamite Sauce,15.0,7.2,Accra,N/A,Dips/Sauce
+Chickie’s Restaurant,Cocktail Sauce,15.0,6.5,Accra,N/A,Dips/Sauce
+Chickie’s Restaurant,Garlic Sauce,15.0,6.4,Accra,N/A,Dips/Sauce
+Chickie’s Restaurant,Ketchup,15.0,5.5,Accra,N/A,Dips/Sauce
+Chickie’s Restaurant,Cheddar Cheese Slice,20.0,7.1,Accra,N/A,Extra
+Chickie’s Restaurant,Mozzarella Sticks,70.0,7.5,Accra,N/A,Extra
+Chickie’s Restaurant,Breaded Mozzarella Slice,30.0,6.9,Accra,N/A,Extra
+Chickie’s Restaurant,Bun bread (1 pc),10.0,4.5,Accra,N/A,Extra
+Chickie’s Restaurant,Fried Drumstick (1 pc),35.0,7.0,Accra,N/A,Extra
+Chickie’s Restaurant,Crispy (1 pc),25.0,6.4,Accra,N/A,Extra
+Chickie’s Restaurant,French Fries,35.0,6.3,Accra,N/A,Extra
+Chickie’s Restaurant,Coleslaw,20.0,5.8,Accra,N/A,Extra
+Chickie’s Restaurant,Fried Rice,75.0,7.6,Accra,N/A,Rice
+Chickie’s Restaurant,Jollof Rice,75.0,7.7,Accra,N/A,Rice
+Chickie’s Restaurant,Chickie's Dynamite Crispy Plate,225.0,8.4,Accra,N/A,Crispy Meal
+Chickie’s Restaurant,Chickie's BBQ Crispy Plate,225.0,8.2,Accra,N/A,Crispy Meal
+Chickie’s Restaurant,Crispy Meal - Big,250.0,8.7,Accra,N/A,Crispy Meal
+Chickie’s Restaurant,Crispy Meal - Medium,225.0,8.0,Accra,N/A,Crispy Meal
+Chickie’s Restaurant,Crispy Meal - Small,200.0,7.8,Accra,N/A,Crispy Meal
+Chickie’s Restaurant,Chicken Tenders,120.0,7.3,Accra,N/A,Kids Meals
+Chickie’s Restaurant,Big Chickie’s Burger,200.0,8.2,Accra,N/A,Beef Burger
+Chickie’s Restaurant,Lebanese Beef Burger,140.0,7.7,Accra,N/A,Beef Burger
+Chickie’s Restaurant,Mushroom Beef Burger,160.0,8.1,Accra,N/A,Beef Burger
+Chickie’s Restaurant,Cheesy Beef Burger,150.0,7.8,Accra,N/A,Beef Burger
+Chickie’s Restaurant,Classic Beef Burger,130.0,7.5,Accra,N/A,Beef Burger
+Chickie’s Restaurant,Zinger Supreme,160.0,8.3,Accra,N/A,Chicken Burger
+Chickie’s Restaurant,Zinger,140.0,7.7,Accra,N/A,Chicken Burger
+Chickie’s Restaurant,Cheesy Chicken Burger,140.0,7.5,Accra,N/A,Chicken Burger
+Chickie’s Restaurant,Classic Chicken Burger,120.0,7.4,Accra,N/A,Chicken Burger
+Chickie’s Restaurant,Batata,90.0,6.8,Accra,N/A,Sandwiches - Veggie
+Chickie’s Restaurant,Veggita,130.0,7.0,Accra,N/A,Sandwiches - Veggie
+Chickie’s Restaurant,Tawook,120.0,7.5,Accra,N/A,Sandwiches - Chicken
+Chickie’s Restaurant,Crispy,140.0,7.7,Accra,N/A,Sandwiches - Chicken
+Chickie’s Restaurant,Twister,140.0,7.6,Accra,N/A,Sandwiches - Chicken
+Chickie’s Restaurant,Chicken Pesto,120.0,7.3,Accra,N/A,Sandwiches - Chicken
+Chickie’s Restaurant,Chicken Sub,130.0,7.5,Accra,N/A,Sandwiches - Chicken
+Chickie’s Restaurant,Mexican,150.0,8.0,Accra,N/A,Sandwiches - Chicken
+Chickie’s Restaurant,Fransisco,130.0,7.6,Accra,N/A,Sandwiches - Chicken
+Chickie’s Restaurant,Fajita,150.0,8.2,Accra,N/A,Sandwiches - Chicken
+Chickie’s Restaurant,Special Sujuk Sandwich,120.0,7.1,Accra,N/A,Sandwiches - Beef
+Chickie’s Restaurant,Special Makanek sandwich,120.0,7.2,Accra,N/A,Sandwiches - Beef
+Chickie’s Restaurant,Special Kafta sandwich,120.0,7.0,Accra,N/A,Sandwiches - Beef
+Chickie’s Restaurant,Steak,195.0,8.4,Accra,N/A,Sandwiches - Beef
+Chickie’s Restaurant,Philadelphia,185.0,8.1,Accra,N/A,Sandwiches - Beef
+Champs and Pataase Restaurant,Egusi Soup,60.0,6.0,Accra,N/A,Nigerian Dishes
+Champs and Pataase Restaurant,Nicoise Salad,110.0,7.4,Accra,N/A,Salads
+Champs and Pataase Restaurant,Chicken in Curry Sauce,125.0,7.8,Accra,N/A,Chicken Dishes
+Champs and Pataase Restaurant,Groundnut Soup,60.0,5.7,Accra,N/A,Ghanaian Dishes
+Champs and Pataase Restaurant,Chicken Taco Salad,110.0,7.1,Accra,N/A,Salads
+Champs and Pataase Restaurant,Peanut Butter & Banana Smoothie,55.0,7.3,Accra,N/A,Fresh Drinks & Smoothies
+Champs and Pataase Restaurant,Light Soup,60.0,6.1,Accra,N/A,Ghanaian Dishes
+Champs and Pataase Restaurant,Chicken Wrap,110.0,7.6,Accra,N/A,Sandwiches & Wraps
+Champs and Pataase Restaurant,Peanut Butter Smoothie,55.0,6.9,Accra,N/A,Fresh Drinks & Smoothies
+Champs and Pataase Restaurant,Chicken Club Sandwich,90.0,7.0,Accra,N/A,Sandwiches & Wraps
+Champs and Pataase Restaurant,Pawpaw Smoothie,33.0,5.3,Accra,N/A,Fresh Drinks & Smoothies
+Champs and Pataase Restaurant,Pepperoni Pizza,125.0,8.5,Accra,N/A,Pizza
+Champs and Pataase Restaurant,Palava Sauce,60.0,6.2,Accra,N/A,Ghanaian Dishes
+Champs and Pataase Restaurant,Tuna Club Sandwich with Egg,85.0,6.8,Accra,N/A,Sandwiches & Wraps
+Champs and Pataase Restaurant,Banana Smoothie,55.0,7.0,Accra,N/A,Fresh Drinks & Smoothies
+Champs and Pataase Restaurant,Spaghetti Bolognese,130.0,8.1,Accra,N/A,Pasta & Noodles
+Champs and Pataase Restaurant,Chicken Burger,110.0,7.7,Accra,N/A,Burger
+Champs and Pataase Restaurant,Fattoush Salad,100.0,6.0,Accra,N/A,Salads
+Champs and Pataase Restaurant,Jollof Rice Only,60.0,5.5,Accra,N/A,Side Dishes
+Champs and Pataase Restaurant,Bissap,25.0,6.4,Accra,N/A,Fresh Drinks & Smoothies
+Champs and Pataase Restaurant,Penne Arabiatta,95.0,7.3,Accra,N/A,Pasta & Noodles
+Champs and Pataase Restaurant,Okro Stew,60.0,6.1,Accra,N/A,Ghanaian Dishes
+Champs and Pataase Restaurant,Tuna Pizza,110.0,7.8,Accra,N/A,Pizza
+Champs and Pataase Restaurant,Chicken Jollof Rice,110.0,7.4,Accra,N/A,Rice Dishes
+Champs and Pataase Restaurant,Mixed Garden Salad,75.0,5.9,Accra,N/A,Salads
+Champs and Pataase Restaurant,Chicken Strips,70.0,6.6,Accra,N/A,Starters/ Fingers
+Champs and Pataase Restaurant,Hawaiian Pizza,120.0,7.9,Accra,N/A,Pizza
+Champs and Pataase Restaurant,Green Salad,80.0,6.0,Accra,N/A,Salads
+Champs and Pataase Restaurant,Noodles & Vegetables,90.0,7.1,Accra,N/A,Pasta & Noodles
+Champs and Pataase Restaurant,Plain Rice Only,45.0,4.9,Accra,N/A,Side Dishes
+Champs and Pataase Restaurant,Margarita Pizza,110.0,7.5,Accra,N/A,Pizza
+Champs and Pataase Restaurant,Falafel,60.0,6.3,Accra,N/A,Starters/ Fingers
+Champs and Pataase Restaurant,Half Grilled Chicken,115.0,8.0,Accra,N/A,Chicken Dishes
+Champs and Pataase Restaurant,Spring Rolls,40.0,5.7,Accra,N/A,Starters/ Fingers
+Champs and Pataase Restaurant,Chicken Wings,110.0,7.5,Accra,N/A,Chicken Dishes
+Champs and Pataase Restaurant,Samosa,40.0,5.6,Accra,N/A,Starters/ Fingers
+Champs and Pataase Restaurant,Grilled Chicken Thigh,95.0,7.2,Accra,N/A,Chicken Dishes
+Champs and Pataase Restaurant,Pancake,45.0,6.1,Accra,N/A,Breakfast
+Champs and Pataase Restaurant,Double Decker Burger,125.0,8.3,Accra,N/A,Burger
+Champs and Pataase Restaurant,Crazy Mix & Toast,90.0,5.8,Accra,N/A,Breakfast
+Champs and Pataase Restaurant,Beef Kebab Only,75.0,7.0,Accra,N/A,Starters/ Fingers
+Champs and Pataase Restaurant,Ham Omelette & Toast,70.0,6.4,Accra,N/A,Breakfast
+Champs and Pataase Restaurant,Attieke Only,35.0,5.3,Accra,N/A,Side Dishes
+Champs and Pataase Restaurant,Combo Fried Rice,120.0,7.7,Accra,N/A,Rice Dishes
+Champs and Pataase Restaurant,Spaghetti Alfredo,125.0,8.2,Accra,N/A,Pasta & Noodles
+Champs and Pataase Restaurant,Spaghetti Olia Peperoncino,110.0,7.5,Accra,N/A,Pasta & Noodles
+Champs and Pataase Restaurant,Goat Meat Stew,120.0,7.4,Accra,N/A,Ghanaian Dishes
+Champs and Pataase Restaurant,Chicken Quesadillas,110.0,7.3,Accra,N/A,Sandwiches & Wraps
+Champs and Pataase Restaurant,Chicken Espetada,140.0,8.3,Accra,N/A,Chicken Dishes
+Champs and Pataase Restaurant,Chicken Cordon Bleu,125.0,8.1,Accra,N/A,Chicken Dishes
+Champs and Pataase Restaurant,Mushroom Provencal,85.0,6.5,Accra,N/A,Vegeterian Dishes
+Champs and Pataase Restaurant,Mix Grill,280.0,8.9,Accra,N/A,Special Platters
+Champs and Pataase Restaurant,Extra Veg Plate,45.0,5.5,Accra,N/A,Lebanese Oven
+Champs and Pataase Restaurant,Zaatar,35.0,5.4,Accra,N/A,Lebanese Oven
+Champs and Pataase Restaurant,Orijin,30.0,6.4,Accra,N/A,Beer
+Champs and Pataase Restaurant,Ginger Ale,20.0,5.7,Accra,N/A,Cold Drinks
+Champs and Pataase Restaurant,Moscow Mule,65.0,7.6,Accra,N/A,Vodka Cocktails
+Champs and Pataase Restaurant,Tequilla Sunrise,55.0,7.2,Accra,N/A,Tequila Cocktails
+Champs and Pataase Restaurant,Grilled Tilapia Fish,130.0,8.1,Accra,N/A,Seafood Dishes
+Champs and Pataase Restaurant,Sausage Pizza,110.0,7.2,Accra,N/A,Pizza
+Champs and Pataase Restaurant,Mushrooms,35.0,5.9,Accra,N/A,Breakfast
+Champs and Pataase Restaurant,Cheese Omelette & Toast,70.0,6.4,Accra,N/A,Breakfast
+Champs and Pataase Restaurant,Golden Fried Prawns,125.0,8.3,Accra,N/A,Starters/ Fingers
+Champs and Pataase Restaurant,Chicken Nuggets,70.0,6.7,Accra,N/A,Starters/ Fingers
+Champs and Pataase Restaurant,Mozzarella Sticks,70.0,7.1,Accra,N/A,Starters/ Fingers
+Champs and Pataase Restaurant,Egg Fried Rice Only,65.0,5.7,Accra,N/A,Side Dishes
+Champs and Pataase Restaurant,Chicken Corn Soup,85.0,7.2,Accra,N/A,Soups
+Champs and Pataase Restaurant,Lentil Soup,80.0,6.2,Accra,N/A,Soups
+Champs and Pataase Restaurant,Falafel Sandwich,90.0,6.9,Accra,N/A,Sandwiches & Wraps
+Champs and Pataase Restaurant,Shredded Chicken,110.0,7.5,Accra,N/A,Chicken Dishes
+Champs and Pataase Restaurant,Beef Shawarma Platter,95.0,7.4,Accra,N/A,Beef Dishes
+Champs and Pataase Restaurant,Beer Battered Fish & Chips,130.0,8.0,Accra,N/A,Seafood Dishes
+Champs and Pataase Restaurant,Fish Provencal,120.0,7.9,Accra,N/A,Seafood Dishes
+Champs and Pataase Restaurant,Vegetable Spaghetti,85.0,6.0,Accra,N/A,Vegeterian Dishes
+Champs and Pataase Restaurant,Surprise Strips Basket,200.0,8.5,Accra,N/A,Signature Basket
+Champs and Pataase Restaurant,Cheese & Zaatar,60.0,6.1,Accra,N/A,Lebanese Oven
+Champs and Pataase Restaurant,Tonic,20.0,5.8,Accra,N/A,Cold Drinks
+Champs and Pataase Restaurant,Smirnoff Ice,30.0,6.4,Accra,N/A,Beer
+Champs and Pataase Restaurant,Cappuccino,35.0,7.0,Accra,N/A,Hot Drink
+Champs and Pataase Restaurant,Classic Martini,50.0,7.7,Accra,N/A,Gin Cocktails
+Champs and Pataase Restaurant,Champs Taxi,55.0,7.5,Accra,N/A,Vodka Cocktails
+Champs and Pataase Restaurant,Chicken Bacon BBQ Pizza,151.0,8.2,Accra,N/A,Pizza
+Champs and Pataase Restaurant,Beef Pizza,140.0,7.9,Accra,N/A,Pizza
+Champs and Pataase Restaurant,Chicken Pizza,135.0,7.5,Accra,N/A,Pizza
+Champs and Pataase Restaurant,Yam Chips,50.0,5.9,Accra,N/A,Starters/ Fingers
+Champs and Pataase Restaurant,Pasta Salad,105.0,6.8,Accra,N/A,Salads
+Champs and Pataase Restaurant,Beef Wrap,120.0,7.6,Accra,N/A,Sandwiches & Wraps
+Champs and Pataase Restaurant,Chicken Bacon Skewers,110.0,7.9,Accra,N/A,Chicken Dishes
+Champs and Pataase Restaurant,Chicken Escallop with Bacon & Egg,110.0,7.4,Accra,N/A,Chicken Dishes
+Champs and Pataase Restaurant,Chicken Provencal,110.0,7.3,Accra,N/A,Chicken Dishes
+Champs and Pataase Restaurant,Veggie Quesadillas,85.0,6.8,Accra,N/A,Vegeterian Dishes
+Champs and Pataase Restaurant,Beef Basket,140.0,8.0,Accra,N/A,Signature Basket
+Champs and Pataase Restaurant,Champs Beef Burger,110.0,7.8,Accra,N/A,Burger
+Champs and Pataase Restaurant,Star,30.0,6.6,Accra,N/A,Beer
+Champs and Pataase Restaurant,Plastic Soda,15.0,5.3,Accra,N/A,Cold Drinks
+Champs and Pataase Restaurant,Cocktail Juice,20.0,6.1,Accra,N/A,Cold Drinks
+Champs and Pataase Restaurant,Long Island Ice Tea,70.0,7.8,Accra,N/A,Vodka Cocktails
+Champs and Pataase Restaurant,Kentucky Fried Chicken,110.0,7.6,Accra,N/A,Chicken Dishes
+Champs and Pataase Restaurant,Old Fashion,50.0,7.4,Accra,N/A,Whiskey Cocktails
+Champs and Pataase Restaurant,Rain Bow,70.0,7.2,Accra,N/A,Tequila Cocktails
+Champs and Pataase Restaurant,Classic Margarita,50.0,7.1,Accra,N/A,Tequila Cocktails
+Champs and Pataase Restaurant,Crepes,35.0,5.8,Accra,N/A,Breakfast
+Champs and Pataase Restaurant,Eggs Only,35.0,5.6,Accra,N/A,Breakfast
+Champs and Pataase Restaurant,Fried Rice Only,60.0,6.4,Accra,N/A,Side Dishes
+Champs and Pataase Restaurant,Spaghetti Gamberoni,115.0,7.7,Accra,N/A,Pasta & Noodles
+Champs and Pataase Restaurant,French Onion Soup,80.0,7.0,Accra,N/A,Soups
+Champs and Pataase Restaurant,Chicken Special Pasta,120.0,7.5,Accra,N/A,Pasta & Noodles
+Champs and Pataase Restaurant,Tuna Club Sandwich with Corn,75.0,6.7,Accra,N/A,Sandwiches & Wraps
+Champs and Pataase Restaurant,Chicken Escallop,110.0,7.4,Accra,N/A,Chicken Dishes
+Champs and Pataase Restaurant,Full Grilled Chicken,190.0,8.3,Accra,N/A,Chicken Dishes
+Champs and Pataase Restaurant,Mushroom Steak,115.0,7.6,Accra,N/A,Beef Dishes
+Champs and Pataase Restaurant,Beef Sandwich Platter,110.0,7.3,Accra,N/A,Beef Dishes
+Champs and Pataase Restaurant,Fish Fingers & Tartar,120.0,7.8,Accra,N/A,Seafood Dishes
+Champs and Pataase Restaurant,Divine Platter,305.0,9.0,Accra,N/A,Special Platters
+Champs and Pataase Restaurant,Seafood Basket,185.0,8.6,Accra,N/A,Signature Basket
+Champs and Pataase Restaurant,Chicken Basket,125.0,8.1,Accra,N/A,Signature Basket
+Champs and Pataase Restaurant,Champs Mini Burger,95.0,7.1,Accra,N/A,Burger
+Champs and Pataase Restaurant,Stella Artois,30.0,7.0,Accra,N/A,Beer
+Champs and Pataase Restaurant,Fresh Lemonade,35.0,7.4,Accra,N/A,Fresh Drinks & Smoothies
+Champs and Pataase Restaurant,Combo Pizza,130.0,8.0,Accra,N/A,Pizza
+Champs and Pataase Restaurant,Orgasm,55.0,7.3,Accra,N/A,Vodka Cocktails
+Champs and Pataase Restaurant,Brown Toast,25.0,5.7,Accra,N/A,Breakfast
+Champs and Pataase Restaurant,White Toast,25.0,5.5,Accra,N/A,Breakfast
+Champs and Pataase Restaurant,Vegetable Rice Only,70.0,6.3,Accra,N/A,Side Dishes
+Champs and Pataase Restaurant,Ampesi Only,45.0,6.0,Accra,N/A,Side Dishes
+Champs and Pataase Restaurant,Ghanaian Salad,100.0,6.9,Accra,N/A,Salads
+Champs and Pataase Restaurant,Cabbage & Tomato Salad,95.0,6.2,Accra,N/A,Salads
+Champs and Pataase Restaurant,Spaghetti di Mare,130.0,8.0,Accra,N/A,Pasta & Noodles
+Champs and Pataase Restaurant,Shredded Beef,120.0,7.2,Accra,N/A,Beef Dishes
+Champs and Pataase Restaurant,Garden Egg Stew,60.0,6.0,Accra,N/A,Ghanaian Dishes
+Champs and Pataase Restaurant,Savannah Dry,35.0,6.8,Accra,N/A,Beer
+Champs and Pataase Restaurant,Glass of Milk,20.0,6.0,Accra,N/A,Hot Drink
+Champs and Pataase Restaurant,Red Bull,30.0,6.7,Accra,N/A,Cold Drinks
+Champs and Pataase Restaurant,Alvaro,25.0,6.2,Accra,N/A,Cold Drinks
+Champs and Pataase Restaurant,Lipton,20.0,6.5,Accra,N/A,Hot Drink
+Champs and Pataase Restaurant,Espresso (Double),35.0,7.0,Accra,N/A,Hot Drink
+Champs and Pataase Restaurant,Paloma Blue Sky,55.0,7.3,Accra,N/A,Tequila Cocktails
+Champs and Pataase Restaurant,Paloma Special Pizza,160.0,8.4,Accra,N/A,Pizza
+Champs and Pataase Restaurant,Ice Cream Pancake,75.0,7.2,Accra,N/A,Breakfast
+Champs and Pataase Restaurant,Boiled Potatoes Only,45.0,5.9,Accra,N/A,Side Dishes
+Champs and Pataase Restaurant,Lorita - Vegeterian,140.0,7.7,Accra,N/A,Pizza
+Champs and Pataase Restaurant,French Toast,45.0,6.1,Accra,N/A,Breakfast
+Champs and Pataase Restaurant,Grilled Prawn Kebeb,125.0,8.1,Accra,N/A,Starters/ Fingers
+Champs and Pataase Restaurant,Mashed Potatoes Only,60.0,6.2,Accra,N/A,Side Dishes
+Champs and Pataase Restaurant,Gari Fortor with Tuna & Egg,75.0,6.9,Accra,N/A,Ghanaian Dishes
+Champs and Pataase Restaurant,Chicken Wings Only,75.0,7.1,Accra,N/A,Starters/ Fingers
+Champs and Pataase Restaurant,"Bacon, Lettuce & Tomato Sandwich",85.0,7.0,Accra,N/A,Sandwiches & Wraps
+Champs and Pataase Restaurant,Sautée Potatoes Only,50.0,5.8,Accra,N/A,Side Dishes
+Champs and Pataase Restaurant,Mexican Rice Only,60.0,6.1,Accra,N/A,Side Dishes
+Champs and Pataase Restaurant,Beef Jollof Rice,110.0,7.6,Accra,N/A,Rice Dishes
+Champs and Pataase Restaurant,Shrimps Cocktail,115.0,7.8,Accra,N/A,Salads
+Champs and Pataase Restaurant,Noodles & Chicken,95.0,7.3,Accra,N/A,Pasta & Noodles
+Champs and Pataase Restaurant,Vegetable Stew,60.0,6.2,Accra,N/A,Nigerian Dishes
+Champs and Pataase Restaurant,Paloma Red Red,60.0,6.9,Accra,N/A,Ghanaian Dishes
+Champs and Pataase Restaurant,Croque Monsieur,80.0,7.2,Accra,N/A,Sandwiches & Wraps
+Champs and Pataase Restaurant,Hunter's Dry,30.0,6.5,Accra,N/A,Beer
+Champs and Pataase Restaurant,Fried Chicken Thigh,95.0,7.3,Accra,N/A,Chicken Dishes
+Champs and Pataase Restaurant,Seafood Espetada,180.0,8.6,Accra,N/A,Seafood Dishes
+Champs and Pataase Restaurant,Milo,20.0,6.8,Accra,N/A,Hot Drink
+Champs and Pataase Restaurant,Kafta Kebab Dish,130.0,7.7,Accra,N/A,Beef Dishes
+Champs and Pataase Restaurant,Curried Vegetables,85.0,6.7,Accra,N/A,Vegeterian Dishes
+Champs and Pataase Restaurant,Fruitelli,50.0,5.8,Accra,N/A,Cold Drinks
+Champs and Pataase Restaurant,Mushroom Spaghetti,85.0,6.9,Accra,N/A,Vegeterian Dishes
+Champs and Pataase Restaurant,Signature Combo Basket,141.0,8.5,Accra,N/A,Signature Basket
+Champs and Pataase Restaurant,Dough Only,30.0,5.1,Accra,N/A,Lebanese Oven
+Champs and Pataase Restaurant,Cheese,50.0,6.4,Accra,N/A,Lebanese Oven
+Champs and Pataase Restaurant,JP Chenet,70.0,7.4,Accra,N/A,Wine List
+Champs and Pataase Restaurant,Guinness,30.0,6.8,Accra,N/A,Beer
+Champs and Pataase Restaurant,Nescafe,25.0,6.6,Accra,N/A,Hot Drink
+Champs and Pataase Restaurant,Assorted Fruits,35.0,6.3,Accra,N/A,Desserts
+Champs and Pataase Restaurant,Cake Only,35.0,6.7,Accra,N/A,Desserts
+Champs and Pataase Restaurant,Champs Punch Signature,55.0,7.5,Accra,N/A,Rum Cocktails
+Champs and Pataase Restaurant,Pina Colada,50.0,7.4,Accra,N/A,Rum Cocktails
+Champs and Pataase Restaurant,Seafood Pizza,200.0,8.7,Accra,N/A,Pizza
+Champs and Pataase Restaurant,Eggs & Minced Meat with Bread,75.0,6.9,Accra,N/A,Breakfast
+Champs and Pataase Restaurant,Calamari Strips,65.0,7.1,Accra,N/A,Starters/ Fingers
+Champs and Pataase Restaurant,Chicken Shawarma Platter,110.0,7.8,Accra,N/A,Chicken Dishes
+Champs and Pataase Restaurant,Jamie Champs,50.0,7.3,Accra,N/A,Whiskey Cocktails
+Champs and Pataase Restaurant,Fish in White Sauce,120.0,7.9,Accra,N/A,Seafood Dishes
+Champs and Pataase Restaurant,Beef Fried Rice,120.0,7.5,Accra,N/A,Rice Dishes
+Champs and Pataase Restaurant,Grouper Meunière,120.0,7.8,Accra,N/A,Seafood Dishes
+Champs and Pataase Restaurant,Vegeterian Basket,125.0,7.6,Accra,N/A,Signature Basket
+Champs and Pataase Restaurant,Mushroom in Garlic Sauce,85.0,6.9,Accra,N/A,Vegeterian Dishes
+Champs and Pataase Restaurant,Nederburg,40.0,6.7,Accra,N/A,Wine List
+Champs and Pataase Restaurant,Veggie Burger,110.0,7.2,Accra,N/A,Burger
+Champs and Pataase Restaurant,Breakfast Buffet,120.0,8.1,Accra,N/A,Breakfast
+Champs and Pataase Restaurant,Bacon Slices,45.0,6.3,Accra,N/A,Breakfast
+Champs and Pataase Restaurant,2 Beef Sausages,35.0,6.0,Accra,N/A,Breakfast
+Champs and Pataase Restaurant,Chicken Kebab Only,70.0,7.3,Accra,N/A,Starters/ Fingers
+Champs and Pataase Restaurant,Kelewele,50.0,6.5,Accra,N/A,Starters/ Fingers
+Champs and Pataase Restaurant,Sauté Vegetables Only,75.0,6.4,Accra,N/A,Side Dishes
+Champs and Pataase Restaurant,Seafood Fried Rice,155.0,8.2,Accra,N/A,Rice Dishes
+Champs and Pataase Restaurant,Paloma Special Rice,155.0,8.0,Accra,N/A,Rice Dishes
+Champs and Pataase Restaurant,Pasta Al Tonno Piccante,110.0,7.3,Accra,N/A,Pasta & Noodles
+Champs and Pataase Restaurant,Shrimps Fried Rice,155.0,8.1,Accra,N/A,Rice Dishes
+Champs and Pataase Restaurant,Chicken Fried Rice,110.0,7.2,Accra,N/A,Rice Dishes
+Champs and Pataase Restaurant,Pataase Jollof Rice,120.0,7.6,Accra,N/A,Rice Dishes
+Champs and Pataase Restaurant,Egg Sandwich,80.0,6.5,Accra,N/A,Sandwiches & Wraps
+Champs and Pataase Restaurant,Chicken Sandwich Platter,95.0,7.5,Accra,N/A,Chicken Dishes
+Champs and Pataase Restaurant,Beef Stragnoff,120.0,7.8,Accra,N/A,Beef Dishes
+Champs and Pataase Restaurant,Beef Espetada,130.0,8.1,Accra,N/A,Beef Dishes
+Champs and Pataase Restaurant,Grilled Seafood Platter,305.0,9.0,Accra,N/A,Special Platters
+Champs and Pataase Restaurant,Fully Loaded Burger,140.0,8.2,Accra,N/A,Burger
+Champs and Pataase Restaurant,Grilled Red Fish,125.0,8.0,Accra,N/A,Seafood Dishes
+Champs and Pataase Restaurant,Gin Fizz,50.0,7.3,Accra,N/A,Gin Cocktails
+Champs and Pataase Restaurant,Soda,20.0,5.9,Accra,N/A,Cold Drinks
+Champs and Pataase Restaurant,Hot Chocolate,25.0,6.6,Accra,N/A,Hot Drink
+Champs and Pataase Restaurant,Sliced Fruit,35.0,6.5,Accra,N/A,Desserts
+Champs and Pataase Restaurant,Mai Tai,65.0,7.9,Accra,N/A,Tequila Cocktails
+Champs and Pataase Restaurant,All Season Pizza,170.0,8.4,Accra,N/A,Pizza
+Champs and Pataase Restaurant,Housy Pizza,110.0,7.7,Accra,N/A,Pizza
+Champs and Pataase Restaurant,Paloma's Breakfast,110.0,7.5,Accra,N/A,Breakfast
+Champs and Pataase Restaurant,Baked Beans,35.0,5.9,Accra,N/A,Breakfast
+Champs and Pataase Restaurant,Fish Kebab Only,80.0,7.4,Accra,N/A,Starters/ Fingers
+Champs and Pataase Restaurant,Beef Quesadillas,120.0,7.8,Accra,N/A,Sandwiches & Wraps
+Champs and Pataase Restaurant,Full Chicken Only,170.0,8.4,Accra,N/A,Chicken Dishes
+Champs and Pataase Restaurant,Homos & Minced Meat,75.0,6.7,Accra,N/A,Starters/ Fingers
+Champs and Pataase Restaurant,Chicken Stew,110.0,7.3,Accra,N/A,Chicken Dishes
+Champs and Pataase Restaurant,Beef Cordon Bleu,120.0,7.9,Accra,N/A,Beef Dishes
+Champs and Pataase Restaurant,Hunter's Gold,30.0,6.8,Accra,N/A,Beer
+Champs and Pataase Restaurant,Gulder,30.0,6.5,Accra,N/A,Beer
+Champs and Pataase Restaurant,Ice Tea,20.0,6.2,Accra,N/A,Fresh Drinks & Smoothies
+Champs and Pataase Restaurant,Fisherman's Soup,120.0,8.0,Accra,N/A,Soups
+Champs and Pataase Restaurant,Ice Cream,25.0,6.9,Accra,N/A,Desserts
+Champs and Pataase Restaurant,Fruit Salad,30.0,7.0,Accra,N/A,Desserts
+Champs and Pataase Restaurant,Cheese & Ham Pancake,80.0,7.2,Accra,N/A,Breakfast
+Champs and Pataase Restaurant,Vegetable Omelette & Toast,70.0,6.5,Accra,N/A,Breakfast
+Champs and Pataase Restaurant,Homos with Bread,60.0,6.6,Accra,N/A,Starters/ Fingers
+Champs and Pataase Restaurant,Mushroom Soup,80.0,7.1,Accra,N/A,Soups
+Champs and Pataase Restaurant,Chicken in Garlic Sauce,115.0,7.7,Accra,N/A,Chicken Dishes
+Champs and Pataase Restaurant,Grilled Beef Fillet,130.0,8.1,Accra,N/A,Beef Dishes
+Champs and Pataase Restaurant,Noodles & Beef,110.0,7.4,Accra,N/A,Pasta & Noodles
+Champs and Pataase Restaurant,Lebanese Snack,110.0,6.8,Accra,N/A,Vegeterian Dishes
+Champs and Pataase Restaurant,Family Size Platter,280.0,8.8,Accra,N/A,Special Platters
+Champs and Pataase Restaurant,"Bacon, Sausage & Cheese Burger",125.0,8.1,Accra,N/A,Burger
+Champs and Pataase Restaurant,Water,15.0,9.4,Accra,N/A,Cold Drinks
+Champs and Pataase Restaurant,Ice Coffee,20.0,6.9,Accra,N/A,Fresh Drinks & Smoothies
+Champs and Pataase Restaurant,Pepper Steak,130.0,7.9,Accra,N/A,Beef Dishes
+Champs and Pataase Restaurant,Cake & Ice Cream,50.0,7.2,Accra,N/A,Desserts
+Champs and Pataase Restaurant,Pineapple Juice,20.0,6.8,Accra,N/A,Cold Drinks
+Champs and Pataase Restaurant,Mojito,50.0,7.7,Accra,N/A,Rum Cocktails
+Champs and Pataase Restaurant,Sex On The Beach,55.0,7.6,Accra,N/A,Vodka Cocktails
+Champs and Pataase Restaurant,Spiced Dark & Stormy,55.0,7.5,Accra,N/A,Rum Cocktails
+Champs and Pataase Restaurant,Nachos Supreme (Chicken),75.0,7.4,Accra,N/A,Starters/ Fingers
+Champs and Pataase Restaurant,Potato Chips Only,40.0,5.7,Accra,N/A,Side Dishes
+Champs and Pataase Restaurant,Beef Salad,110.0,6.9,Accra,N/A,Salads
+Champs and Pataase Restaurant,Fried Tilapia Fish,130.0,8.0,Accra,N/A,Seafood Dishes
+Champs and Pataase Restaurant,Fish Burger,110.0,7.3,Accra,N/A,Burger
+Champs and Pataase Restaurant,Ice Chocolate,20.0,6.4,Accra,N/A,Fresh Drinks & Smoothies
+Champs and Pataase Restaurant,Long Mountain,115.0,7.9,Accra,N/A,Wine List
+Champs and Pataase Restaurant,Lebanese Coffee,35.0,7.0,Accra,N/A,Hot Drink
+Champs and Pataase Restaurant,Chilli Margarita,50.0,7.3,Accra,N/A,Tequila Cocktails
+Champs and Pataase Restaurant,5  Grilled Tempura Prawns,125.0,8.2,Accra,N/A,Seafood Dishes
+Champs and Pataase Restaurant,Crispy Oyster Mushrooms,70.0,6.9,Accra,N/A,Starters/ Fingers
+Champs and Pataase Restaurant,Chef's Salad,110.0,7.1,Accra,N/A,Salads
+Champs and Pataase Restaurant,Chicken Caesar Salad,110.0,7.4,Accra,N/A,Salads
+Champs and Pataase Restaurant,Grilled Grouper Fillet,120.0,8.1,Accra,N/A,Seafood Dishes
+Champs and Pataase Restaurant,Russian Potato Salad,110.0,6.8,Accra,N/A,Salads
+Champs and Pataase Restaurant,Spaghetti Carbonara,125.0,8.0,Accra,N/A,Pasta & Noodles
+Champs and Pataase Restaurant,Orange Juice,20.0,6.5,Accra,N/A,Cold Drinks
+Champs and Pataase Restaurant,Noodles & Fish,110.0,7.3,Accra,N/A,Pasta & Noodles
+Champs and Pataase Restaurant,Grilled Chicken Fillet,110.0,7.6,Accra,N/A,Chicken Dishes
+Champs and Pataase Restaurant,Mushroom Fried Rice,85.0,6.9,Accra,N/A,Vegeterian Dishes
+Champs and Pataase Restaurant,Club Beer,30.0,6.5,Accra,N/A,Beer
+Champs and Pataase Restaurant,Espresso (Single),35.0,7.1,Accra,N/A,Hot Drink
+Garden District Kitchen,1 MegaWrap Semo,35.0,4.8,Accra,N/A,1 MegaWrap Semo
+Garden District Kitchen,1 MegaWrap of FUFU,35.0,5.6,Accra,N/A,1 MegaWrap of FUFU
+Garden District Kitchen,1 MegaWrap GARRI ,25.0,6.8,Accra,N/A,1 MegaWrap GARRI 
+Garden District Kitchen,1 Plate of Oha soup with fufu or semo,135.0,5.9,Accra,N/A,SOUP & ( FUFU OR SEMO )
+Garden District Kitchen,1 Plate of Vegetable soup with fufu or semo,135.0,9,Accra,N/A,SOUP & ( FUFU OR SEMO )
+Garden District Kitchen,1 Plate of Onubu soup with fufu or semo,125.0,8,Accra,N/A,SOUP & ( FUFU OR SEMO )
+Garden District Kitchen,1 Plate of Ogbono soup with fufu or semo,125.0,7.6,Accra,N/A,SOUP & ( FUFU OR SEMO )
+Garden District Kitchen,1 Plate of Egusi soup with fufu or semo,125.0,6.9,Accra,N/A,SOUP & ( FUFU OR SEMO )
+Garden District Kitchen,1 Plate of Okro Soup & Garri,115.0,6.7,Accra,N/A,SOUP & GARRI 
+Garden District Kitchen,1 Plate of Ogbono Soup & Garri ,115.0,6.9,Accra,N/A,SOUP & GARRI 
+Garden District Kitchen,1 Plate of Vegetable Soup & Garri,125.0,8.3,Accra,N/A,SOUP & GARRI 
+Garden District Kitchen,1 Plate of Oha soup & Garri,125.0,8.1,Accra,N/A,SOUP & GARRI 
+Garden District Kitchen,1 Plate of Egusi soup & Garri,115.0,6.2,Accra,N/A,SOUP & GARRI 
+Garden District Kitchen,1 Plate of Vegetable,105.0,5.7,Accra,N/A,A PLATE OF SOUPS ONLY
+Garden District Kitchen,1 Plate of Oha Soup,105.0,6.9,Accra,N/A,A PLATE OF SOUPS ONLY
+Garden District Kitchen,1 Plate of Ogbono Soup ,95.0,3.9,Accra,N/A,A PLATE OF SOUPS ONLY
+Garden District Kitchen,1 Plate of Okro Soup,95.0,7.7,Accra,N/A,A PLATE OF SOUPS ONLY
+Garden District Kitchen,1 Plate of Egusi Soup,95.0,8.2,Accra,N/A,A PLATE OF SOUPS ONLY
+Garden District Kitchen,Rice and Stew Assorted ,90.0,9.1,Accra,N/A,RICE
